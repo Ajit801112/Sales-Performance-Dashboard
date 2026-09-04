@@ -1,0 +1,1498 @@
+﻿Order_ID,Order_Date,Customer_Name,State,Region,Category,Sub_Category,Product_Name,Quantity,Sales,Discount,Profit
+ORD-10001,07-Oct-2025,Customer 023,Jharkhand,East,Technology,Electronics,Bluetooth Speaker,4,7978.49,0.00,1638.11
+ORD-10002,29-Nov-2025,Customer 180,Tamil Nadu,South,Technology,Phones,Smartphone X1,4,8197.73,0.00,1654.24
+ORD-10003,24-Jun-2025,Customer 072,Tamil Nadu,South,Technology,Accessories,Mechanical Keyboard,1,4846.03,0.05,859.26
+ORD-10004,06-Nov-2025,Customer 068,Maharashtra,West,Technology,Accessories,USB-C Hub,2,4645.73,0.20,408.60
+ORD-10005,13-Nov-2025,Customer 093,West Bengal,East,Furniture,Tables,Work Desk,7,10797.12,0.15,969.82
+ORD-10006,21-Feb-2025,Customer 098,Rajasthan,West,Furniture,Chairs,Ergonomic Chair,4,28919.73,0.00,5290.83
+ORD-10007,26-Dec-2025,Customer 175,Delhi,North,Office Supplies,Writing,Highlighter Pack,3,1035.58,0.10,263.49
+ORD-10008,24-Nov-2025,Customer 177,Odisha,East,Furniture,Storage,Filing Cabinet,4,7423.62,0.25,74.70
+ORD-10009,03-Feb-2025,Customer 055,Goa,West,Furniture,Tables,Work Desk,4,24352.19,0.20,1193.89
+ORD-10010,13-Mar-2025,Customer 064,Punjab,North,Technology,Electronics,Power Bank,7,28572.70,0.30,57.15
+ORD-10011,16-Feb-2025,Customer 013,Delhi,North,Furniture,Storage,Wall Shelf,7,26756.76,0.05,3948.91
+ORD-10012,28-Aug-2025,Customer 136,Jharkhand,East,Technology,Electronics,Webcam HD,7,21835.65,0.25,790.43
+ORD-10013,11-Aug-2025,Customer 041,Delhi,North,Furniture,Chairs,Ergonomic Chair,5,28780.28,0.20,1345.79
+ORD-10014,02-Jun-2025,Customer 164,Telangana,South,Technology,Electronics,Bluetooth Speaker,3,10933.66,0.00,2275.66
+ORD-10015,05-Jul-2025,Customer 079,Rajasthan,West,Technology,Accessories,Wireless Mouse,1,2921.72,0.30,-100.72
+ORD-10016,30-Sep-2025,Customer 033,Goa,West,Technology,Phones,Smartphone X1,2,9890.13,0.00,2092.74
+ORD-10017,04-Oct-2025,Customer 177,Maharashtra,West,Furniture,Tables,Study Table,5,19934.46,0.25,460.30
+ORD-10018,26-Apr-2025,Customer 017,Rajasthan,West,Furniture,Tables,Conference Table,6,19392.16,0.30,-381.84
+ORD-10019,17-Jan-2025,Customer 085,Punjab,North,Technology,Electronics,Webcam HD,4,2966.83,0.00,528.31
+ORD-10020,20-Oct-2025,Customer 148,Odisha,East,Furniture,Chairs,Visitor Chair,8,21819.96,0.05,3272.05
+ORD-10021,30-Jul-2025,Customer 120,Kerala,South,Technology,Accessories,Laptop Stand,4,3741.27,0.25,105.33
+ORD-10022,25-Feb-2025,Customer 064,West Bengal,East,Furniture,Storage,Bookshelf,1,3472.36,0.20,245.76
+ORD-10023,08-Feb-2025,Customer 114,Rajasthan,West,Technology,Electronics,Power Bank,3,8024.63,0.15,813.56
+ORD-10024,06-Sep-2025,Customer 124,Jharkhand,East,Technology,Electronics,LED Monitor 24,2,10931.27,0.10,1395.64
+ORD-10025,21-Aug-2025,Customer 074,Rajasthan,West,Office Supplies,Paper,Notebook Set,7,429.28,0.25,-5.91
+ORD-10026,24-Oct-2025,Customer 139,Tamil Nadu,South,Furniture,Storage,Wall Shelf,3,7239.25,0.10,945.00
+ORD-10027,18-Sep-2025,Customer 021,West Bengal,East,Furniture,Tables,Work Desk,1,5468.76,0.05,700.29
+ORD-10028,21-Jan-2025,Customer 159,Gujarat,West,Technology,Electronics,LED Monitor 24,4,10950.83,0.10,1497.30
+ORD-10029,22-Jul-2025,Customer 034,Odisha,East,Office Supplies,Writing,Highlighter Pack,5,989.97,0.20,85.78
+ORD-10030,20-Apr-2025,Customer 130,Uttar Pradesh,North,Office Supplies,Storage,File Folder,1,455.79,0.00,25.20
+ORD-10031,06-Oct-2025,Customer 078,Delhi,North,Technology,Accessories,USB-C Hub,4,10804.38,0.05,1794.90
+ORD-10032,24-Feb-2025,Customer 142,Bihar,East,Furniture,Storage,Drawer Unit,2,16194.94,0.05,2332.23
+ORD-10033,09-May-2025,Customer 014,Maharashtra,West,Office Supplies,Storage,Document Box,6,1259.44,0.15,231.15
+ORD-10034,15-May-2025,Customer 042,Odisha,East,Furniture,Tables,Laptop Table,1,1166.27,0.05,204.93
+ORD-10035,09-Jul-2025,Customer 150,Telangana,South,Furniture,Storage,Wall Shelf,1,1968.99,0.05,301.37
+ORD-10036,18-Apr-2025,Customer 175,Maharashtra,West,Office Supplies,Paper,A4 Paper Pack,5,1895.07,0.00,626.36
+ORD-10037,02-May-2025,Customer 042,Goa,West,Furniture,Chairs,Visitor Chair,7,58492.93,0.05,8729.89
+ORD-10038,08-May-2025,Customer 069,Gujarat,West,Office Supplies,Paper,Notebook Set,6,3247.01,0.25,454.06
+ORD-10039,24-Aug-2025,Customer 090,Gujarat,West,Furniture,Chairs,Study Chair,1,7107.32,0.10,745.24
+ORD-10040,23-May-2025,Customer 090,Uttar Pradesh,North,Technology,Phones,Smartphone X1,4,10237.75,0.15,1136.81
+ORD-10041,16-May-2025,Customer 010,Karnataka,South,Furniture,Storage,Drawer Unit,1,1784.72,0.15,70.10
+ORD-10042,23-Oct-2025,Customer 049,Jharkhand,East,Furniture,Tables,Laptop Table,6,27623.23,0.00,4944.63
+ORD-10043,05-Feb-2025,Customer 171,Delhi,North,Technology,Electronics,Power Bank,1,3343.98,0.10,418.85
+ORD-10044,23-Dec-2025,Customer 076,Punjab,North,Furniture,Tables,Work Desk,5,19333.33,0.25,296.62
+ORD-10045,01-Jan-2025,Customer 078,Maharashtra,West,Technology,Accessories,Laptop Stand,3,10888.47,0.15,1093.53
+ORD-10046,28-Mar-2025,Customer 169,Uttar Pradesh,North,Technology,Accessories,Mechanical Keyboard,8,23488.98,0.10,3173.69
+ORD-10047,26-Apr-2025,Customer 051,Odisha,East,Office Supplies,Writing,Highlighter Pack,2,1351.99,0.10,332.15
+ORD-10048,19-Nov-2025,Customer 148,Maharashtra,West,Technology,Phones,Budget Phone A2,8,33963.11,0.00,6781.92
+ORD-10049,03-Jan-2025,Customer 028,Rajasthan,West,Furniture,Storage,Wall Shelf,8,32811.42,0.05,4877.14
+ORD-10050,26-Aug-2025,Customer 171,Tamil Nadu,South,Technology,Phones,Wireless Earbuds,1,3932.95,0.00,776.14
+ORD-10051,07-May-2025,Customer 164,Punjab,North,Office Supplies,Writing,Pencil Box,8,4567.98,0.30,376.30
+ORD-10052,21-Jun-2025,Customer 082,Delhi,North,Furniture,Tables,Study Table,5,19681.78,0.15,1560.03
+ORD-10053,28-Jul-2025,Customer 085,Odisha,East,Technology,Phones,Budget Phone A2,7,29766.93,0.10,3913.95
+ORD-10054,22-Oct-2025,Customer 098,Telangana,South,Office Supplies,Paper,Notebook Set,7,2795.60,0.00,868.38
+ORD-10055,07-Oct-2025,Customer 155,Kerala,South,Technology,Accessories,Mechanical Keyboard,7,29662.49,0.25,1121.52
+ORD-10056,14-Dec-2025,Customer 104,Goa,West,Office Supplies,Paper,Sticky Notes,7,2510.69,0.25,255.68
+ORD-10057,08-Aug-2025,Customer 035,Gujarat,West,Office Supplies,Paper,A4 Paper Pack,7,3957.46,0.00,1008.24
+ORD-10058,14-Jul-2025,Unknown,Telangana,South,Technology,Phones,5G Phone Pro,7,12733.36,0.30,22.11
+ORD-10059,29-Jun-2025,Customer 058,Tamil Nadu,South,Office Supplies,Paper,Printer Paper,1,694.20,0.00,314.35
+ORD-10060,03-May-2025,Customer 033,Odisha,East,Furniture,Chairs,Ergonomic Chair,4,11020.05,0.00,2012.73
+ORD-10061,07-Nov-2025,Customer 030,Kerala,South,Furniture,Chairs,Office Chair Basic,8,42597.29,0.20,2050.13
+ORD-10062,12-Apr-2025,Customer 020,Gujarat,West,Office Supplies,Paper,A4 Paper Pack,5,2070.57,0.25,218.49
+ORD-10063,08-Aug-2025,Customer 170,Goa,West,Technology,Electronics,Bluetooth Speaker,2,10636.24,0.00,2090.58
+ORD-10064,05-Jul-2025,Customer 163,Haryana,North,Technology,Electronics,Bluetooth Speaker,1,3939.28,0.30,-74.97
+ORD-10065,03-Oct-2025,Customer 124,Telangana,South,Furniture,Chairs,Study Chair,3,17655.19,0.15,1484.37
+ORD-10066,19-Aug-2025,Customer 063,Telangana,South,Office Supplies,Writing,Highlighter Pack,6,4670.43,0.00,1254.66
+ORD-10067,19-Apr-2025,Customer 091,Telangana,South,Furniture,Storage,Wall Shelf,6,6834.53,0.20,265.37
+ORD-10068,28-Jul-2025,Customer 126,Delhi,North,Office Supplies,Storage,Pen Drive 64GB,1,453.27,0.10,-2.00
+ORD-10069,27-Jul-2025,Customer 178,Goa,West,Furniture,Tables,Conference Table,8,59079.01,0.00,10584.84
+ORD-10070,09-Oct-2025,Customer 085,Goa,West,Office Supplies,Writing,Highlighter Pack,8,3416.63,0.20,494.62
+ORD-10071,11-Jun-2025,Customer 031,Haryana,North,Furniture,Tables,Laptop Table,5,15804.74,0.00,2897.96
+ORD-10072,10-Apr-2025,Customer 076,Gujarat,West,Technology,Phones,Wireless Earbuds,5,20836.02,0.15,2251.01
+ORD-10073,28-Jan-2025,Customer 142,Goa,West,Office Supplies,Paper,Sticky Notes,1,627.55,0.05,101.15
+ORD-10074,14-Aug-2025,Customer 088,Uttar Pradesh,North,Furniture,Chairs,Study Chair,2,13612.26,0.15,1115.67
+ORD-10075,23-Oct-2025,Customer 162,Gujarat,West,Technology,Accessories,Laptop Stand,2,8202.41,0.25,305.61
+ORD-10076,02-Aug-2025,Customer 156,West Bengal,East,Technology,Phones,5G Phone Pro,2,12929.45,0.00,2599.83
+ORD-10077,14-Nov-2025,Customer 016,Goa,West,Furniture,Tables,Conference Table,8,21116.13,0.25,322.82
+ORD-10078,10-Oct-2025,Customer 020,Jharkhand,East,Technology,Electronics,Webcam HD,5,21519.80,0.05,3542.13
+ORD-10079,25-May-2025,Customer 180,Gujarat,West,Technology,Accessories,Laptop Stand,8,17202.99,0.10,2271.55
+ORD-10080,06-Oct-2025,Customer 058,Telangana,South,Technology,Electronics,Webcam HD,5,23712.31,0.10,3183.20
+ORD-10081,19-Oct-2025,Customer 074,Maharashtra,West,Office Supplies,Paper,A4 Paper Pack,1,183.65,0.15,56.33
+ORD-10082,03-Nov-2025,Customer 011,Telangana,South,Technology,Accessories,Mechanical Keyboard,7,30220.86,0.30,136.17
+ORD-10083,11-Dec-2025,Customer 069,Tamil Nadu,South,Furniture,Tables,Laptop Table,1,1912.35,0.00,464.12
+ORD-10084,09-Sep-2025,Customer 024,West Bengal,East,Technology,Accessories,Laptop Stand,5,6572.39,0.25,278.81
+ORD-10085,22-Dec-2025,Customer 127,Kerala,South,Office Supplies,Storage,Pen Drive 64GB,6,3588.20,0.05,847.23
+ORD-10086,26-Jul-2025,Customer 132,Uttar Pradesh,North,Furniture,Tables,Work Desk,8,12830.69,0.15,1016.12
+ORD-10087,13-Sep-2025,Customer 161,Bihar,East,Furniture,Storage,Wall Shelf,7,9087.63,0.20,483.81
+ORD-10088,06-Sep-2025,Customer 032,Telangana,South,Technology,Phones,5G Phone Pro,3,12769.05,0.30,155.25
+ORD-10089,17-Feb-2025,Customer 058,Bihar,East,Furniture,Storage,Filing Cabinet,3,10871.55,0.00,1969.42
+ORD-10090,20-May-2025,Customer 107,Jharkhand,East,Office Supplies,Paper,Notebook Set,8,5744.47,0.15,1050.50
+ORD-10091,22-May-2025,Customer 107,Kerala,South,Office Supplies,Paper,Printer Paper,3,1124.44,0.05,365.67
+ORD-10092,17-Aug-2025,Customer 138,Punjab,North,Furniture,Tables,Work Desk,5,24021.19,0.30,-272.66
+ORD-10093,03-May-2025,Customer 147,Kerala,South,Office Supplies,Storage,Desk Organizer,8,6083.56,0.10,1423.35
+ORD-10094,06-Dec-2025,Customer 167,Karnataka,South,Technology,Accessories,USB-C Hub,6,22586.80,0.25,819.66
+ORD-10095,22-Aug-2025,Customer 004,Maharashtra,West,Office Supplies,Paper,Notebook Set,6,3331.25,0.30,187.09
+ORD-10096,21-Dec-2025,Customer 102,Maharashtra,West,Office Supplies,Writing,Marker Set,2,790.47,0.15,105.52
+ORD-10097,19-Jan-2025,Customer 159,Odisha,East,Office Supplies,Writing,Pencil Box,6,2494.70,0.30,301.42
+ORD-10098,21-Nov-2025,Customer 026,Odisha,East,Technology,Electronics,Bluetooth Speaker,4,15093.73,0.25,680.82
+ORD-10099,11-Jul-2025,Customer 111,Telangana,South,Technology,Electronics,Bluetooth Speaker,1,966.75,0.00,143.76
+ORD-10100,15-Jul-2025,Customer 159,Maharashtra,West,Technology,Electronics,Power Bank,3,5057.72,0.00,1037.82
+ORD-10101,08-Dec-2025,Customer 003,Goa,West,Office Supplies,Writing,Marker Set,4,1557.69,0.15,274.58
+ORD-10102,03-Jun-2025,Customer 164,Telangana,South,Office Supplies,Writing,Marker Set,2,707.55,0.20,223.17
+ORD-10103,24-Feb-2025,Customer 061,Tamil Nadu,South,Furniture,Tables,Conference Table,5,10327.10,0.25,265.52
+ORD-10104,17-Oct-2025,Customer 176,Karnataka,South,Furniture,Tables,Laptop Table,5,5141.73,0.25,35.86
+ORD-10105,30-Jun-2025,Customer 057,west bengal,East,Furniture,Storage,Wall Shelf,5,32628.51,0.10,3777.97
+ORD-10106,14-Aug-2025,Customer 009,Rajasthan,West,Furniture,Tables,Study Table,2,16493.10,0.00,2922.90
+ORD-10107,09-Mar-2025,Customer 139,Haryana,North,Furniture,Chairs,Ergonomic Chair,5,14056.53,0.25,168.14
+ORD-10108,01-Jun-2025,Customer 087,Haryana,North,Furniture,Storage,Drawer Unit,3,6729.17,0.30,11.23
+ORD-10109,13-Oct-2025,Customer 094,Jharkhand,East,Office Supplies,Paper,Notebook Set,4,2355.95,0.25,388.97
+ORD-10110,23-Nov-2025,Customer 096,Odisha,East,Office Supplies,Paper,Sticky Notes,2,769.97,0.15,160.81
+ORD-10111,24-Apr-2025,Customer 166,Jharkhand,East,Furniture,Chairs,Study Chair,1,4825.97,0.20,340.96
+ORD-10112,05-Jun-2025,Customer 127,Odisha,East,Furniture,Tables,Laptop Table,7,14770.51,0.00,2765.79
+ORD-10113,21-Mar-2025,Customer 107,Jharkhand,East,Technology,Phones,Budget Phone A2,7,17488.45,0.25,676.78
+ORD-10114,16-Aug-2025,Customer 061,Jharkhand,East,Office Supplies,Writing,Pencil Box,5,427.31,0.20,-3.76
+ORD-10115,04-Mar-2025,Customer 117,Haryana,North,Technology,Electronics,Bluetooth Speaker,6,5361.07,0.15,475.06
+ORD-10116,17-Oct-2025,Customer 053,Odisha,East,Furniture,Chairs,Ergonomic Chair,1,6603.30,0.10,876.70
+ORD-10117,02-Nov-2025,Customer 001,Odisha,East,Furniture,Chairs,Office Chair Basic,4,14298.51,0.05,2178.30
+ORD-10118,03-Jul-2025,Customer 061,Delhi,North,Technology,Phones,5G Phone Pro,3,4012.72,0.00,714.18
+ORD-10119,02-Feb-2025,Customer 122,Punjab,North,Technology,Phones,5G Phone Pro,1,1076.40,0.25,46.63
+ORD-10120,04-Dec-2025,Customer 134,Telangana,South,Office Supplies,Writing,Gel Pen Pack,8,3945.18,0.00,1159.19
+ORD-10121,25-Feb-2025,Customer 126,Uttar Pradesh,North,Office Supplies,Writing,Gel Pen Pack,1,674.13,0.25,61.52
+ORD-10122,27-Oct-2025,Customer 141,Telangana,South,Technology,Phones,5G Phone Pro,3,2756.44,0.15,312.37
+ORD-10123,26-Dec-2025,Customer 030,Punjab,North,Office Supplies,Writing,Highlighter Pack,8,2967.31,0.25,252.46
+ORD-10124,18-Feb-2025,Customer 081,Rajasthan,West,Office Supplies,Storage,Document Box,7,1753.83,0.30,124.77
+ORD-10125,13-Feb-2025,Customer 024,Tamil Nadu,South,Office Supplies,Writing,Highlighter Pack,6,3620.17,0.30,203.83
+ORD-10126,30-Jul-2025,Customer 091,Tamil Nadu,South,Technology,Electronics,Bluetooth Speaker,3,9424.68,0.20,700.53
+ORD-10127,04-Sep-2025,Customer 058,Tamil Nadu,South,Furniture,Chairs,Visitor Chair,5,17742.78,0.10,1957.55
+ORD-10128,15-Oct-2025,Customer 160,Jharkhand,East,Office Supplies,Writing,Highlighter Pack,2,1269.61,0.10,346.70
+ORD-10129,29-Jun-2025,Customer 002,Bihar,East,Furniture,Storage,Drawer Unit,1,2216.16,0.15,284.00
+ORD-10130,29-Sep-2025,Customer 056,Gujarat,West,Technology,Electronics,Power Bank,2,3045.75,0.00,511.17
+ORD-10131,18-Oct-2025,Customer 153,Karnataka,South,Office Supplies,Storage,Pen Drive 64GB,3,920.26,0.20,204.48
+ORD-10132,06-Aug-2025,Customer 125,Odisha,East,Technology,Phones,Budget Phone A2,1,3917.67,0.15,387.91
+ORD-10133,14-Dec-2025,Customer 152,Telangana,South,Office Supplies,Storage,Document Box,2,726.08,0.00,151.28
+ORD-10134,04-Jun-2025,Customer 055,Kerala,South,Furniture,Storage,Drawer Unit,1,2920.04,0.00,407.45
+ORD-10135,14-Jul-2025,Customer 137,Maharashtra,West,Office Supplies,Storage,Pen Drive 64GB,2,129.51,0.25,-62.62
+ORD-10136,24-Aug-2025,Customer 020,Goa,West,Furniture,Storage,Drawer Unit,2,8594.31,0.00,1531.67
+ORD-10137,16-Jun-2025,Customer 044,Punjab,North,Furniture,Tables,Conference Table,7,18155.65,0.25,202.73
+ORD-10138,25-Jul-2025,Customer 135,Telangana,South,Furniture,Tables,Work Desk,7,49057.96,0.10,5626.23
+ORD-10139,21-Nov-2025,Customer 030,Odisha,East,Office Supplies,Storage,Pen Drive 64GB,4,1341.84,0.05,230.44
+ORD-10140,05-Nov-2025,Customer 040,Rajasthan,West,Office Supplies,Storage,Document Box,4,558.62,0.15,29.29
+ORD-10141,17-Oct-2025,Customer 165,Odisha,East,Technology,Electronics,Power Bank,8,28424.40,0.30,185.59
+ORD-10142,21-May-2025,Customer 152,Punjab,North,Furniture,Tables,Study Table,8,9702.74,0.30,-114.01
+ORD-10143,27-May-2025,Customer 020,West Bengal,East,Office Supplies,Writing,Gel Pen Pack,5,2293.14,0.00,535.73
+ORD-10144,20-Oct-2025,Customer 167,Odisha,East,Furniture,Storage,Wall Shelf,8,45812.56,0.00,8234.20
+ORD-10145,25-Jun-2025,Customer 022,Rajasthan,West,Office Supplies,Writing,Pencil Box,3,1817.20,0.30,59.30
+ORD-10146,25-May-2025,Customer 100,Gujarat,West,Technology,Phones,Wireless Earbuds,8,28420.94,0.05,4727.84
+ORD-10147,17-Jul-2025,Customer 073,Tamil Nadu,South,Office Supplies,Writing,Gel Pen Pack,6,804.29,0.00,239.11
+ORD-10148,08-Jun-2025,Customer 168,Delhi,North,Furniture,Storage,Filing Cabinet,6,10463.58,0.05,1643.40
+ORD-10149,10-Dec-2025,Customer 180,Karnataka,South,Technology,Electronics,LED Monitor 24,5,15766.99,0.20,1178.85
+ORD-10150,20-Apr-2025,Customer 088,Odisha,East,Furniture,Storage,Wall Shelf,6,6845.21,0.15,487.99
+ORD-10151,04-Oct-2025,Customer 135,Kerala,South,Technology,Phones,Budget Phone A2,3,3442.67,0.00,690.38
+ORD-10152,16-Nov-2025,Customer 043,West Bengal,East,Furniture,Tables,Study Table,7,15981.09,0.05,2436.73
+ORD-10153,18-Aug-2025,Customer 060,Telangana,South,Technology,Accessories,Mechanical Keyboard,4,21500.29,0.15,2264.35
+ORD-10154,25-May-2025,Customer 098,Goa,West,Office Supplies,Storage,Document Box,6,2672.09,0.30,217.93
+ORD-10155,11-Oct-2025,Customer 027,Tamil Nadu,South,Technology,Phones,Budget Phone A2,5,3509.25,0.30,107.33
+ORD-10156,16-Feb-2025,Customer 057,Jharkhand,East,Office Supplies,Paper,Notebook Set,5,2130.10,0.05,606.65
+ORD-10157,11-Feb-2025,Customer 096,Telangana,South,Office Supplies,Paper,Printer Paper,1,324.07,0.20,-14.80
+ORD-10158,30-Aug-2025,Customer 179,Goa,West,Technology,Accessories,USB-C Hub,6,30153.04,0.05,4939.83
+ORD-10159,18-Mar-2025,Customer 141,Maharashtra,West,Furniture,Tables,Conference Table,1,8265.69,0.00,1429.25
+ORD-10160,15-Nov-2025,Customer 118,Tamil Nadu,South,Technology,Accessories,Wireless Mouse,5,6330.24,0.10,835.34
+ORD-10161,11-Nov-2025,Customer 091,Odisha,East,Technology,Accessories,USB-C Hub,4,16549.69,0.15,1679.36
+ORD-10162,27-Sep-2025,Customer 140,Goa,West,Furniture,Tables,Study Table,2,8453.09,0.20,318.90
+ORD-10163,02-Jul-2025,Customer 018,Bihar,East,Office Supplies,Storage,File Folder,7,5262.49,0.15,1019.76
+ORD-10164,26-Nov-2025,Customer 045,Haryana,North,Technology,Electronics,LED Monitor 24,6,7074.12,0.20,506.23
+ORD-10165,14-Apr-2025,Customer 012,Telangana,South,Furniture,Tables,Study Table,3,3553.59,0.30,-164.43
+ORD-10166,28-Nov-2025,Customer 049,Rajasthan,West,Technology,Accessories,Mechanical Keyboard,7,31540.87,0.30,98.50
+ORD-10167,24-Jul-2025,Customer 113,Uttar Pradesh,North,Office Supplies,Paper,Sticky Notes,5,728.28,0.20,94.11
+ORD-10168,06-Aug-2025,Customer 021,Karnataka,South,Office Supplies,Paper,Printer Paper,8,2592.33,0.15,545.38
+ORD-10169,06-Jun-2025,Customer 115,Tamil Nadu,South,Furniture,Chairs,Visitor Chair,6,9601.27,0.20,518.68
+ORD-10170,11-Aug-2025,Customer 071,Tamil Nadu,South,Technology,Electronics,Power Bank,6,15808.09,0.20,1134.13
+ORD-10171,15-Mar-2025,Customer 156,West Bengal,East,Technology,Electronics,Power Bank,6,20952.62,0.05,3618.23
+ORD-10172,18-Oct-2025,Customer 009,Telangana,South,Technology,Phones,Smartphone X1,4,16689.25,0.20,1135.16
+ORD-10173,29-Sep-2025,Customer 094,Maharashtra,West,Furniture,Tables,Laptop Table,6,27976.36,0.00,5053.49
+ORD-10174,13-Sep-2025,Customer 133,Karnataka,South,Office Supplies,Writing,Highlighter Pack,4,3470.51,0.00,1028.30
+ORD-10175,27-May-2025,Customer 178,Karnataka,South,Furniture,Chairs,Visitor Chair,5,30111.73,0.10,3581.98
+ORD-10176,16-Dec-2025,Customer 082,Kerala,South,Technology,Phones,Budget Phone A2,2,4650.59,0.30,142.60
+ORD-10177,18-Sep-2025,Customer 058,Haryana,North,Furniture,Chairs,Visitor Chair,5,37242.96,0.05,5563.82
+ORD-10178,10-Oct-2025,Customer 034,Jharkhand,East,Technology,Phones,Budget Phone A2,8,5455.66,0.20,374.07
+ORD-10179,07-Feb-2025,Customer 033,Odisha,East,Technology,Accessories,Laptop Stand,8,22494.21,0.25,921.13
+ORD-10180,10-Oct-2025,Customer 164,Punjab,North,Furniture,Chairs,Study Chair,8,41631.04,0.20,1992.35
+ORD-10181,15-Jun-2025,Customer 058,Gujarat,West,Technology,Accessories,USB-C Hub,2,6298.49,0.15,565.11
+ORD-10182,05-Jun-2025,Customer 158,Haryana,North,Furniture,Tables,Work Desk,5,11607.41,0.15,867.65
+ORD-10183,16-Oct-2025,Customer 011,Odisha,East,Furniture,Storage,Filing Cabinet,3,6084.88,0.20,386.45
+ORD-10184,16-Jan-2025,Customer 128,Bihar,East,Technology,Phones,5G Phone Pro,4,15445.09,0.25,607.54
+ORD-10185,07-Feb-2025,Customer 177,Uttar Pradesh,North,Furniture,Tables,Conference Table,4,22429.70,0.25,343.90
+ORD-10186,10-Jun-2025,Customer 082,West Bengal,East,Technology,Accessories,Laptop Stand,8,21720.09,0.20,1546.00
+ORD-10187,19-Aug-2025,Customer 064,Haryana,North,Office Supplies,Paper,Sticky Notes,2,478.35,0.30,-49.93
+ORD-10188,23-Mar-2025,Customer 084,Maharashtra,West,Technology,Phones,5G Phone Pro,7,29988.79,0.25,1064.16
+ORD-10189,16-Feb-2025,Customer 101,Punjab,North,Technology,Phones,Wireless Earbuds,8,24431.08,0.15,2503.55
+ORD-10190,01-Dec-2025,Customer 173,Telangana,South,Technology,Phones,5G Phone Pro,1,695.19,0.30,26.88
+ORD-10191,26-Jul-2025,Customer 094,Kerala,South,Office Supplies,Writing,Gel Pen Pack,2,736.71,0.15,189.05
+ORD-10192,19-Aug-2025,Customer 141,West Bengal,East,Office Supplies,Paper,Notebook Set,6,3201.86,0.00,869.24
+ORD-10193,23-Jun-2025,Customer 143,Delhi,North,Furniture,Storage,Bookshelf,3,19812.70,0.25,316.29
+ORD-10194,31-Aug-2025,Customer 133,Haryana,North,Technology,Phones,Wireless Earbuds,1,914.62,0.05,204.46
+ORD-10195,12-Nov-2025,Customer 077,Telangana,South,Technology,Electronics,Webcam HD,6,29289.31,0.20,1969.25
+ORD-10196,11-Dec-2025,Customer 029,Punjab,North,Furniture,Storage,Wall Shelf,5,24520.81,0.00,4382.15
+ORD-10197,26-Oct-2025,Customer 123,Tamil Nadu,South,Furniture,Tables,Work Desk,8,23552.19,0.10,2761.64
+ORD-10198,25-Dec-2025,Customer 029,Gujarat,West,Furniture,Storage,Wall Shelf,3,20544.19,0.10,2250.16
+ORD-10199,10-Nov-2025,Customer 121,Rajasthan,West,Technology,Accessories,Mechanical Keyboard,7,9943.30,0.10,1320.84
+ORD-10200,10-Jun-2025,Customer 045,West Bengal,East,Furniture,Chairs,Office Chair Basic,6,37738.51,0.30,-559.96
+ORD-10201,23-May-2025,Customer 143,Telangana,South,Furniture,Tables,Laptop Table,5,26813.69,0.10,3193.34
+ORD-10202,28-Jun-2025,Customer 144,Uttar Pradesh,North,Technology,Accessories,Mechanical Keyboard,4,13169.50,0.30,21.94
+ORD-10203,28-May-2025,Customer 021,Delhi,North,Office Supplies,Paper,Printer Paper,7,4994.61,0.05,1185.87
+ORD-10204,23-Dec-2025,Customer 070,Haryana,North,Office Supplies,Writing,Highlighter Pack,8,1737.19,0.15,420.96
+ORD-10205,27-Jan-2025,Customer 026,Maharashtra,West,Technology,Electronics,Webcam HD,4,3579.98,0.10,516.40
+ORD-10206,09-Oct-2025,Customer 041,Tamil Nadu,South,Office Supplies,Writing,Pencil Box,2,1213.30,0.05,181.54
+ORD-10207,27-Nov-2025,Customer 016,Tamil Nadu,South,Furniture,Tables,Conference Table,4,24126.76,0.15,1947.54
+ORD-10208,01-Apr-2025,Customer 010,Odisha,East,Furniture,Storage,Filing Cabinet,1,7907.03,0.05,1146.58
+ORD-10209,21-Jun-2025,Customer 073,Karnataka,South,Office Supplies,Paper,Sticky Notes,1,87.60,0.00,127.36
+ORD-10210,27-Feb-2025,Customer 085,Telangana,South,Furniture,Storage,Wall Shelf,3,16460.36,0.30,-301.42
+ORD-10211,18-Oct-2025,Customer 173,Gujarat,West,Furniture,Tables,Laptop Table,3,3143.66,0.20,226.97
+ORD-10212,18-Feb-2025,Customer 048,Rajasthan,West,Technology,Electronics,Power Bank,7,25820.39,0.00,5140.28
+ORD-10213,17-May-2025,Customer 085,Maharashtra,West,Office Supplies,Storage,Document Box,1,264.46,0.10,44.08
+ORD-10214,02-Mar-2025,Customer 120,Uttar Pradesh,North,Furniture,Storage,Bookshelf,5,28344.29,0.10,3154.50
+ORD-10215,24-Apr-2025,Customer 057,Uttar Pradesh,North,Technology,Accessories,Mechanical Keyboard,2,7487.69,0.15,735.70
+ORD-10216,07-Dec-2025,Customer 056,Maharashtra,West,Office Supplies,Paper,Printer Paper,6,1768.17,0.30,212.06
+ORD-10217,16-Oct-2025,Customer 029,Goa,West,Furniture,Storage,Bookshelf,8,34046.40,0.20,1601.06
+ORD-10218,16-Apr-2025,Customer 150,West Bengal,East,Furniture,Storage,Filing Cabinet,3,5215.12,0.30,-170.33
+ORD-10219,30-Jan-2025,Customer 144,Kerala,South,Technology,Electronics,Power Bank,1,2497.43,0.25,83.29
+ORD-10220,24-Oct-2025,Customer 019,Telangana,South,Furniture,Tables,Work Desk,7,22293.36,0.00,4071.80
+ORD-10221,30-Aug-2025,Customer 009,West Bengal,East,Office Supplies,Storage,File Folder,1,846.36,0.00,353.65
+ORD-10222,13-Jul-2025,Customer 097,Uttar Pradesh,North,Office Supplies,Paper,Notebook Set,7,2032.05,0.25,226.41
+ORD-10223,25-Apr-2025,Customer 001,Odisha,East,Furniture,Storage,Filing Cabinet,6,9564.02,0.25,174.29
+ORD-10224,21-Mar-2025,Customer 071,Bihar,East,Office Supplies,Storage,Desk Organizer,7,4757.48,0.10,1013.41
+ORD-10225,04-Feb-2025,Customer 026,Rajasthan,West,Furniture,Chairs,Ergonomic Chair,7,41974.81,0.00,7493.23
+ORD-10226,04-Oct-2025,Customer 056,West Bengal,East,Office Supplies,Writing,Gel Pen Pack,4,2061.73,0.25,227.60
+ORD-10227,11-Dec-2025,Customer 083,West Bengal,East,Technology,Electronics,Bluetooth Speaker,4,17380.99,0.20,1235.26
+ORD-10228,30-Oct-2025,Customer 045,Goa,West,Office Supplies,Paper,Notebook Set,7,2284.88,0.00,653.38
+ORD-10229,13-Jun-2025,Customer 179,Tamil Nadu,South,Furniture,Tables,Work Desk,6,38449.68,0.25,741.46
+ORD-10230,26-Apr-2025,Customer 077,Tamil Nadu,South,Office Supplies,Paper,Sticky Notes,7,1130.83,0.30,33.95
+ORD-10231,11-May-2025,Customer 053,Maharashtra,West,Office Supplies,Paper,Printer Paper,7,3570.88,0.05,857.01
+ORD-10232,13-Jul-2025,Customer 173,Punjab,North,Furniture,Chairs,Study Chair,6,10374.58,0.10,1085.45
+ORD-10233,08-Jan-2025,Customer 055,West Bengal,East,Technology,Phones,Budget Phone A2,8,12233.96,0.20,809.14
+ORD-10234,03-May-2025,Customer 142,Rajasthan,West,Furniture,Chairs,Study Chair,4,23853.19,0.10,2718.31
+ORD-10235,12-Sep-2025,Customer 120,Punjab,North,Office Supplies,Storage,Desk Organizer,6,1597.95,0.20,242.77
+ORD-10236,24-Apr-2025,Customer 038,Jharkhand,East,Furniture,Tables,Laptop Table,4,12274.50,0.25,105.78
+ORD-10237,19-Oct-2025,Customer 063,Bihar,East,Office Supplies,Writing,Pencil Box,5,819.91,0.20,58.19
+ORD-10238,25-Nov-2025,Customer 126,Kerala,South,Furniture,Storage,Drawer Unit,5,25039.75,0.30,-263.63
+ORD-10239,05-Oct-2025,Customer 165,Telangana,South,Technology,Electronics,Bluetooth Speaker,3,3174.69,0.30,-59.96
+ORD-10240,19-Nov-2025,Customer 060,West Bengal,East,Furniture,Chairs,Ergonomic Chair,1,5371.38,0.25,7.00
+ORD-10241,23-Nov-2025,Customer 171,Odisha,East,Furniture,Chairs,Ergonomic Chair,4,16463.09,0.20,717.66
+ORD-10242,29-Sep-2025,Customer 071,Kerala,South,Furniture,Tables,Work Desk,1,4013.44,0.25,-46.92
+ORD-10243,04-May-2025,Customer 050,Uttar Pradesh,North,Technology,Electronics,Power Bank,3,3962.09,0.00,798.27
+ORD-10244,05-May-2025,Customer 179,Delhi,North,Office Supplies,Storage,Desk Organizer,2,578.85,0.25,58.17
+ORD-10245,01-Sep-2025,Customer 015,Goa,West,Office Supplies,Writing,Gel Pen Pack,1,117.50,0.25,-15.67
+ORD-10246,18-Feb-2025,Customer 136,Bihar,East,Furniture,Chairs,Ergonomic Chair,8,49878.86,0.20,2509.75
+ORD-10247,24-May-2025,Customer 140,West Bengal,East,Technology,Phones,Wireless Earbuds,5,4850.30,0.00,1014.32
+ORD-10248,03-Jun-2025,Customer 042,West Bengal,East,Technology,Accessories,USB-C Hub,4,12314.43,0.25,564.72
+ORD-10249,19-Dec-2025,Customer 021,Goa,West,Furniture,Tables,Laptop Table,7,47173.45,0.05,7027.80
+ORD-10250,11-Nov-2025,Customer 153,Haryana,North,Technology,Phones,Wireless Earbuds,4,17805.80,0.20,1271.65
+ORD-10251,12-Jul-2025,Customer 111,Karnataka,South,Office Supplies,Paper,Sticky Notes,8,3086.69,0.20,475.73
+ORD-10252,07-Feb-2025,Customer 022,Gujarat,West,Furniture,Storage,Wall Shelf,2,12278.94,0.15,1084.55
+ORD-10253,07-Jun-2025,Customer 114,Delhi,North,Technology,Accessories,Wireless Mouse,7,17757.14,0.00,3453.39
+ORD-10254,20-Sep-2025,Customer 105,Haryana,North,Office Supplies,Paper,Notebook Set,2,327.13,0.30,41.48
+ORD-10255,07-Jan-2025,Customer 075,Jharkhand,East,Technology,Phones,5G Phone Pro,2,6659.46,0.20,553.45
+ORD-10256,04-Jun-2025,Customer 069,Tamil Nadu,South,Office Supplies,Paper,Notebook Set,3,1829.58,0.05,366.14
+ORD-10257,09-Feb-2025,Customer 093,Kerala,South,Technology,Phones,Budget Phone A2,7,13688.44,0.15,1399.28
+ORD-10258,22-Jul-2025,Customer 086,Delhi,North,Technology,Electronics,Power Bank,4,12751.27,0.05,2088.96
+ORD-10259,05-Nov-2025,Customer 178,Karnataka,South,Office Supplies,Storage,Pen Drive 64GB,7,4978.79,0.05,1184.35
+ORD-10260,21-Nov-2025,Customer 126,Rajasthan,West,Office Supplies,Storage,Document Box,7,5202.41,0.15,1005.81
+ORD-10261,07-Oct-2025,Customer 047,Goa,West,Office Supplies,Storage,Pen Drive 64GB,7,2389.67,0.10,535.91
+ORD-10262,29-Jul-2025,Customer 173,Bihar,East,Furniture,Tables,Study Table,8,59375.58,0.00,10764.16
+ORD-10263,13-Jul-2025,Customer 019,Kerala,South,Technology,Electronics,Bluetooth Speaker,4,8229.10,0.05,1430.03
+ORD-10264,02-Oct-2025,Customer 153,Telangana,South,Furniture,Tables,Conference Table,7,30466.42,0.20,1571.71
+ORD-10265,27-Nov-2025,Customer 174,Odisha,East,Technology,Phones,5G Phone Pro,3,13357.80,0.00,2686.73
+ORD-10266,23-Sep-2025,Customer 143,Karnataka,South,Office Supplies,Storage,File Folder,1,144.77,0.10,33.69
+ORD-10267,13-Jan-2025,Customer 124,Goa,West,Office Supplies,Storage,Desk Organizer,8,5421.24,0.05,1304.55
+ORD-10268,25-Jun-2025,Customer 117,Jharkhand,East,Office Supplies,Storage,File Folder,2,1447.19,0.05,321.78
+ORD-10269,03-Jun-2025,Customer 012,Rajasthan,West,Furniture,Tables,Laptop Table,8,10984.17,0.30,-208.22
+ORD-10270,10-Oct-2025,Customer 041,Jharkhand,East,Technology,Accessories,USB-C Hub,3,16452.59,0.10,2224.94
+ORD-10271,03-Dec-2025,Customer 111,Punjab,North,Furniture,Tables,Conference Table,4,28205.48,0.05,4085.04
+ORD-10272,20-Apr-2025,Customer 053,Karnataka,South,Technology,Electronics,Webcam HD,8,24808.67,0.25,811.39
+ORD-10273,15-May-2025,Customer 172,Delhi,North,Furniture,Chairs,Ergonomic Chair,3,10943.60,0.10,1248.33
+ORD-10274,23-Aug-2025,Customer 159,Kerala,South,Furniture,Storage,Drawer Unit,7,41777.44,0.00,7483.44
+ORD-10275,06-Jun-2025,Customer 030,Gujarat,West,Furniture,Storage,Drawer Unit,2,10307.93,0.20,423.68
+ORD-10276,05-Aug-2025,Customer 048,Gujarat,West,Office Supplies,Writing,Marker Set,7,2812.66,0.05,714.09
+ORD-10277,19-Aug-2025,Customer 159,Kerala,South,Furniture,Storage,Filing Cabinet,3,14304.74,0.05,2034.85
+ORD-10278,16-Sep-2025,Customer 168,West Bengal,East,Office Supplies,Paper,Printer Paper,3,540.01,0.25,174.77
+ORD-10279,12-Feb-2025,Customer 145,Kerala,South,Office Supplies,Writing,Pencil Box,7,3245.35,0.30,273.14
+ORD-10280,23-Aug-2025,Customer 145,Bihar,East,Technology,Accessories,USB-C Hub,5,8517.39,0.15,793.40
+ORD-10281,22-Jan-2025,Customer 113,Kerala,South,Furniture,Storage,Bookshelf,2,5263.25,0.20,273.25
+ORD-10282,28-Jun-2025,Customer 023,Rajasthan,West,Office Supplies,Paper,Notebook Set,5,3986.72,0.00,1104.22
+ORD-10283,13-Mar-2025,Customer 053,Telangana,South,Technology,Phones,Budget Phone A2,6,25623.37,0.25,880.71
+ORD-10284,27-Dec-2025,Customer 075,Rajasthan,West,Technology,Electronics,Bluetooth Speaker,5,19768.43,0.05,3268.89
+ORD-10285,22-May-2025,Customer 168,Uttar Pradesh,North,Furniture,Tables,Work Desk,3,19596.65,0.25,443.45
+ORD-10286,13-Dec-2025,Customer 101,Maharashtra,West,Furniture,Chairs,Office Chair Basic,3,18221.98,0.10,2158.28
+ORD-10287,17-Feb-2025,Customer 104,Kerala,South,Technology,Electronics,Bluetooth Speaker,7,20132.00,0.00,4058.47
+ORD-10288,17-Feb-2025,Customer 118,Delhi,North,Furniture,Tables,Conference Table,8,30022.85,0.00,5492.65
+ORD-10289,15-Jun-2025,Customer 073,Haryana,North,Technology,Electronics,Power Bank,4,22734.52,0.10,3067.89
+ORD-10290,17-Nov-2025,Customer 118,Punjab,North,Furniture,Storage,Filing Cabinet,8,58790.15,0.00,10473.25
+ORD-10291,19-Dec-2025,Customer 034,Bihar,East,Technology,Phones,Wireless Earbuds,8,4223.52,0.25,86.94
+ORD-10292,29-Nov-2025,Customer 043,Uttar Pradesh,North,Technology,Accessories,USB-C Hub,6,10330.84,0.20,762.64
+ORD-10293,01-Jan-2025,Customer 055,West Bengal,East,Office Supplies,Writing,Highlighter Pack,4,1727.88,0.00,532.69
+ORD-10294,05-Aug-2025,Customer 178,Kerala,South,Technology,Phones,Budget Phone A2,8,4824.73,0.20,413.84
+ORD-10295,08-Jul-2025,Customer 077,Maharashtra,West,Office Supplies,Paper,Notebook Set,7,1072.76,0.00,205.14
+ORD-10296,26-Mar-2025,Customer 113,Maharashtra,West,Office Supplies,Paper,Notebook Set,2,1030.03,0.00,314.89
+ORD-10297,14-Feb-2025,Customer 026,Haryana,North,Furniture,Chairs,Office Chair Basic,7,29426.43,0.30,-355.01
+ORD-10298,07-May-2025,Customer 071,Maharashtra,West,Technology,Electronics,Power Bank,6,30176.84,0.20,2182.24
+ORD-10299,07-Nov-2025,Customer 131,Odisha,East,Technology,Electronics,Bluetooth Speaker,1,4775.11,0.15,418.76
+ORD-10300,27-Feb-2025,Customer 062,Rajasthan,West,Furniture,Tables,Laptop Table,1,6582.29,0.10,755.74
+ORD-10301,19-Oct-2025,Customer 108,Kerala,South,Furniture,Storage,Bookshelf,1,7118.15,0.20,267.58
+ORD-10302,04-Feb-2025,Customer 004,Haryana,North,Furniture,Storage,Filing Cabinet,8,69157.87,0.00,12332.42
+ORD-10303,25-Jul-2025,Customer 022,Delhi,North,Technology,Phones,Smartphone X1,7,19101.29,0.25,697.96
+ORD-10304,21-Mar-2025,Customer 138,Maharashtra,West,Office Supplies,Paper,Sticky Notes,2,898.69,0.10,307.05
+ORD-10305,14-Feb-2025,Customer 112,Punjab,North,Office Supplies,Writing,Gel Pen Pack,5,2938.11,0.10,525.59
+ORD-10306,29-Dec-2025,Customer 036,Jharkhand,East,Office Supplies,Writing,Gel Pen Pack,5,2974.38,0.05,644.83
+ORD-10307,18-May-2025,Customer 031,Bihar,East,Technology,Accessories,Mechanical Keyboard,5,7924.83,0.05,1387.36
+ORD-10308,19-Sep-2025,Customer 093,Bihar,East,Office Supplies,Storage,Pen Drive 64GB,2,591.24,0.00,164.62
+ORD-10309,12-Dec-2025,Customer 030,West Bengal,East,Office Supplies,Writing,Marker Set,6,1253.97,0.00,445.74
+ORD-10310,30-Aug-2025,Customer 094,Goa,West,Furniture,Storage,Bookshelf,1,7897.77,0.00,1360.29
+ORD-10311,13-Jun-2025,Customer 070,Karnataka,South,Technology,Phones,Smartphone X1,7,12613.79,0.10,1682.76
+ORD-10312,05-Feb-2025,Customer 120,Odisha,East,Furniture,Tables,Work Desk,1,2598.89,0.00,576.78
+ORD-10313,05-Jun-2025,Unknown,Uttar Pradesh,North,Office Supplies,Storage,File Folder,8,623.05,0.10,83.94
+ORD-10314,29-Jul-2025,Customer 007,Goa,West,Office Supplies,Storage,Desk Organizer,4,2450.23,0.10,442.94
+ORD-10315,07-Jun-2025,Customer 027,Goa,West,Furniture,Tables,Work Desk,6,5451.32,0.25,179.16
+ORD-10316,17-Feb-2025,Customer 012,Rajasthan,West,Furniture,Chairs,Study Chair,8,66099.05,0.05,9800.41
+ORD-10317,16-Sep-2025,Customer 035,Goa,West,Furniture,Tables,Laptop Table,8,70412.22,0.00,12693.58
+ORD-10318,14-May-2025,Customer 081,Karnataka,South,Technology,Electronics,LED Monitor 24,7,30205.46,0.05,4996.24
+ORD-10319,14-Apr-2025,Customer 035,Karnataka,South,Furniture,Storage,Drawer Unit,6,25550.16,0.10,2836.19
+ORD-10320,03-Jul-2025,Customer 054,Jharkhand,East,Technology,Phones,Budget Phone A2,8,20418.72,0.25,674.68
+ORD-10321,23-Dec-2025,Customer 155,Telangana,South,Office Supplies,Storage,Pen Drive 64GB,2,262.05,0.15,126.16
+ORD-10322,26-Jan-2025,Customer 174,West Bengal,East,Technology,Accessories,Wireless Mouse,2,7719.54,0.20,515.47
+ORD-10323,22-Feb-2025,Customer 036,Uttar Pradesh,North,Office Supplies,Paper,A4 Paper Pack,7,4918.87,0.10,960.29
+ORD-10324,19-Nov-2025,Customer 166,Jharkhand,East,Technology,Phones,Budget Phone A2,3,4160.64,0.25,125.36
+ORD-10325,27-Nov-2025,Customer 114,Odisha,East,Furniture,Storage,Drawer Unit,2,2740.08,0.00,420.67
+ORD-10326,21-Oct-2025,Customer 111,Maharashtra,West,Technology,Accessories,USB-C Hub,1,6165.23,0.00,1153.36
+ORD-10327,21-May-2025,Customer 072,Karnataka,South,Office Supplies,Paper,Printer Paper,7,1396.72,0.10,398.29
+ORD-10328,24-May-2025,Customer 099,Telangana,South,Technology,Phones,Budget Phone A2,5,12577.50,0.30,-42.48
+ORD-10329,06-Sep-2025,Customer 089,Maharashtra,West,Office Supplies,Paper,Notebook Set,1,713.05,0.20,102.08
+ORD-10330,24-May-2025,Customer 015,Punjab,North,Office Supplies,Storage,Document Box,1,307.33,0.10,-46.89
+ORD-10331,29-Jan-2025,Customer 057,Kerala,South,Furniture,Tables,Study Table,3,5348.83,0.10,559.08
+ORD-10332,15-Jan-2025,Customer 180,Karnataka,South,Office Supplies,Paper,Notebook Set,4,1810.77,0.20,370.97
+ORD-10333,31-Mar-2025,Customer 126,Haryana,North,Furniture,Storage,Filing Cabinet,4,21633.46,0.30,-314.39
+ORD-10334,11-Nov-2025,Customer 052,West Bengal,East,Technology,Phones,Budget Phone A2,4,2283.63,0.30,-108.42
+ORD-10335,14-Mar-2025,Customer 029,Maharashtra,West,Office Supplies,Writing,Marker Set,6,734.36,0.05,202.54
+ORD-10336,22-Mar-2025,Customer 112,Haryana,North,Technology,Accessories,Laptop Stand,2,4243.29,0.20,209.78
+ORD-10337,19-Dec-2025,Customer 076,Kerala,South,Furniture,Tables,Study Table,6,16765.13,0.05,2443.67
+ORD-10338,12-Jun-2025,Customer 157,Maharashtra,West,Technology,Electronics,LED Monitor 24,7,39440.73,0.00,7811.85
+ORD-10339,13-Jun-2025,Customer 043,Goa,West,Furniture,Storage,Bookshelf,8,18376.15,0.00,3244.83
+ORD-10340,04-Feb-2025,Customer 090,Odisha,East,Furniture,Storage,Drawer Unit,8,9279.98,0.10,1007.09
+ORD-10341,31-Jul-2025,Customer 127,Delhi,North,Technology,Electronics,LED Monitor 24,1,2203.83,0.25,195.23
+ORD-10342,07-Feb-2025,Customer 009,Karnataka,South,Office Supplies,Writing,Pencil Box,2,1367.32,0.10,213.01
+ORD-10343,24-Mar-2025,Customer 020,Uttar Pradesh,North,Technology,Accessories,Mechanical Keyboard,2,2147.69,0.05,452.84
+ORD-10344,11-Aug-2025,Customer 041,Odisha,East,Office Supplies,Writing,Pencil Box,1,412.00,0.05,127.73
+ORD-10345,02-Jun-2025,Customer 061,West Bengal,East,Technology,Accessories,Wireless Mouse,4,10451.00,0.15,1109.77
+ORD-10346,31-May-2025,Customer 170,Jharkhand,East,Technology,Accessories,Laptop Stand,3,3048.38,0.00,592.30
+ORD-10347,31-Aug-2025,Customer 030,Kerala,South,Technology,Phones,Smartphone X1,4,5748.81,0.15,703.75
+ORD-10348,15-Jul-2025,Customer 095,Uttar Pradesh,North,Office Supplies,Storage,Desk Organizer,5,580.25,0.25,-7.45
+ORD-10349,16-Oct-2025,Customer 016,Gujarat,West,Office Supplies,Paper,Sticky Notes,8,3321.70,0.10,795.06
+ORD-10350,29-Oct-2025,Customer 059,Maharashtra,West,Furniture,Storage,Bookshelf,2,9617.25,0.25,281.27
+ORD-10351,10-Feb-2025,Customer 102,West Bengal,East,Office Supplies,Writing,Pencil Box,8,3957.31,0.10,845.12
+ORD-10352,27-Mar-2025,Customer 055,West Bengal,East,Furniture,Storage,Filing Cabinet,2,12045.86,0.30,-259.20
+ORD-10353,18-Nov-2025,Customer 038,Rajasthan,West,Technology,Phones,Wireless Earbuds,2,9648.04,0.25,290.26
+ORD-10354,22-May-2025,Customer 134,Delhi,North,Office Supplies,Writing,Gel Pen Pack,2,597.36,0.25,82.68
+ORD-10355,26-Oct-2025,Customer 026,Telangana,South,Technology,Electronics,Power Bank,2,5897.16,0.05,1003.76
+ORD-10356,06-Sep-2025,Customer 147,Jharkhand,East,Furniture,Chairs,Visitor Chair,6,41042.61,0.15,3357.95
+ORD-10357,19-Jun-2025,Customer 177,Kerala,South,Technology,Phones,5G Phone Pro,7,8055.31,0.25,191.38
+ORD-10358,05-Jun-2025,Customer 080,Goa,West,Technology,Electronics,Power Bank,5,29513.91,0.00,5863.87
+ORD-10359,14-Jun-2025,Customer 069,Delhi,North,Office Supplies,Writing,Gel Pen Pack,4,532.55,0.30,111.03
+ORD-10360,22-Sep-2025,Customer 096,Tamil Nadu,South,Furniture,Storage,Bookshelf,4,13936.17,0.25,301.71
+ORD-10361,26-Sep-2025,Customer 146,West Bengal,East,Furniture,Chairs,Ergonomic Chair,5,25254.90,0.25,354.52
+ORD-10362,04-Jul-2025,Customer 051,Bihar,East,Technology,Phones,Budget Phone A2,1,1502.93,0.30,-100.35
+ORD-10363,01-Nov-2025,Customer 115,Delhi,North,Office Supplies,Storage,Desk Organizer,2,1149.41,0.10,216.52
+ORD-10364,19-Dec-2025,Customer 024,Gujarat,West,Office Supplies,Writing,Highlighter Pack,6,1091.81,0.15,259.01
+ORD-10365,28-Nov-2025,Customer 058,Uttar Pradesh,North,Technology,Accessories,USB-C Hub,3,15260.84,0.10,2145.92
+ORD-10366,09-Mar-2025,Customer 166,Rajasthan,West,Office Supplies,Writing,Pencil Box,1,789.00,0.00,214.70
+ORD-10367,30-Dec-2025,Customer 165,Gujarat,West,Furniture,Chairs,Office Chair Basic,5,25266.60,0.15,2135.55
+ORD-10368,24-Sep-2025,Customer 160,Delhi,North,Office Supplies,Storage,Pen Drive 64GB,8,1605.18,0.30,88.96
+ORD-10369,25-Feb-2025,Customer 124,Karnataka,South,Furniture,Chairs,Ergonomic Chair,6,28454.76,0.15,2299.15
+ORD-10370,22-Sep-2025,Customer 062,Odisha,East,Office Supplies,Storage,Pen Drive 64GB,5,1250.10,0.15,153.35
+ORD-10371,13-May-2025,Customer 108,West Bengal,East,Furniture,Tables,Laptop Table,3,14334.62,0.30,-95.63
+ORD-10372,23-Nov-2025,Customer 122,Karnataka,South,Office Supplies,Writing,Gel Pen Pack,4,1301.03,0.10,324.44
+ORD-10373,13-May-2025,Customer 144,Haryana,North,Furniture,Tables,Study Table,3,7332.18,0.30,-199.28
+ORD-10374,19-Jun-2025,Customer 096,Gujarat,West,Furniture,Tables,Work Desk,4,13502.12,0.15,1094.84
+ORD-10375,10-Apr-2025,Customer 129,Delhi,North,Furniture,Tables,Conference Table,2,9740.37,0.00,1746.60
+ORD-10376,13-Apr-2025,Customer 088,Jharkhand,East,Furniture,Tables,Laptop Table,7,10784.19,0.05,1503.64
+ORD-10377,07-Sep-2025,Customer 086,Tamil Nadu,South,Furniture,Tables,Study Table,6,45182.03,0.05,6731.30
+ORD-10378,28-Mar-2025,Customer 148,Gujarat,West,Office Supplies,Writing,Gel Pen Pack,1,405.62,0.10,149.89
+ORD-10379,02-Sep-2025,Customer 099,Gujarat,West,Office Supplies,Paper,Notebook Set,7,3147.16,0.25,352.76
+ORD-10380,29-Sep-2025,Customer 049,Bihar,East,Technology,Electronics,Webcam HD,6,29809.91,0.20,2148.34
+ORD-10381,22-Feb-2025,Customer 099,Bihar,East,Furniture,Chairs,Office Chair Basic,4,21150.38,0.20,1012.42
+ORD-10382,02-Nov-2025,Customer 135,Uttar Pradesh,North,Technology,Phones,Smartphone X1,5,21703.81,0.30,163.20
+ORD-10383,07-Apr-2025,Customer 043,Punjab,North,Office Supplies,Writing,Marker Set,6,3766.70,0.30,286.39
+ORD-10384,28-Mar-2025,Customer 032,Karnataka,South,Technology,Phones,Budget Phone A2,3,5774.71,0.00,1176.47
+ORD-10385,16-Nov-2025,Customer 013,Haryana,North,Furniture,Storage,Bookshelf,7,47820.41,0.15,4010.28
+ORD-10386,05-Mar-2025,Customer 141,West Bengal,East,Furniture,Chairs,Ergonomic Chair,1,4935.04,0.25,73.00
+ORD-10387,05-Dec-2025,Customer 026,Delhi,North,Office Supplies,Writing,Marker Set,4,2600.23,0.00,680.33
+ORD-10388,13-Nov-2025,Customer 031,Delhi,North,Furniture,Storage,Filing Cabinet,7,53753.64,0.00,9678.44
+ORD-10389,14-Apr-2025,Customer 092,Uttar Pradesh,North,Technology,Phones,Wireless Earbuds,4,14389.52,0.15,1554.49
+ORD-10390,02-Jan-2025,Customer 004,Tamil Nadu,South,Office Supplies,Paper,A4 Paper Pack,8,4628.36,0.30,352.76
+ORD-10391,21-Feb-2025,Customer 066,Odisha,East,Technology,Electronics,Power Bank,3,18620.36,0.00,3777.73
+ORD-10392,29-May-2025,Customer 093,Goa,West,Office Supplies,Storage,Pen Drive 64GB,8,920.10,0.05,317.52
+ORD-10393,12-Mar-2025,Customer 170,Punjab,North,Office Supplies,Writing,Gel Pen Pack,2,1556.04,0.00,318.01
+ORD-10394,25-Jun-2025,Customer 047,Gujarat,West,Office Supplies,Storage,Desk Organizer,5,4001.75,0.00,1089.92
+ORD-10395,29-Nov-2025,Customer 043,Jharkhand,East,Office Supplies,Storage,Desk Organizer,5,2678.48,0.30,299.65
+ORD-10396,14-Dec-2025,Customer 113,Jharkhand,East,Technology,Electronics,LED Monitor 24,3,2733.23,0.30,86.21
+ORD-10397,07-Sep-2025,Customer 029,Gujarat,West,Furniture,Tables,Laptop Table,1,7531.69,0.05,1106.86
+ORD-10398,14-Dec-2025,Customer 135,Tamil Nadu,South,Office Supplies,Paper,A4 Paper Pack,5,3085.39,0.00,913.01
+ORD-10399,06-Dec-2025,Customer 174,Goa,West,Furniture,Tables,Work Desk,7,40076.59,0.10,4604.47
+ORD-10400,29-Aug-2025,Customer 127,Karnataka,South,Technology,Electronics,LED Monitor 24,1,4210.13,0.05,706.53
+ORD-10401,25-Apr-2025,Customer 141,Gujarat,West,Technology,Accessories,Mechanical Keyboard,4,8905.25,0.15,804.87
+ORD-10402,13-Sep-2025,Customer 115,Karnataka,South,Office Supplies,Paper,A4 Paper Pack,8,2487.72,0.30,112.58
+ORD-10403,01-Jan-2025,Customer 024,Punjab,North,Technology,Accessories,USB-C Hub,2,6079.90,0.00,1229.69
+ORD-10404,25-Apr-2025,Customer 117,Uttar Pradesh,North,Furniture,Storage,Filing Cabinet,8,55121.73,0.20,2834.16
+ORD-10405,04-Dec-2025,Customer 057,Punjab,North,Furniture,Storage,Wall Shelf,6,40704.75,0.00,7230.24
+ORD-10406,10-Sep-2025,Customer 036,Bihar,East,Office Supplies,Storage,Pen Drive 64GB,6,3934.31,0.00,1196.86
+ORD-10407,08-Apr-2025,Customer 087,Tamil Nadu,South,Technology,Accessories,Wireless Mouse,4,4200.98,0.25,89.28
+ORD-10408,03-Jan-2025,Customer 136,Jharkhand,East,Office Supplies,Paper,A4 Paper Pack,8,3458.44,0.05,967.29
+ORD-10409,07-Mar-2025,Customer 027,West Bengal,East,Furniture,Tables,Conference Table,3,18799.11,0.05,2828.19
+ORD-10410,25-Jun-2025,Customer 076,Karnataka,South,Furniture,Storage,Drawer Unit,7,28133.19,0.10,3180.98
+ORD-10411,11-Oct-2025,Customer 162,Telangana,South,Technology,Phones,Wireless Earbuds,5,22359.33,0.20,1616.00
+ORD-10412,29-Nov-2025,Customer 046,Rajasthan,West,Technology,Phones,5G Phone Pro,6,34444.60,0.05,5884.99
+ORD-10413,01-Oct-2025,Customer 074,Punjab,North,Furniture,Chairs,Visitor Chair,8,34475.33,0.25,645.14
+ORD-10414,13-Apr-2025,Customer 069,Tamil Nadu,South,Technology,Electronics,LED Monitor 24,1,2909.05,0.00,622.67
+ORD-10415,05-Oct-2025,Customer 009,Gujarat,West,Office Supplies,Writing,Highlighter Pack,3,1959.15,0.15,286.51
+ORD-10416,25-Jan-2025,Customer 098,Haryana,North,Office Supplies,Paper,Notebook Set,7,1635.23,0.15,344.73
+ORD-10417,15-Aug-2025,Customer 058,Karnataka,South,Office Supplies,Writing,Highlighter Pack,1,77.04,0.15,-57.20
+ORD-10418,08-Feb-2025,Customer 048,Haryana,North,Furniture,Storage,Filing Cabinet,4,13279.43,0.05,2074.74
+ORD-10419,08-Mar-2025,Customer 042,Gujarat,West,Furniture,Storage,Bookshelf,7,9025.83,0.15,758.21
+ORD-10420,17-Nov-2025,Customer 158,Delhi,North,Technology,Accessories,Laptop Stand,3,2235.97,0.20,179.77
+ORD-10421,05-Apr-2025,Customer 134,Uttar Pradesh,North,Office Supplies,Writing,Highlighter Pack,2,1156.65,0.20,179.59
+ORD-10422,06-Dec-2025,Customer 085,Odisha,East,Furniture,Chairs,Study Chair,7,12078.20,0.10,1481.01
+ORD-10423,27-Jun-2025,Customer 115,Punjab,North,Office Supplies,Storage,Document Box,8,7177.90,0.00,1917.35
+ORD-10424,28-Feb-2025,Customer 099,Goa,West,Furniture,Storage,Filing Cabinet,1,5219.12,0.20,232.49
+ORD-10425,18-Sep-2025,Customer 115,Delhi,North,Furniture,Storage,Drawer Unit,1,6646.74,0.20,335.77
+ORD-10426,03-Oct-2025,Customer 137,Kerala,South,Technology,Accessories,Wireless Mouse,6,22083.54,0.00,4336.88
+ORD-10427,16-Apr-2025,Customer 138,Bihar,East,Furniture,Chairs,Office Chair Basic,4,23839.85,0.25,497.76
+ORD-10428,07-Feb-2025,Customer 014,Tamil Nadu,South,Furniture,Chairs,Office Chair Basic,1,3825.57,0.20,80.37
+ORD-10429,19-Nov-2025,Customer 104,Gujarat,West,Office Supplies,Writing,Gel Pen Pack,4,2481.03,0.25,264.65
+ORD-10430,27-Oct-2025,Customer 012,Tamil Nadu,South,Office Supplies,Paper,Printer Paper,2,1037.13,0.00,351.83
+ORD-10431,25-May-2025,Customer 113,Odisha,East,Office Supplies,Writing,Gel Pen Pack,5,3082.32,0.15,588.10
+ORD-10432,20-Jul-2025,Customer 140,Karnataka,South,Office Supplies,Writing,Gel Pen Pack,8,1498.93,0.10,235.00
+ORD-10433,12-Oct-2025,Customer 037,Uttar Pradesh,North,Furniture,Chairs,Visitor Chair,6,52005.93,0.00,9373.91
+ORD-10434,27-Nov-2025,Customer 132,Jharkhand,East,Technology,Phones,Wireless Earbuds,2,3947.53,0.20,207.14
+ORD-10435,18-Oct-2025,Customer 014,Maharashtra,West,Technology,Phones,Budget Phone A2,5,8678.69,0.05,1494.72
+ORD-10436,25-Oct-2025,Customer 125,Telangana,South,Furniture,Storage,Bookshelf,5,27366.37,0.15,2161.29
+ORD-10437,12-Jun-2025,Customer 125,Punjab,North,Office Supplies,Paper,Notebook Set,2,627.62,0.00,271.76
+ORD-10438,08-Aug-2025,Customer 044,Telangana,South,Office Supplies,Writing,Highlighter Pack,3,1305.01,0.20,269.60
+ORD-10439,19-Jun-2025,Customer 123,Bihar,East,Office Supplies,Paper,Notebook Set,7,1718.51,0.20,170.01
+ORD-10440,11-Feb-2025,Customer 072,Telangana,South,Office Supplies,Storage,Pen Drive 64GB,8,4046.02,0.05,1036.32
+ORD-10441,20-Nov-2025,Customer 008,Maharashtra,West,Furniture,Chairs,Visitor Chair,2,13747.84,0.00,2558.51
+ORD-10442,18-Mar-2025,Customer 094,Karnataka,South,Furniture,Chairs,Ergonomic Chair,5,19036.71,0.30,-248.61
+ORD-10443,15-Sep-2025,Customer 003,Karnataka,South,Technology,Electronics,Bluetooth Speaker,3,10185.80,0.00,2012.39
+ORD-10444,17-Oct-2025,Customer 169,Goa,West,Furniture,Storage,Filing Cabinet,3,13339.48,0.05,1983.50
+ORD-10445,16-May-2025,Customer 095,Maharashtra,West,Furniture,Storage,Wall Shelf,6,6364.15,0.30,-159.84
+ORD-10446,21-Jan-2025,Customer 167,Goa,West,Technology,Electronics,Webcam HD,6,12393.95,0.30,153.54
+ORD-10447,13-Jul-2025,Customer 094,Punjab,North,Technology,Electronics,Bluetooth Speaker,5,19266.30,0.05,3197.50
+ORD-10448,26-Jun-2025,Customer 125,Odisha,East,Furniture,Tables,Conference Table,4,16728.64,0.20,912.57
+ORD-10449,24-May-2025,Customer 055,Kerala,South,Furniture,Chairs,Office Chair Basic,8,19933.80,0.00,3591.57
+ORD-10450,28-Feb-2025,Customer 124,Maharashtra,West,Technology,Phones,5G Phone Pro,2,6801.65,0.25,329.74
+ORD-10451,31-Oct-2025,Customer 042,Kerala,South,Office Supplies,Paper,Notebook Set,7,688.84,0.00,103.57
+ORD-10452,22-Sep-2025,Customer 104,Maharashtra,West,Furniture,Storage,Bookshelf,3,4172.09,0.15,445.58
+ORD-10453,29-Mar-2025,Customer 057,Bihar,East,Furniture,Storage,Drawer Unit,2,4045.20,0.30,27.47
+ORD-10454,02-Nov-2025,Customer 152,Tamil Nadu,South,Furniture,Chairs,Office Chair Basic,5,10032.92,0.20,603.01
+ORD-10455,16-Sep-2025,Customer 176,Odisha,East,Technology,Accessories,Laptop Stand,3,3590.21,0.10,490.13
+ORD-10456,30-Sep-2025,Customer 129,Tamil Nadu,South,Technology,Electronics,LED Monitor 24,3,10380.12,0.00,2166.68
+ORD-10457,09-Jul-2025,Customer 012,Jharkhand,East,Technology,Accessories,Wireless Mouse,1,4426.81,0.25,171.30
+ORD-10458,11-May-2025,Customer 123,Tamil Nadu,South,Technology,Accessories,Laptop Stand,6,24698.87,0.00,4921.89
+ORD-10459,02-Mar-2025,Customer 134,Goa,West,Technology,Accessories,Laptop Stand,5,8981.61,0.00,1815.04
+ORD-10460,30-Nov-2025,Customer 150,Bihar,East,Office Supplies,Writing,Marker Set,6,2491.52,0.00,614.77
+ORD-10461,31-Jul-2025,Customer 142,Delhi,North,Office Supplies,Writing,Pencil Box,6,2617.84,0.25,368.79
+ORD-10462,23-Jul-2025,Customer 036,Kerala,South,Technology,Accessories,Laptop Stand,5,25733.39,0.20,1867.14
+ORD-10463,09-Oct-2025,Customer 158,Jharkhand,East,Furniture,Chairs,Study Chair,3,4459.89,0.25,146.71
+ORD-10464,11-Aug-2025,Customer 023,West Bengal,East,Technology,Accessories,USB-C Hub,2,7664.83,0.30,140.53
+ORD-10465,25-Jul-2025,Customer 158,Odisha,East,Office Supplies,Paper,Sticky Notes,2,869.11,0.25,205.48
+ORD-10466,03-Dec-2025,Customer 133,Uttar Pradesh,North,Furniture,Storage,Bookshelf,3,13007.97,0.30,-312.55
+ORD-10467,01-Jan-2025,Customer 041,Uttar Pradesh,North,Technology,Phones,Budget Phone A2,3,11062.42,0.20,711.79
+ORD-10468,27-Dec-2025,Customer 018,Odisha,East,Office Supplies,Storage,Pen Drive 64GB,7,2598.56,0.10,562.95
+ORD-10469,10-Apr-2025,Customer 117,Odisha,East,Furniture,Tables,Laptop Table,6,44439.58,0.15,3600.58
+ORD-10470,15-Sep-2025,Customer 076,Karnataka,South,Furniture,Chairs,Visitor Chair,3,13126.95,0.00,2376.92
+ORD-10471,05-May-2025,Customer 087,Punjab,North,Technology,Electronics,Bluetooth Speaker,5,17723.67,0.25,679.80
+ORD-10472,23-Apr-2025,Customer 174,Telangana,South,Furniture,Tables,Work Desk,8,16855.14,0.00,3005.77
+ORD-10473,17-Feb-2025,Customer 103,Goa,West,Office Supplies,Storage,Pen Drive 64GB,1,556.47,0.15,41.14
+ORD-10474,18-May-2025,Customer 047,Punjab,North,Technology,Electronics,Webcam HD,8,18147.33,0.10,2544.53
+ORD-10475,14-Apr-2025,Customer 064,Rajasthan,West,Office Supplies,Writing,Marker Set,4,2322.38,0.15,353.46
+ORD-10476,05-Oct-2025,Customer 011,Haryana,North,Technology,Phones,Smartphone X1,2,6467.59,0.30,59.66
+ORD-10477,19-Sep-2025,Customer 072,Kerala,South,Office Supplies,Writing,Highlighter Pack,8,5551.92,0.15,1011.02
+ORD-10478,04-Oct-2025,Customer 009,Karnataka,South,Technology,Electronics,Webcam HD,1,2811.95,0.25,100.24
+ORD-10479,05-Jan-2025,Customer 004,Haryana,North,Office Supplies,Writing,Marker Set,8,4932.12,0.30,374.99
+ORD-10480,15-May-2025,Customer 061,Rajasthan,West,Office Supplies,Writing,Gel Pen Pack,6,1920.22,0.15,275.36
+ORD-10481,25-Dec-2025,Customer 096,Delhi,North,Office Supplies,Writing,Highlighter Pack,6,1038.64,0.25,52.57
+ORD-10482,19-May-2025,Customer 061,Haryana,North,Office Supplies,Storage,Desk Organizer,3,1481.10,0.10,393.84
+ORD-10483,13-Sep-2025,Customer 035,Tamil Nadu,South,Office Supplies,Paper,Notebook Set,3,1403.55,0.00,315.38
+ORD-10484,11-May-2025,Customer 122,Punjab,North,Office Supplies,Storage,Pen Drive 64GB,1,386.36,0.05,-9.97
+ORD-10485,30-Jul-2025,Customer 032,Jharkhand,East,Office Supplies,Writing,Highlighter Pack,5,1597.95,0.15,254.22
+ORD-10486,11-Dec-2025,Customer 131,Haryana,North,Furniture,Storage,Filing Cabinet,3,22539.73,0.15,1824.75
+ORD-10487,16-Mar-2025,Customer 043,Kerala,South,Furniture,Tables,Work Desk,7,29334.23,0.30,-408.40
+ORD-10488,12-Jun-2025,Customer 168,Punjab,North,Office Supplies,Writing,Pencil Box,2,231.79,0.20,-30.46
+ORD-10489,24-Sep-2025,Customer 116,Uttar Pradesh,North,Furniture,Tables,Conference Table,5,32495.98,0.20,1684.29
+ORD-10490,25-Dec-2025,Customer 021,Tamil Nadu,South,Technology,Phones,Smartphone X1,3,12548.75,0.15,1391.95
+ORD-10491,14-Jan-2025,Customer 102,Rajasthan,West,Technology,Accessories,USB-C Hub,2,1497.99,0.30,19.11
+ORD-10492,07-May-2025,Customer 073,Odisha,East,Technology,Accessories,Wireless Mouse,2,6747.04,0.25,207.26
+ORD-10493,16-Jun-2025,Customer 122,Telangana,South,Furniture,Chairs,Office Chair Basic,3,3414.85,0.20,257.23
+ORD-10494,22-Aug-2025,Customer 162,Telangana,South,Furniture,Tables,Conference Table,3,24972.92,0.05,3705.31
+ORD-10495,15-Aug-2025,Customer 079,Tamil Nadu,South,Furniture,Storage,Drawer Unit,6,26767.17,0.10,3151.35
+ORD-10496,29-Aug-2025,Customer 137,Haryana,North,Office Supplies,Storage,Document Box,5,421.11,0.05,66.76
+ORD-10497,02-Nov-2025,Customer 060,Bihar,East,Furniture,Tables,Conference Table,5,4767.13,0.25,154.94
+ORD-10498,25-Mar-2025,Customer 166,Bihar,East,Furniture,Tables,Study Table,7,42424.54,0.25,717.17
+ORD-10499,10-Nov-2025,Customer 178,Karnataka,South,Office Supplies,Paper,Sticky Notes,2,767.23,0.10,168.94
+ORD-10500,29-May-2025,Customer 029,Delhi,North,Office Supplies,Writing,Highlighter Pack,7,1639.12,0.00,382.73
+ORD-10501,01-Oct-2025,Customer 006,Telangana,South,Furniture,Tables,Laptop Table,8,21318.06,0.00,3753.77
+ORD-10502,19-Mar-2025,Customer 004,Gujarat,West,Technology,Accessories,Mechanical Keyboard,3,14544.41,0.00,2844.76
+ORD-10503,26-Aug-2025,Customer 179,Kerala,South,Technology,Accessories,Laptop Stand,5,18400.22,0.30,211.51
+ORD-10504,29-Aug-2025,Customer 047,West Bengal,East,Office Supplies,Paper,Notebook Set,1,223.90,0.25,-76.56
+ORD-10505,15-Aug-2025,Customer 064,Rajasthan,West,Office Supplies,Storage,File Folder,2,1582.51,0.10,312.59
+ORD-10506,23-Mar-2025,Customer 162,West Bengal,East,Technology,Accessories,USB-C Hub,4,11704.12,0.15,1304.36
+ORD-10507,27-Jan-2025,Customer 171,West Bengal,East,Furniture,Storage,Bookshelf,5,21052.76,0.15,1664.55
+ORD-10508,22-Jul-2025,Customer 063,Rajasthan,West,Technology,Phones,Wireless Earbuds,6,4015.70,0.15,431.94
+ORD-10509,13-Sep-2025,Customer 024,Bihar,East,Technology,Electronics,Power Bank,3,8562.34,0.00,1652.16
+ORD-10510,30-Apr-2025,Customer 082,Punjab,North,Furniture,Chairs,Ergonomic Chair,6,37366.11,0.00,6636.10
+ORD-10511,09-May-2025,Customer 011,Haryana,North,Office Supplies,Writing,Marker Set,1,516.15,0.20,131.28
+ORD-10512,15-Jun-2025,Customer 120,Kerala,South,Furniture,Tables,Laptop Table,8,20369.91,0.05,3015.03
+ORD-10513,15-May-2025,Customer 139,Delhi,North,Furniture,Storage,Filing Cabinet,2,7480.02,0.30,-161.24
+ORD-10514,03-May-2025,Customer 083,Haryana,North,Office Supplies,Paper,Printer Paper,3,1929.61,0.20,355.69
+ORD-10515,20-Mar-2025,Customer 157,Odisha,East,Furniture,Storage,Wall Shelf,4,14805.68,0.30,-158.31
+ORD-10516,08-Mar-2025,Customer 046,Uttar Pradesh,North,Office Supplies,Storage,Pen Drive 64GB,2,317.86,0.00,-20.49
+ORD-10517,27-Sep-2025,Customer 160,West Bengal,East,Technology,Phones,Wireless Earbuds,4,3818.31,0.25,181.09
+ORD-10518,10-Feb-2025,Customer 120,Delhi,North,Technology,Accessories,Wireless Mouse,2,1396.62,0.10,225.92
+ORD-10519,17-May-2025,Customer 136,West Bengal,East,Office Supplies,Writing,Pencil Box,6,4387.71,0.00,1306.23
+ORD-10520,29-Apr-2025,Customer 137,West Bengal,East,Furniture,Chairs,Visitor Chair,2,17135.81,0.00,2988.74
+ORD-10521,23-Nov-2025,Customer 148,Karnataka,South,Technology,Phones,Budget Phone A2,3,8862.43,0.25,391.41
+ORD-10522,16-Sep-2025,Customer 087,Haryana,North,Furniture,Tables,Conference Table,2,4752.11,0.05,712.93
+ORD-10523,31-Jul-2025,Customer 163,Gujarat,West,Furniture,Storage,Wall Shelf,6,39549.04,0.20,2060.22
+ORD-10524,20-Aug-2025,Customer 115,Tamil Nadu,South,Furniture,Tables,Study Table,4,14026.67,0.15,1123.60
+ORD-10525,04-Jun-2025,Customer 002,Karnataka,South,Technology,Electronics,LED Monitor 24,5,19738.27,0.05,3424.58
+ORD-10526,19-Sep-2025,Customer 143,Uttar Pradesh,North,Technology,Phones,5G Phone Pro,1,4398.61,0.15,551.44
+ORD-10527,26-Oct-2025,Customer 064,Maharashtra,West,Technology,Phones,Wireless Earbuds,6,8187.65,0.15,807.33
+ORD-10528,16-Jun-2025,Customer 124,Goa,West,Office Supplies,Storage,File Folder,7,3443.79,0.10,796.64
+ORD-10529,29-Jan-2025,Customer 086,Gujarat,West,Office Supplies,Writing,Gel Pen Pack,5,414.92,0.25,-52.41
+ORD-10530,20-Nov-2025,Customer 098,Haryana,North,Office Supplies,Storage,File Folder,4,2772.39,0.00,808.40
+ORD-10531,24-Dec-2025,Customer 057,West Bengal,East,Office Supplies,Writing,Gel Pen Pack,6,2979.63,0.05,695.90
+ORD-10532,29-May-2025,Customer 101,Maharashtra,West,Technology,Electronics,Power Bank,8,40531.79,0.00,8039.66
+ORD-10533,15-May-2025,Customer 022,Maharashtra,West,Technology,Accessories,USB-C Hub,8,32114.84,0.00,6434.52
+ORD-10534,30-Nov-2025,Customer 147,Karnataka,South,Furniture,Tables,Study Table,3,13368.23,0.10,1534.43
+ORD-10535,22-Oct-2025,Customer 023,Rajasthan,West,Furniture,Storage,Filing Cabinet,4,5276.47,0.25,49.96
+ORD-10536,02-Dec-2025,Customer 007,Jharkhand,East,Furniture,Tables,Conference Table,6,18800.65,0.20,902.72
+ORD-10537,11-Jul-2025,Customer 040,Uttar Pradesh,North,Technology,Accessories,Laptop Stand,3,8787.66,0.10,1114.26
+ORD-10538,28-May-2025,Customer 004,Odisha,East,Technology,Electronics,LED Monitor 24,4,23574.66,0.05,4037.26
+ORD-10539,03-Oct-2025,Customer 055,Punjab,North,Furniture,Chairs,Visitor Chair,8,31201.82,0.20,1490.25
+ORD-10540,09-Dec-2025,Customer 005,Rajasthan,West,Furniture,Storage,Drawer Unit,8,46053.93,0.05,6839.77
+ORD-10541,23-Dec-2025,Customer 159,Karnataka,South,Furniture,Storage,Bookshelf,5,10746.10,0.15,814.72
+ORD-10542,04-Dec-2025,Customer 093,Delhi,North,Technology,Accessories,USB-C Hub,2,5022.04,0.15,553.87
+ORD-10543,06-Sep-2025,Customer 153,Jharkhand,East,Technology,Accessories,Laptop Stand,4,25531.19,0.00,5203.17
+ORD-10544,21-Jul-2025,Customer 041,Odisha,East,Technology,Phones,Wireless Earbuds,1,790.98,0.15,41.13
+ORD-10545,14-Sep-2025,Customer 071,Bihar,East,Office Supplies,Writing,Highlighter Pack,6,3200.52,0.10,807.15
+ORD-10546,24-Jun-2025,Customer 101,West Bengal,East,Furniture,Tables,Conference Table,1,7279.63,0.15,534.71
+ORD-10547,09-Jun-2025,Customer 155,Maharashtra,West,Technology,Electronics,Power Bank,4,11858.03,0.05,1968.57
+ORD-10548,08-Jun-2025,Customer 177,Punjab,North,Office Supplies,Writing,Marker Set,4,2214.10,0.10,563.05
+ORD-10549,16-Mar-2025,Customer 008,Maharashtra,West,Office Supplies,Paper,Notebook Set,6,813.65,0.00,152.01
+ORD-10550,07-Apr-2025,Customer 028,Punjab,North,Office Supplies,Storage,Pen Drive 64GB,8,4701.52,0.15,774.50
+ORD-10551,03-Jul-2025,Customer 021,Maharashtra,West,Technology,Phones,5G Phone Pro,4,14972.01,0.10,2066.19
+ORD-10552,12-Mar-2025,Customer 042,Kerala,South,Technology,Electronics,Power Bank,6,7951.79,0.25,296.14
+ORD-10553,10-Dec-2025,Customer 052,Rajasthan,West,Technology,Phones,Wireless Earbuds,1,4550.64,0.25,104.06
+ORD-10554,07-Aug-2025,Customer 104,Rajasthan,West,Technology,Phones,Wireless Earbuds,8,26261.78,0.30,224.33
+ORD-10555,20-Aug-2025,Customer 117,West Bengal,East,Furniture,Storage,Wall Shelf,6,25646.25,0.00,4621.28
+ORD-10556,14-Aug-2025,Customer 102,West Bengal,East,Technology,Electronics,Power Bank,1,3934.67,0.00,712.50
+ORD-10557,14-Mar-2025,Customer 119,Uttar Pradesh,North,Office Supplies,Storage,Document Box,7,2249.97,0.00,675.58
+ORD-10558,15-Jun-2025,Customer 116,Telangana,South,Technology,Electronics,LED Monitor 24,3,14867.43,0.05,2464.63
+ORD-10559,31-Dec-2025,Customer 042,Bihar,East,Technology,Accessories,Wireless Mouse,8,7827.47,0.20,593.94
+ORD-10560,19-Sep-2025,Customer 157,Jharkhand,East,Technology,Phones,Wireless Earbuds,6,5376.50,0.25,256.07
+ORD-10561,04-Dec-2025,Customer 039,Gujarat,West,Office Supplies,Writing,Pencil Box,1,567.98,0.20,100.91
+ORD-10562,03-Apr-2025,Customer 031,Gujarat,West,Technology,Phones,Smartphone X1,7,12185.13,0.30,10.23
+ORD-10563,03-Jan-2025,Customer 156,Maharashtra,West,Technology,Phones,5G Phone Pro,1,2352.09,0.30,22.20
+ORD-10564,04-Jan-2025,Customer 063,Kerala,South,Technology,Phones,Wireless Earbuds,8,24631.02,0.00,4950.50
+ORD-10565,19-Jan-2025,Customer 038,Delhi,North,Furniture,Storage,Filing Cabinet,1,2641.75,0.00,512.30
+ORD-10566,02-Apr-2025,Customer 042,West Bengal,East,Furniture,Storage,Drawer Unit,6,50274.00,0.00,8955.45
+ORD-10567,17-Feb-2025,Customer 077,Uttar Pradesh,North,Furniture,Storage,Filing Cabinet,8,45086.79,0.20,2357.89
+ORD-10568,10-Mar-2025,Customer 032,Punjab,North,Office Supplies,Storage,File Folder,7,5400.60,0.00,1462.45
+ORD-10569,19-Nov-2025,Customer 136,Delhi,North,Office Supplies,Writing,Pencil Box,4,2602.32,0.00,634.88
+ORD-10570,22-Oct-2025,Customer 160,Odisha,East,Office Supplies,Writing,Highlighter Pack,7,3243.81,0.20,428.89
+ORD-10571,30-Apr-2025,Customer 075,Haryana,North,Technology,Electronics,Power Bank,8,27029.60,0.05,4619.54
+ORD-10572,17-Apr-2025,Customer 158,Rajasthan,West,Technology,Phones,Smartphone X1,8,34621.38,0.00,6981.27
+ORD-10573,14-Apr-2025,Customer 177,Tamil Nadu,South,Office Supplies,Paper,Sticky Notes,6,2913.52,0.10,509.12
+ORD-10574,28-Feb-2025,Customer 176,Uttar Pradesh,North,Office Supplies,Paper,Sticky Notes,5,1981.94,0.20,361.38
+ORD-10575,03-Sep-2025,Customer 122,Punjab,North,Office Supplies,Storage,File Folder,3,573.82,0.20,187.42
+ORD-10576,31-Jul-2025,Customer 015,West Bengal,East,Furniture,Chairs,Study Chair,3,14621.19,0.20,722.05
+ORD-10577,01-Jul-2025,Customer 017,Uttar Pradesh,North,Furniture,Storage,Drawer Unit,1,2259.56,0.20,184.87
+ORD-10578,19-Jul-2025,Customer 048,Maharashtra,West,Office Supplies,Paper,Sticky Notes,7,3948.36,0.05,994.25
+ORD-10579,02-May-2025,Customer 096,Jharkhand,East,Office Supplies,Writing,Highlighter Pack,1,302.63,0.00,84.03
+ORD-10580,17-Feb-2025,Customer 114,Telangana,South,Office Supplies,Paper,Sticky Notes,3,516.09,0.00,211.17
+ORD-10581,26-Sep-2025,Customer 080,Bihar,East,Office Supplies,Writing,Marker Set,4,1004.91,0.30,141.20
+ORD-10582,25-Sep-2025,Customer 030,Punjab,North,Technology,Phones,Budget Phone A2,4,13727.03,0.30,41.66
+ORD-10583,04-Dec-2025,Customer 080,Bihar,East,Office Supplies,Paper,A4 Paper Pack,6,2777.03,0.00,682.31
+ORD-10584,13-Jun-2025,Customer 113,Bihar,East,Furniture,Tables,Study Table,6,14098.10,0.15,1109.49
+ORD-10585,29-Jun-2025,Customer 141,Jharkhand,East,Office Supplies,Paper,Notebook Set,5,869.29,0.00,172.98
+ORD-10586,23-Jun-2025,Customer 139,Punjab,North,Office Supplies,Paper,Sticky Notes,4,749.51,0.15,163.97
+ORD-10587,28-Jan-2025,Customer 023,Telangana,South,Technology,Phones,Smartphone X1,8,47512.77,0.00,9407.98
+ORD-10588,10-Dec-2025,Customer 137,Tamil Nadu,South,Office Supplies,Paper,Printer Paper,6,1815.49,0.10,441.43
+ORD-10589,08-Jun-2025,Customer 176,Odisha,East,Office Supplies,Writing,Marker Set,2,1045.15,0.30,-7.82
+ORD-10590,20-Jul-2025,Customer 047,Telangana,South,Office Supplies,Paper,Notebook Set,3,2004.55,0.15,464.92
+ORD-10591,25-Aug-2025,Customer 044,Punjab,North,Office Supplies,Storage,Desk Organizer,1,133.60,0.00,1.75
+ORD-10592,29-Nov-2025,Customer 019,Uttar Pradesh,North,Office Supplies,Writing,Marker Set,2,825.33,0.00,189.30
+ORD-10593,04-Sep-2025,Customer 099,Uttar Pradesh,North,Furniture,Tables,Conference Table,7,19283.59,0.10,2229.12
+ORD-10594,01-May-2025,Customer 045,Odisha,East,Office Supplies,Paper,Printer Paper,7,3052.63,0.20,468.58
+ORD-10595,19-Feb-2025,Customer 114,Odisha,East,Furniture,Storage,Wall Shelf,2,8146.42,0.30,-164.11
+ORD-10596,27-Nov-2025,Customer 170,Gujarat,West,Office Supplies,Storage,File Folder,2,963.18,0.25,71.75
+ORD-10597,30-May-2025,Customer 100,West Bengal,East,Technology,Phones,Budget Phone A2,1,4836.50,0.05,798.83
+ORD-10598,11-Aug-2025,Customer 089,Telangana,South,Technology,Phones,5G Phone Pro,5,17032.31,0.15,1846.25
+ORD-10599,09-Oct-2025,Customer 014,Odisha,East,Furniture,Chairs,Study Chair,3,23548.62,0.00,4207.37
+ORD-10600,26-Dec-2025,Customer 152,Bihar,East,Furniture,Storage,Drawer Unit,2,15835.47,0.00,2786.84
+ORD-10601,01-Sep-2025,Customer 036,Karnataka,South,Furniture,Tables,Conference Table,7,26310.11,0.10,3064.66
+ORD-10602,06-Feb-2025,Customer 166,Rajasthan,West,Furniture,Tables,Laptop Table,7,15981.84,0.05,2269.55
+ORD-10603,25-Nov-2025,Customer 107,Bihar,East,Technology,Electronics,Power Bank,7,42259.79,0.05,6978.83
+ORD-10604,19-Aug-2025,Customer 099,Telangana,South,Furniture,Storage,Wall Shelf,3,10674.62,0.25,199.30
+ORD-10605,18-May-2025,Customer 106,Haryana,North,Technology,Phones,Wireless Earbuds,1,3646.84,0.10,543.23
+ORD-10606,10-Feb-2025,Customer 037,Haryana,North,Technology,Phones,Wireless Earbuds,6,5696.68,0.30,139.30
+ORD-10607,04-Oct-2025,Customer 149,Delhi,North,Office Supplies,Writing,Gel Pen Pack,2,562.18,0.00,201.59
+ORD-10608,19-Jun-2025,Customer 108,Uttar Pradesh,North,Furniture,Chairs,Visitor Chair,1,3400.02,0.30,-33.25
+ORD-10609,16-Oct-2025,Customer 067,Haryana,North,Office Supplies,Storage,Document Box,1,552.45,0.15,155.30
+ORD-10610,16-Nov-2025,Customer 007,West Bengal,East,Furniture,Tables,Study Table,1,5371.40,0.15,517.28
+ORD-10611,12-Nov-2025,Customer 072,Uttar Pradesh,North,Office Supplies,Paper,Notebook Set,2,1322.91,0.15,181.92
+ORD-10612,09-Jul-2025,Customer 045,Delhi,North,Office Supplies,Paper,A4 Paper Pack,3,2354.98,0.05,621.05
+ORD-10613,13-Feb-2025,Customer 038,Delhi,North,Furniture,Chairs,Study Chair,3,22305.30,0.00,3977.24
+ORD-10614,26-Jun-2025,Customer 014,Maharashtra,West,Office Supplies,Storage,Desk Organizer,4,2362.64,0.05,515.36
+ORD-10615,30-Sep-2025,Customer 060,Delhi,North,Technology,Phones,Budget Phone A2,8,20486.50,0.15,2094.17
+ORD-10616,18-Aug-2025,Customer 098,Karnataka,South,Furniture,Storage,Wall Shelf,8,19490.86,0.25,223.94
+ORD-10617,10-Aug-2025,Customer 157,Punjab,North,Furniture,Storage,Bookshelf,2,13373.05,0.20,778.14
+ORD-10618,12-Dec-2025,Customer 062,Delhi,North,Office Supplies,Storage,Pen Drive 64GB,2,434.07,0.25,41.67
+ORD-10619,07-Jan-2025,Customer 106,Rajasthan,West,Furniture,Tables,Study Table,6,32828.27,0.00,5988.69
+ORD-10620,18-Jan-2025,Customer 007,Jharkhand,East,Furniture,Chairs,Study Chair,6,14848.38,0.15,1165.45
+ORD-10621,06-Nov-2025,Customer 034,Odisha,East,Technology,Electronics,Webcam HD,2,9613.67,0.00,1823.47
+ORD-10622,05-Dec-2025,Customer 020,Karnataka,South,Furniture,Storage,Filing Cabinet,2,11264.37,0.15,880.01
+ORD-10623,01-Feb-2025,Customer 098,Telangana,South,Office Supplies,Storage,Pen Drive 64GB,5,1064.06,0.00,244.49
+ORD-10624,13-Apr-2025,Customer 157,Karnataka,South,Office Supplies,Paper,Sticky Notes,5,1129.51,0.00,314.28
+ORD-10625,26-Nov-2025,Customer 028,Karnataka,South,Technology,Electronics,Power Bank,2,2301.69,0.25,18.73
+ORD-10626,10-Jan-2025,Customer 128,Telangana,South,Furniture,Tables,Work Desk,1,1503.46,0.15,190.57
+ORD-10627,18-Jun-2025,Customer 101,Maharashtra,West,Furniture,Storage,Bookshelf,1,5426.34,0.15,364.06
+ORD-10628,02-Jan-2025,Customer 099,Bihar,East,Furniture,Storage,Wall Shelf,8,36810.00,0.00,6635.43
+ORD-10629,28-Nov-2025,Customer 024,Kerala,South,Technology,Electronics,Bluetooth Speaker,6,20945.91,0.25,678.72
+ORD-10630,01-Apr-2025,Customer 142,Haryana,North,Furniture,Tables,Work Desk,8,48494.43,0.15,4036.26
+ORD-10631,03-Jul-2025,Customer 125,West Bengal,East,Office Supplies,Writing,Marker Set,5,3253.12,0.00,942.22
+ORD-10632,31-Oct-2025,Customer 062,Odisha,East,Furniture,Tables,Study Table,3,4435.34,0.00,851.10
+ORD-10633,09-Jan-2025,Customer 010,Kerala,South,Office Supplies,Paper,Sticky Notes,8,2899.85,0.30,358.47
+ORD-10634,02-Oct-2025,Customer 039,Punjab,North,Technology,Accessories,USB-C Hub,7,6788.88,0.30,139.57
+ORD-10635,13-Nov-2025,Customer 012,Goa,West,Technology,Phones,Budget Phone A2,8,25156.45,0.30,223.51
+ORD-10636,19-Feb-2025,Customer 117,Goa,West,Furniture,Storage,Filing Cabinet,1,2543.54,0.00,554.96
+ORD-10637,14-Apr-2025,Customer 110,Gujarat,West,Furniture,Chairs,Ergonomic Chair,2,9139.89,0.10,946.23
+ORD-10638,20-Apr-2025,Customer 012,Punjab,North,Furniture,Storage,Wall Shelf,6,12210.88,0.05,1758.29
+ORD-10639,09-Jul-2025,Customer 142,Gujarat,West,Office Supplies,Paper,A4 Paper Pack,5,734.30,0.25,6.61
+ORD-10640,09-Jan-2025,Customer 125,Gujarat,West,Office Supplies,Paper,A4 Paper Pack,3,364.44,0.25,109.46
+ORD-10641,01-Sep-2025,Customer 178,Odisha,East,Technology,Phones,Budget Phone A2,2,8158.47,0.15,816.14
+ORD-10642,20-Jan-2025,Customer 153,Maharashtra,West,Technology,Phones,5G Phone Pro,8,23482.34,0.05,3959.82
+ORD-10643,09-Apr-2025,Customer 031,Gujarat,West,Furniture,Tables,Work Desk,5,19566.29,0.00,3535.78
+ORD-10644,10-Apr-2025,Customer 029,Jharkhand,East,Furniture,Tables,Study Table,8,51901.80,0.10,5915.05
+ORD-10645,06-Jul-2025,Customer 073,Maharashtra,West,Furniture,Tables,Conference Table,3,7338.37,0.00,1213.87
+ORD-10646,01-Apr-2025,Customer 041,Rajasthan,West,Office Supplies,Storage,Pen Drive 64GB,8,924.16,0.00,360.73
+ORD-10647,16-Jun-2025,Customer 108,Bihar,East,Office Supplies,Writing,Gel Pen Pack,2,1139.55,0.30,119.11
+ORD-10648,02-May-2025,Customer 106,Rajasthan,West,Furniture,Storage,Drawer Unit,4,23283.22,0.20,1098.83
+ORD-10649,16-Mar-2025,Customer 056,Rajasthan,West,Office Supplies,Paper,A4 Paper Pack,8,4478.21,0.00,1347.62
+ORD-10650,19-May-2025,Customer 052,Telangana,South,Technology,Accessories,Mechanical Keyboard,3,9058.21,0.10,1254.54
+ORD-10651,29-Mar-2025,Customer 088,Punjab,North,Technology,Phones,Smartphone X1,5,5220.98,0.30,16.16
+ORD-10652,25-Sep-2025,Customer 126,Goa,West,Office Supplies,Writing,Marker Set,3,1495.96,0.10,222.39
+ORD-10653,07-May-2025,Customer 064,Rajasthan,West,Furniture,Tables,Conference Table,5,4924.24,0.25,142.86
+ORD-10654,23-Jan-2025,Customer 011,Punjab,North,Office Supplies,Writing,Marker Set,3,2487.84,0.00,676.86
+ORD-10655,23-Dec-2025,Customer 026,Kerala,South,Furniture,Storage,Bookshelf,7,26179.47,0.30,-318.36
+ORD-10656,09-Mar-2025,Customer 092,Telangana,South,Office Supplies,Paper,A4 Paper Pack,1,486.29,0.25,165.12
+ORD-10657,24-Aug-2025,Customer 147,Uttar Pradesh,North,Technology,Electronics,LED Monitor 24,1,2960.33,0.15,222.27
+ORD-10658,27-Dec-2025,Customer 163,Bihar,East,Office Supplies,Storage,Document Box,7,1297.27,0.20,225.03
+ORD-10659,19-May-2025,Customer 179,Bihar,East,Furniture,Chairs,Study Chair,6,27240.01,0.15,2229.52
+ORD-10660,26-Feb-2025,Customer 099,Rajasthan,West,Furniture,Chairs,Visitor Chair,1,4171.96,0.20,301.71
+ORD-10661,15-Apr-2025,Customer 036,Haryana,North,Office Supplies,Writing,Gel Pen Pack,6,2282.85,0.00,653.78
+ORD-10662,26-Apr-2025,Customer 083,Punjab,North,Technology,Electronics,LED Monitor 24,8,35832.99,0.10,4898.22
+ORD-10663,06-Sep-2025,Customer 129,Haryana,North,Office Supplies,Writing,Pencil Box,5,498.63,0.20,37.65
+ORD-10664,23-Aug-2025,Customer 023,Jharkhand,East,Office Supplies,Writing,Highlighter Pack,8,4713.44,0.00,1244.97
+ORD-10665,17-Mar-2025,Customer 128,Odisha,East,Office Supplies,Paper,Sticky Notes,2,288.45,0.15,-40.47
+ORD-10666,04-Aug-2025,Customer 114,Maharashtra,West,Technology,Electronics,LED Monitor 24,5,14800.58,0.05,2472.83
+ORD-10667,24-Sep-2025,Customer 166,Bihar,East,Office Supplies,Paper,A4 Paper Pack,1,715.38,0.10,234.19
+ORD-10668,18-Oct-2025,Customer 034,Punjab,North,Office Supplies,Writing,Highlighter Pack,6,2010.30,0.30,160.80
+ORD-10669,25-Jan-2025,Customer 038,Uttar Pradesh,North,Technology,Accessories,Wireless Mouse,8,19427.83,0.15,2056.09
+ORD-10670,31-Mar-2025,Customer 178,Haryana,North,Office Supplies,Storage,Document Box,3,1692.40,0.15,232.61
+ORD-10671,09-Jul-2025,Customer 048,Maharashtra,West,Technology,Phones,Smartphone X1,1,6140.69,0.05,1014.38
+ORD-10672,04-Oct-2025,Customer 042,Rajasthan,West,Furniture,Storage,Bookshelf,6,50322.88,0.05,7392.12
+ORD-10673,21-Mar-2025,Customer 002,Uttar Pradesh,North,Technology,Phones,Wireless Earbuds,8,28881.47,0.30,247.08
+ORD-10674,15-Aug-2025,Customer 087,Punjab,North,Furniture,Storage,Drawer Unit,8,62233.54,0.05,9251.35
+ORD-10675,25-Jul-2025,Customer 159,Jharkhand,East,Furniture,Tables,Work Desk,3,19465.40,0.00,3457.71
+ORD-10676,24-Apr-2025,Customer 072,Goa,West,Office Supplies,Storage,File Folder,6,675.69,0.10,165.30
+ORD-10677,12-Jun-2025,Customer 155,Rajasthan,West,Technology,Phones,Wireless Earbuds,2,9539.80,0.25,284.41
+ORD-10678,10-Jul-2025,Customer 004,West Bengal,East,Furniture,Tables,Conference Table,3,15265.16,0.25,235.85
+ORD-10679,16-Aug-2025,Customer 107,Uttar Pradesh,North,Office Supplies,Storage,Pen Drive 64GB,8,6375.42,0.00,1716.88
+ORD-10680,05-Jun-2025,Customer 122,Telangana,South,Office Supplies,Paper,Printer Paper,7,1361.12,0.00,295.59
+ORD-10681,12-Oct-2025,Customer 119,Punjab,North,Technology,Electronics,Power Bank,2,1255.26,0.15,108.15
+ORD-10682,04-Jun-2025,Customer 150,Maharashtra,West,Technology,Phones,Wireless Earbuds,5,19562.14,0.00,3989.90
+ORD-10683,03-Jun-2025,Customer 164,Uttar Pradesh,North,Office Supplies,Writing,Pencil Box,4,408.04,0.00,31.22
+ORD-10684,22-May-2025,Customer 127,Kerala,South,Technology,Electronics,Bluetooth Speaker,7,10964.26,0.10,1367.00
+ORD-10685,01-Sep-2025,Customer 178,Odisha,East,Furniture,Storage,Drawer Unit,8,38158.08,0.15,3178.76
+ORD-10686,25-Aug-2025,Customer 178,Jharkhand,East,Office Supplies,Writing,Gel Pen Pack,5,1067.67,0.00,214.02
+ORD-10687,30-May-2025,Customer 136,Maharashtra,West,Office Supplies,Paper,A4 Paper Pack,5,1504.62,0.20,117.38
+ORD-10688,11-Jun-2025,Customer 176,Odisha,East,Furniture,Chairs,Office Chair Basic,2,11153.66,0.05,1655.66
+ORD-10689,07-Jan-2025,Customer 036,Uttar Pradesh,North,Office Supplies,Writing,Highlighter Pack,2,829.16,0.20,201.97
+ORD-10690,21-Mar-2025,Customer 129,Uttar Pradesh,North,Office Supplies,Storage,Desk Organizer,6,4760.32,0.05,1082.76
+ORD-10691,09-Mar-2025,Customer 005,Goa,West,Technology,Electronics,LED Monitor 24,7,23595.95,0.00,4627.17
+ORD-10692,05-Jun-2025,Customer 008,Kerala,South,Office Supplies,Storage,Pen Drive 64GB,3,1799.93,0.20,191.32
+ORD-10693,10-Feb-2025,Customer 109,Jharkhand,East,Technology,Phones,Budget Phone A2,4,8939.10,0.10,1118.03
+ORD-10694,04-Dec-2025,Customer 132,Jharkhand,East,Technology,Phones,Wireless Earbuds,7,6626.19,0.00,1213.11
+ORD-10695,05-Mar-2025,Customer 155,West Bengal,East,Office Supplies,Paper,Sticky Notes,1,134.32,0.00,98.70
+ORD-10696,23-May-2025,Customer 149,Rajasthan,West,Furniture,Chairs,Office Chair Basic,6,8140.86,0.05,1283.78
+ORD-10697,09-Apr-2025,Customer 073,Haryana,North,Office Supplies,Paper,Notebook Set,2,322.53,0.00,97.23
+ORD-10698,29-Oct-2025,Customer 048,Gujarat,West,Furniture,Chairs,Ergonomic Chair,4,23463.22,0.30,-384.00
+ORD-10699,27-Apr-2025,Customer 105,Telangana,South,Furniture,Chairs,Office Chair Basic,6,39843.67,0.25,628.69
+ORD-10700,27-Dec-2025,Customer 074,Jharkhand,East,Office Supplies,Paper,Printer Paper,2,708.65,0.30,123.18
+ORD-10701,09-Jun-2025,Customer 176,West Bengal,East,Technology,Accessories,Laptop Stand,2,4104.42,0.30,44.62
+ORD-10702,05-Feb-2025,Customer 122,Telangana,South,Technology,Electronics,Power Bank,5,24047.93,0.25,827.11
+ORD-10703,22-Jul-2025,Customer 103,Haryana,North,Technology,Phones,Wireless Earbuds,2,5997.89,0.00,1108.19
+ORD-10704,26-Jul-2025,Customer 032,Jharkhand,East,Furniture,Chairs,Ergonomic Chair,6,42271.77,0.20,2041.65
+ORD-10705,26-Nov-2025,Customer 103,Goa,West,Office Supplies,Writing,Pencil Box,5,3005.39,0.15,610.00
+ORD-10706,25-Feb-2025,Customer 032,Haryana,North,Office Supplies,Writing,Pencil Box,8,3795.14,0.05,1003.62
+ORD-10707,13-Sep-2025,Customer 174,Delhi,North,Office Supplies,Storage,Document Box,3,313.12,0.00,166.95
+ORD-10708,05-Dec-2025,Customer 134,Bihar,East,Technology,Accessories,Mechanical Keyboard,3,7367.90,0.00,1536.02
+ORD-10709,04-Oct-2025,Customer 140,Kerala,South,Office Supplies,Paper,Sticky Notes,8,3277.64,0.15,608.35
+ORD-10710,19-Jan-2025,Customer 009,Bihar,East,Technology,Accessories,USB-C Hub,7,17381.02,0.25,638.00
+ORD-10711,19-Jul-2025,Customer 125,Gujarat,West,Furniture,Storage,Drawer Unit,3,14345.59,0.05,2070.96
+ORD-10712,20-Jul-2025,Customer 068,Jharkhand,East,Furniture,Storage,Wall Shelf,8,37332.01,0.05,5508.08
+ORD-10713,07-Mar-2025,Customer 094,Kerala,South,Furniture,Tables,Laptop Table,5,18498.83,0.00,3351.50
+ORD-10714,02-Jul-2025,Customer 106,Haryana,North,Furniture,Storage,Bookshelf,6,18758.13,0.25,291.10
+ORD-10715,19-Dec-2025,Customer 017,Haryana,North,Technology,Electronics,Webcam HD,4,7006.75,0.15,740.40
+ORD-10716,05-Aug-2025,Customer 146,Uttar Pradesh,North,Technology,Accessories,Wireless Mouse,1,3822.82,0.00,755.18
+ORD-10717,15-Jun-2025,Customer 147,Tamil Nadu,South,Office Supplies,Paper,Printer Paper,1,666.25,0.25,95.17
+ORD-10718,03-Jun-2025,Customer 094,Jharkhand,East,Office Supplies,Paper,Notebook Set,6,2339.13,0.20,270.86
+ORD-10719,21-Oct-2025,Customer 103,Tamil Nadu,South,Technology,Accessories,USB-C Hub,4,9466.65,0.00,1844.69
+ORD-10720,29-Sep-2025,Customer 122,Goa,West,Furniture,Storage,Bookshelf,2,9888.13,0.15,711.92
+ORD-10721,04-Oct-2025,Customer 081,Tamil Nadu,South,Technology,Accessories,USB-C Hub,5,15414.36,0.15,1563.87
+ORD-10722,18-Nov-2025,Customer 133,Rajasthan,West,Office Supplies,Storage,Pen Drive 64GB,8,4793.16,0.05,1277.72
+ORD-10723,17-Nov-2025,Customer 016,Gujarat,West,Furniture,Tables,Study Table,8,19739.40,0.25,449.75
+ORD-10724,30-Jul-2025,Customer 082,Rajasthan,West,Office Supplies,Storage,Document Box,4,691.52,0.15,208.79
+ORD-10725,04-Nov-2025,Customer 061,Odisha,East,Furniture,Chairs,Study Chair,5,36218.48,0.05,5283.77
+ORD-10726,14-Oct-2025,Customer 112,Karnataka,South,Technology,Phones,Budget Phone A2,4,2926.33,0.15,291.35
+ORD-10727,23-May-2025,Customer 169,Tamil Nadu,South,Furniture,Chairs,Office Chair Basic,3,9981.46,0.00,1738.68
+ORD-10728,02-Jun-2025,Customer 017,Gujarat,West,Furniture,Chairs,Study Chair,1,1631.55,0.00,249.02
+ORD-10729,20-Oct-2025,Customer 129,Tamil Nadu,South,Office Supplies,Writing,Gel Pen Pack,7,5675.06,0.05,1341.23
+ORD-10730,10-Jun-2025,Customer 085,Jharkhand,East,Furniture,Storage,Drawer Unit,8,58317.16,0.10,6730.43
+ORD-10731,21-May-2025,Customer 113,Karnataka,South,Furniture,Storage,Filing Cabinet,7,20303.26,0.00,3576.62
+ORD-10732,05-Aug-2025,Customer 122,Tamil Nadu,South,Office Supplies,Writing,Gel Pen Pack,8,4139.56,0.00,1115.03
+ORD-10733,07-Nov-2025,Customer 009,Goa,West,Office Supplies,Paper,Sticky Notes,8,4534.58,0.15,712.62
+ORD-10734,25-Dec-2025,Customer 093,West Bengal,East,Furniture,Storage,Filing Cabinet,5,23422.93,0.15,1965.74
+ORD-10735,11-May-2025,Customer 078,Jharkhand,East,Furniture,Chairs,Study Chair,7,6622.12,0.25,218.49
+ORD-10736,26-Nov-2025,Customer 105,Odisha,East,Technology,Accessories,Wireless Mouse,3,14429.20,0.20,1101.12
+ORD-10737,21-Feb-2025,Customer 042,West Bengal,East,Office Supplies,Paper,Printer Paper,8,4379.47,0.20,709.09
+ORD-10738,15-Jan-2025,Customer 014,Delhi,North,Furniture,Chairs,Visitor Chair,7,33020.42,0.20,1639.80
+ORD-10739,12-Feb-2025,Customer 029,Gujarat,West,Furniture,Tables,Study Table,1,3676.39,0.15,258.60
+ORD-10740,10-Mar-2025,Customer 067,Gujarat,West,Technology,Electronics,Webcam HD,7,29665.02,0.20,2064.91
+ORD-10741,21-Jul-2025,Customer 097,Gujarat,West,Furniture,Storage,Drawer Unit,5,10310.91,0.25,148.66
+ORD-10742,28-Mar-2025,Customer 013,Goa,West,Technology,Phones,Budget Phone A2,2,11429.89,0.10,1485.86
+ORD-10743,18-Oct-2025,Customer 031,Karnataka,South,Furniture,Tables,Laptop Table,3,4547.23,0.20,148.19
+ORD-10744,15-Apr-2025,Customer 049,Bihar,East,Furniture,Storage,Wall Shelf,8,42854.61,0.30,-734.38
+ORD-10745,25-May-2025,Customer 174,Delhi,North,Office Supplies,Writing,Pencil Box,7,1176.61,0.10,276.99
+ORD-10746,19-Aug-2025,Customer 064,Rajasthan,West,Office Supplies,Paper,Printer Paper,3,264.16,0.15,-15.27
+ORD-10747,21-Dec-2025,Customer 102,Haryana,North,Furniture,Storage,Wall Shelf,2,2432.95,0.05,448.01
+ORD-10748,01-May-2025,Customer 121,Rajasthan,West,Furniture,Tables,Conference Table,5,8849.17,0.00,1485.36
+ORD-10749,22-Jul-2025,Customer 172,Haryana,North,Furniture,Storage,Bookshelf,1,2383.89,0.25,-5.68
+ORD-10750,28-Aug-2025,Customer 034,Haryana,North,Technology,Electronics,LED Monitor 24,3,4640.35,0.30,126.48
+ORD-10751,07-Mar-2025,Customer 128,Odisha,East,Office Supplies,Writing,Pencil Box,3,704.48,0.20,-3.73
+ORD-10752,16-May-2025,Customer 133,Delhi,North,Furniture,Tables,Conference Table,5,35027.58,0.15,2916.88
+ORD-10753,03-Dec-2025,Customer 163,Punjab,North,Office Supplies,Paper,Sticky Notes,8,5367.23,0.05,1341.75
+ORD-10754,25-Mar-2025,Customer 120,Telangana,South,Technology,Phones,Budget Phone A2,1,2033.19,0.00,399.50
+ORD-10755,27-Feb-2025,Customer 038,Tamil Nadu,South,Technology,Accessories,USB-C Hub,8,15499.77,0.30,67.36
+ORD-10756,20-May-2025,Customer 145,Jharkhand,East,Office Supplies,Paper,Notebook Set,5,1083.65,0.05,328.19
+ORD-10757,13-Dec-2025,Customer 025,Rajasthan,West,Furniture,Chairs,Office Chair Basic,7,52789.10,0.10,6135.13
+ORD-10758,20-Mar-2025,Customer 008,Punjab,North,Technology,Accessories,USB-C Hub,7,20066.47,0.00,4094.17
+ORD-10759,03-Jan-2025,Customer 085,Odisha,East,Office Supplies,Writing,Pencil Box,8,4047.72,0.15,761.32
+ORD-10760,25-Jan-2025,Customer 165,West Bengal,East,Furniture,Storage,Wall Shelf,6,48962.22,0.05,7152.66
+ORD-10761,24-Jul-2025,Customer 023,Uttar Pradesh,North,Office Supplies,Paper,A4 Paper Pack,7,927.56,0.15,92.00
+ORD-10762,09-Sep-2025,Customer 111,Bihar,East,Technology,Phones,Wireless Earbuds,7,15644.98,0.05,2529.48
+ORD-10763,08-Sep-2025,Customer 115,Uttar Pradesh,North,Furniture,Storage,Filing Cabinet,6,30677.08,0.20,1536.89
+ORD-10764,11-Aug-2025,Customer 162,Karnataka,South,Office Supplies,Storage,Desk Organizer,2,1120.52,0.20,195.41
+ORD-10765,27-Sep-2025,Customer 162,Tamil Nadu,South,Technology,Phones,5G Phone Pro,8,35137.48,0.05,5988.89
+ORD-10766,07-Mar-2025,Customer 176,Odisha,East,Office Supplies,Storage,Desk Organizer,2,1153.47,0.30,50.14
+ORD-10767,20-Sep-2025,Customer 028,Uttar Pradesh,North,Technology,Electronics,Power Bank,5,19987.53,0.00,4097.66
+ORD-10768,09-Jan-2025,Customer 030,Tamil Nadu,South,Office Supplies,Paper,Printer Paper,5,1857.38,0.00,584.54
+ORD-10769,21-Aug-2025,Customer 172,Telangana,South,Technology,Phones,Wireless Earbuds,1,1005.62,0.15,58.42
+ORD-10770,06-Nov-2025,Customer 067,Telangana,South,Furniture,Tables,Laptop Table,3,8539.00,0.00,1596.31
+ORD-10771,02-Sep-2025,Customer 118,Jharkhand,East,Office Supplies,Writing,Gel Pen Pack,1,403.85,0.00,34.29
+ORD-10772,20-Dec-2025,Customer 173,Karnataka,South,Furniture,Storage,Wall Shelf,5,24097.18,0.20,1250.62
+ORD-10773,23-Dec-2025,Customer 049,Karnataka,South,Office Supplies,Paper,Notebook Set,3,274.13,0.00,152.59
+ORD-10774,26-Aug-2025,Customer 038,Bihar,East,Technology,Accessories,Wireless Mouse,4,11619.26,0.10,1469.26
+ORD-10775,30-Aug-2025,Customer 006,Kerala,South,Office Supplies,Paper,A4 Paper Pack,3,1721.96,0.30,257.69
+ORD-10776,05-Jan-2025,Customer 027,Telangana,South,Furniture,Chairs,Office Chair Basic,5,21155.84,0.25,262.45
+ORD-10777,10-Nov-2025,Customer 174,Tamil Nadu,South,Office Supplies,Storage,Pen Drive 64GB,1,335.82,0.30,31.75
+ORD-10778,18-May-2025,Unknown,Kerala,South,Technology,Electronics,LED Monitor 24,1,2518.10,0.20,189.05
+ORD-10779,28-May-2025,Customer 050,Tamil Nadu,South,Office Supplies,Paper,Printer Paper,6,2014.32,0.25,121.68
+ORD-10780,03-Dec-2025,Customer 120,Kerala,South,Office Supplies,Storage,Document Box,4,1798.02,0.20,370.92
+ORD-10781,24-Mar-2025,Customer 160,Maharashtra,West,Office Supplies,Writing,Pencil Box,7,4273.51,0.20,712.06
+ORD-10782,09-Sep-2025,Customer 026,Rajasthan,West,Office Supplies,Writing,Gel Pen Pack,8,1338.19,0.10,205.23
+ORD-10783,14-May-2025,Customer 092,Tamil Nadu,South,Office Supplies,Storage,Document Box,4,2146.40,0.00,567.10
+ORD-10784,03-Mar-2025,Customer 144,Gujarat,West,Technology,Electronics,LED Monitor 24,2,5317.72,0.00,1091.76
+ORD-10785,20-Dec-2025,Customer 132,Goa,West,Office Supplies,Storage,Pen Drive 64GB,6,3625.52,0.15,756.77
+ORD-10786,09-Nov-2025,Customer 157,Jharkhand,East,Furniture,Chairs,Study Chair,8,69669.18,0.00,12654.37
+ORD-10787,22-Mar-2025,Customer 075,Jharkhand,East,Furniture,Chairs,Ergonomic Chair,3,16506.24,0.10,1996.85
+ORD-10788,04-Mar-2025,Customer 052,Telangana,South,Furniture,Tables,Work Desk,3,14993.58,0.20,826.28
+ORD-10789,10-Jul-2025,Customer 107,Telangana,South,Office Supplies,Paper,Notebook Set,8,2735.11,0.05,577.40
+ORD-10790,12-Mar-2025,Customer 110,Haryana,North,Furniture,Storage,Filing Cabinet,3,15918.77,0.25,347.51
+ORD-10791,22-Sep-2025,Customer 018,Tamil Nadu,South,Office Supplies,Storage,Pen Drive 64GB,1,442.91,0.00,176.24
+ORD-10792,05-Dec-2025,Customer 165,Odisha,East,Office Supplies,Storage,Desk Organizer,3,980.86,0.25,177.46
+ORD-10793,10-Jun-2025,Customer 089,Maharashtra,West,Furniture,Chairs,Visitor Chair,7,25796.95,0.15,2181.42
+ORD-10794,16-Nov-2025,Customer 159,Bihar,East,Office Supplies,Writing,Marker Set,7,2809.01,0.10,696.96
+ORD-10795,21-Jun-2025,Customer 100,Telangana,South,Furniture,Tables,Conference Table,4,32286.41,0.00,5700.43
+ORD-10796,22-Nov-2025,Customer 041,Maharashtra,West,Furniture,Storage,Drawer Unit,4,6541.57,0.15,544.80
+ORD-10797,16-Sep-2025,Customer 029,Bihar,East,Technology,Electronics,Bluetooth Speaker,4,18791.56,0.15,1980.50
+ORD-10798,21-Oct-2025,Customer 002,West Bengal,East,Office Supplies,Storage,Pen Drive 64GB,2,238.28,0.00,54.42
+ORD-10799,24-Sep-2025,Customer 064,Telangana,South,Office Supplies,Paper,Notebook Set,6,1854.47,0.05,510.43
+ORD-10800,30-Jul-2025,Customer 021,Jharkhand,East,Office Supplies,Writing,Marker Set,6,2579.44,0.05,689.21
+ORD-10801,27-Sep-2025,Customer 104,Odisha,East,Technology,Accessories,Wireless Mouse,8,15566.00,0.00,3081.83
+ORD-10802,02-Aug-2025,Customer 042,Karnataka,South,Office Supplies,Writing,Pencil Box,7,4395.98,0.30,429.27
+ORD-10803,22-Aug-2025,Customer 122,Maharashtra,West,Furniture,Chairs,Study Chair,8,17673.64,0.00,3227.93
+ORD-10804,09-Jul-2025,Customer 147,West Bengal,East,Furniture,Chairs,Visitor Chair,2,8838.72,0.25,61.16
+ORD-10805,06-Sep-2025,Customer 008,Uttar Pradesh,North,Technology,Electronics,Webcam HD,2,4567.22,0.20,272.49
+ORD-10806,21-Apr-2025,Customer 047,Maharashtra,West,Technology,Electronics,Power Bank,1,5213.53,0.15,627.76
+ORD-10807,08-Jun-2025,Customer 145,Kerala,South,Technology,Phones,5G Phone Pro,2,8622.71,0.25,318.83
+ORD-10808,08-Dec-2025,Customer 115,Telangana,South,Office Supplies,Storage,Desk Organizer,3,1480.08,0.30,188.61
+ORD-10809,24-Jan-2025,Customer 172,Maharashtra,West,Furniture,Tables,Work Desk,7,22157.28,0.25,349.11
+ORD-10810,05-Mar-2025,Customer 165,Telangana,South,Furniture,Tables,Work Desk,3,17126.38,0.15,1427.58
+ORD-10811,30-Sep-2025,Customer 047,Odisha,East,Technology,Electronics,LED Monitor 24,4,20212.96,0.00,3951.46
+ORD-10812,24-Jan-2025,Customer 126,Bihar,East,Office Supplies,Paper,Notebook Set,8,956.23,0.20,119.87
+ORD-10813,16-Feb-2025,Customer 030,Bihar,East,Office Supplies,Storage,Document Box,7,558.47,0.20,55.45
+ORD-10814,28-Jul-2025,Customer 174,Jharkhand,East,Furniture,Chairs,Visitor Chair,3,7874.45,0.00,1334.42
+ORD-10815,20-Feb-2025,Customer 082,Gujarat,West,Technology,Electronics,Bluetooth Speaker,3,2572.78,0.00,466.08
+ORD-10816,03-May-2025,Customer 153,Maharashtra,West,Office Supplies,Storage,Pen Drive 64GB,7,5964.65,0.00,1562.55
+ORD-10817,28-Jul-2025,Customer 017,Goa,West,Office Supplies,Writing,Pencil Box,2,481.31,0.20,63.75
+ORD-10818,12-Oct-2025,Customer 167,Kerala,South,Technology,Accessories,Wireless Mouse,1,2261.13,0.00,391.34
+ORD-10819,14-Mar-2025,Customer 096,Maharashtra,West,Office Supplies,Writing,Pencil Box,8,1071.39,0.10,298.24
+ORD-10820,14-Nov-2025,Customer 075,Gujarat,West,Technology,Electronics,Power Bank,8,5277.41,0.30,137.05
+ORD-10821,20-Nov-2025,Customer 055,Gujarat,West,Technology,Phones,Wireless Earbuds,5,15628.62,0.25,705.89
+ORD-10822,12-Oct-2025,Customer 072,Uttar Pradesh,North,Technology,Phones,Smartphone X1,5,6101.74,0.00,1299.67
+ORD-10823,06-Dec-2025,Customer 083,Tamil Nadu,South,Technology,Electronics,Bluetooth Speaker,6,18412.74,0.30,37.59
+ORD-10824,02-Jan-2025,Customer 156,Punjab,North,Technology,Accessories,Mechanical Keyboard,1,5701.24,0.05,990.10
+ORD-10825,03-Oct-2025,Customer 021,Kerala,South,Technology,Phones,Budget Phone A2,7,19225.57,0.30,159.12
+ORD-10826,03-Jul-2025,Customer 100,Odisha,East,Furniture,Chairs,Study Chair,2,5930.04,0.25,182.37
+ORD-10827,24-Apr-2025,Customer 006,Gujarat,West,Furniture,Chairs,Ergonomic Chair,8,29446.19,0.10,3373.01
+ORD-10828,24-Apr-2025,Customer 060,Delhi,North,Furniture,Storage,Drawer Unit,4,6465.91,0.15,607.46
+ORD-10829,23-Nov-2025,Customer 102,Kerala,South,Office Supplies,Paper,Sticky Notes,8,5916.21,0.10,1153.70
+ORD-10830,07-Mar-2025,Customer 017,Jharkhand,East,Office Supplies,Writing,Pencil Box,3,1517.52,0.05,271.27
+ORD-10831,21-Dec-2025,Customer 174,Maharashtra,West,Office Supplies,Writing,Marker Set,5,1186.59,0.00,450.31
+ORD-10832,15-Jun-2025,Customer 111,Delhi,North,Furniture,Storage,Wall Shelf,1,8515.54,0.00,1617.72
+ORD-10833,25-Apr-2025,Customer 013,Tamil Nadu,South,Office Supplies,Paper,Printer Paper,8,3011.26,0.00,935.27
+ORD-10834,20-Oct-2025,Customer 007,Delhi,North,Office Supplies,Writing,Pencil Box,6,454.85,0.10,58.12
+ORD-10835,17-Nov-2025,Customer 161,Goa,West,Furniture,Tables,Work Desk,4,8754.05,0.20,392.30
+ORD-10836,07-May-2025,Customer 028,Jharkhand,East,Technology,Accessories,Laptop Stand,1,3309.34,0.20,313.38
+ORD-10837,04-Nov-2025,Customer 159,Kerala,South,Technology,Accessories,USB-C Hub,6,20056.22,0.10,2814.04
+ORD-10838,13-Jul-2025,Customer 081,Telangana,South,Technology,Electronics,Power Bank,2,2392.20,0.00,578.45
+ORD-10839,13-Dec-2025,Customer 015,Odisha,East,Technology,Phones,Wireless Earbuds,1,1836.40,0.25,-35.35
+ORD-10840,03-Nov-2025,Customer 169,West Bengal,East,Office Supplies,Storage,Desk Organizer,2,879.28,0.25,39.26
+ORD-10841,12-Dec-2025,Customer 007,Bihar,East,Office Supplies,Storage,Desk Organizer,7,5610.85,0.00,1532.55
+ORD-10842,10-Apr-2025,Customer 147,Telangana,South,Furniture,Tables,Study Table,2,4001.96,0.00,742.65
+ORD-10843,12-Mar-2025,Customer 012,Maharashtra,West,Furniture,Storage,Drawer Unit,6,18832.19,0.30,-357.86
+ORD-10844,08-Jun-2025,Customer 155,West Bengal,East,Technology,Accessories,Laptop Stand,6,14277.88,0.05,2306.92
+ORD-10845,11-Apr-2025,Customer 052,Punjab,North,Office Supplies,Storage,File Folder,3,381.00,0.00,87.97
+ORD-10846,19-Jun-2025,Customer 149,Rajasthan,West,Technology,Accessories,Wireless Mouse,8,26486.51,0.30,156.38
+ORD-10847,22-Jan-2025,Customer 127,Punjab,North,Furniture,Tables,Conference Table,6,10356.29,0.30,-65.08
+ORD-10848,19-Jun-2025,Customer 097,Goa,West,Technology,Electronics,Webcam HD,4,12261.29,0.10,1592.64
+ORD-10849,28-Feb-2025,Customer 037,Rajasthan,West,Office Supplies,Paper,A4 Paper Pack,6,422.94,0.20,-49.35
+ORD-10850,31-Mar-2025,Customer 057,Uttar Pradesh,North,Office Supplies,Paper,Sticky Notes,1,791.78,0.10,97.71
+ORD-10851,15-May-2025,Customer 026,Delhi,North,Furniture,Chairs,Visitor Chair,4,10370.49,0.00,1788.95
+ORD-10852,03-May-2025,Customer 095,Bihar,East,Furniture,Chairs,Study Chair,2,6910.90,0.10,747.97
+ORD-10853,09-Apr-2025,Customer 137,Haryana,North,Furniture,Chairs,Study Chair,2,4036.07,0.05,666.10
+ORD-10854,12-Nov-2025,Customer 151,Karnataka,South,Furniture,Tables,Laptop Table,7,55568.87,0.10,6491.46
+ORD-10855,18-Sep-2025,Customer 150,Rajasthan,West,Furniture,Tables,Study Table,6,15952.49,0.15,1405.56
+ORD-10856,18-Jul-2025,Customer 166,Kerala,South,Technology,Electronics,LED Monitor 24,8,42302.27,0.00,8380.64
+ORD-10857,05-Sep-2025,Customer 127,Haryana,North,Office Supplies,Writing,Pencil Box,3,825.35,0.20,129.92
+ORD-10858,01-May-2025,Customer 102,Kerala,South,Office Supplies,Writing,Pencil Box,1,224.91,0.10,36.85
+ORD-10859,13-Feb-2025,Customer 035,Rajasthan,West,Office Supplies,Storage,Desk Organizer,3,2033.06,0.20,246.05
+ORD-10860,22-Jun-2025,Customer 110,Odisha,East,Office Supplies,Storage,Pen Drive 64GB,4,1564.78,0.30,135.95
+ORD-10861,13-Jan-2025,Customer 046,Telangana,South,Office Supplies,Storage,Desk Organizer,6,3550.53,0.20,478.10
+ORD-10862,20-Sep-2025,Customer 140,Telangana,South,Technology,Accessories,USB-C Hub,6,30235.66,0.15,3181.38
+ORD-10863,20-Jun-2025,Customer 051,Odisha,East,Office Supplies,Paper,A4 Paper Pack,2,277.01,0.00,88.61
+ORD-10864,06-Oct-2025,Customer 067,Punjab,North,Office Supplies,Storage,Pen Drive 64GB,4,2502.78,0.05,739.06
+ORD-10865,20-Sep-2025,Customer 039,Bihar,East,Office Supplies,Storage,Pen Drive 64GB,7,5988.98,0.00,1670.20
+ORD-10866,25-Aug-2025,Customer 088,Karnataka,South,Technology,Phones,Budget Phone A2,8,11511.33,0.30,110.96
+ORD-10867,16-Jan-2025,Customer 096,Odisha,East,Office Supplies,Paper,Printer Paper,7,1234.11,0.30,189.61
+ORD-10868,03-Aug-2025,Customer 109,Maharashtra,West,Furniture,Chairs,Visitor Chair,1,4078.75,0.20,165.49
+ORD-10869,20-Mar-2025,Customer 085,Karnataka,South,Furniture,Storage,Drawer Unit,6,34669.50,0.00,6341.82
+ORD-10870,18-Jun-2025,Customer 146,Karnataka,South,Office Supplies,Paper,Printer Paper,2,932.91,0.10,194.52
+ORD-10871,19-Dec-2025,Customer 155,Telangana,South,Furniture,Tables,Work Desk,3,5738.88,0.05,734.18
+ORD-10872,30-Apr-2025,Customer 075,Kerala,South,Technology,Phones,Budget Phone A2,2,8978.70,0.25,284.82
+ORD-10873,26-Feb-2025,Customer 034,Odisha,East,Office Supplies,Paper,Sticky Notes,1,165.67,0.25,-6.67
+ORD-10874,16-Apr-2025,Customer 080,Tamil Nadu,South,Office Supplies,Writing,Gel Pen Pack,7,5438.03,0.10,1080.36
+ORD-10875,15-Sep-2025,Customer 176,Tamil Nadu,South,Furniture,Storage,Wall Shelf,3,15067.78,0.15,1264.09
+ORD-10876,07-May-2025,Customer 135,Telangana,South,Office Supplies,Paper,A4 Paper Pack,3,1002.37,0.25,142.94
+ORD-10877,22-Aug-2025,Customer 089,Punjab,North,Furniture,Tables,Conference Table,8,45550.68,0.00,8148.22
+ORD-10878,04-Dec-2025,Customer 047,Uttar Pradesh,North,Office Supplies,Writing,Marker Set,7,1492.53,0.25,165.25
+ORD-10879,18-Nov-2025,Customer 138,Jharkhand,East,Office Supplies,Writing,Gel Pen Pack,4,3063.35,0.05,703.89
+ORD-10880,09-Feb-2025,Customer 027,Uttar Pradesh,North,Furniture,Chairs,Office Chair Basic,8,35263.76,0.00,6466.35
+ORD-10881,07-Feb-2025,Customer 164,Punjab,North,Office Supplies,Storage,Document Box,5,1250.23,0.00,340.98
+ORD-10882,30-Dec-2025,Customer 035,Telangana,South,Office Supplies,Storage,Desk Organizer,4,1621.09,0.00,394.05
+ORD-10883,05-May-2025,Customer 113,Punjab,North,Furniture,Storage,Wall Shelf,8,38388.68,0.00,6921.59
+ORD-10884,05-Mar-2025,Customer 137,Maharashtra,West,Office Supplies,Storage,Document Box,3,2302.70,0.00,567.29
+ORD-10885,18-Jan-2025,Customer 173,Karnataka,South,Technology,Phones,Smartphone X1,5,6361.12,0.20,367.98
+ORD-10886,03-Nov-2025,Customer 002,Rajasthan,West,Office Supplies,Writing,Gel Pen Pack,2,680.52,0.15,110.75
+ORD-10887,04-Aug-2025,Customer 008,West Bengal,East,Office Supplies,Paper,Notebook Set,6,4455.97,0.10,859.97
+ORD-10888,07-Dec-2025,Customer 043,Bihar,East,Office Supplies,Paper,A4 Paper Pack,4,3464.68,0.00,1041.37
+ORD-10889,05-Oct-2025,Customer 102,Gujarat,West,Technology,Accessories,USB-C Hub,6,13886.32,0.10,1904.57
+ORD-10890,01-Dec-2025,Customer 081,tamil nadu,South,Technology,Phones,Budget Phone A2,2,5259.47,0.05,764.56
+ORD-10891,08-Jul-2025,Customer 012,Bihar,East,Office Supplies,Paper,Printer Paper,4,456.05,0.15,119.22
+ORD-10892,19-Oct-2025,Customer 044,Odisha,East,Technology,Accessories,Mechanical Keyboard,8,51215.96,0.00,10294.20
+ORD-10893,22-Nov-2025,Customer 177,Delhi,North,Technology,Electronics,Bluetooth Speaker,7,30801.62,0.05,5118.96
+ORD-10894,24-Nov-2025,Customer 060,Punjab,North,Furniture,Tables,Work Desk,6,5618.17,0.30,-112.50
+ORD-10895,14-Nov-2025,Customer 021,Bihar,East,Technology,Phones,Smartphone X1,5,7766.62,0.25,352.99
+ORD-10896,20-Jan-2025,Customer 061,West Bengal,East,Technology,Accessories,Laptop Stand,5,7018.76,0.25,192.26
+ORD-10897,01-Aug-2025,Customer 166,Telangana,South,Furniture,Tables,Study Table,5,18384.01,0.00,3314.13
+ORD-10898,07-Dec-2025,Customer 064,Uttar Pradesh,North,Technology,Phones,5G Phone Pro,6,12630.26,0.00,2623.64
+ORD-10899,09-Sep-2025,Customer 018,Goa,West,Furniture,Tables,Laptop Table,3,13951.24,0.00,2406.73
+ORD-10900,15-Apr-2025,Customer 061,Rajasthan,West,Technology,Electronics,Webcam HD,4,5427.36,0.05,931.31
+ORD-10901,01-Apr-2025,Customer 156,Odisha,East,Office Supplies,Writing,Pencil Box,5,965.75,0.10,146.42
+ORD-10902,04-Jul-2025,Customer 102,Goa,West,Office Supplies,Storage,Desk Organizer,4,848.19,0.30,-28.70
+ORD-10903,04-Sep-2025,Customer 006,Karnataka,South,Technology,Accessories,Laptop Stand,7,19061.16,0.25,777.27
+ORD-10904,26-Aug-2025,Customer 079,Karnataka,South,Office Supplies,Paper,Sticky Notes,3,1520.02,0.05,317.95
+ORD-10905,08-Apr-2025,Customer 002,Telangana,South,Office Supplies,Storage,Desk Organizer,2,494.55,0.30,-30.99
+ORD-10906,11-Jul-2025,Customer 099,Bihar,East,Furniture,Storage,Drawer Unit,8,26133.19,0.25,563.00
+ORD-10907,17-Oct-2025,Customer 042,Kerala,South,Office Supplies,Writing,Gel Pen Pack,7,5639.90,0.00,1551.53
+ORD-10908,30-Nov-2025,Customer 099,Rajasthan,West,Office Supplies,Storage,Pen Drive 64GB,8,3844.37,0.20,623.80
+ORD-10909,13-Dec-2025,Customer 008,Tamil Nadu,South,Furniture,Chairs,Office Chair Basic,8,9402.62,0.20,501.56
+ORD-10910,17-Feb-2025,Customer 165,Maharashtra,West,Office Supplies,Writing,Pencil Box,3,822.27,0.05,86.47
+ORD-10911,10-May-2025,Customer 178,Karnataka,South,Office Supplies,Writing,Gel Pen Pack,4,3033.64,0.05,829.97
+ORD-10912,21-Oct-2025,Customer 089,Uttar Pradesh,North,Furniture,Storage,Wall Shelf,5,34623.40,0.00,6138.44
+ORD-10913,09-Sep-2025,Customer 001,Maharashtra,West,Office Supplies,Writing,Marker Set,7,4572.31,0.00,1397.13
+ORD-10914,11-Jul-2025,Customer 048,Jharkhand,East,Technology,Electronics,Power Bank,7,23605.17,0.25,806.15
+ORD-10915,31-Jan-2025,Customer 047,Maharashtra,West,Technology,Accessories,Wireless Mouse,2,5964.90,0.10,729.81
+ORD-10916,13-Feb-2025,Customer 097,Rajasthan,West,Office Supplies,Storage,Desk Organizer,2,1504.91,0.05,271.62
+ORD-10917,21-Feb-2025,Customer 003,Jharkhand,East,Office Supplies,Paper,Sticky Notes,1,392.16,0.30,29.78
+ORD-10918,24-Sep-2025,Customer 069,West Bengal,East,Office Supplies,Paper,A4 Paper Pack,2,506.15,0.00,111.88
+ORD-10919,03-May-2025,Customer 093,Kerala,South,Office Supplies,Storage,Desk Organizer,6,1843.41,0.20,396.38
+ORD-10920,24-Dec-2025,Customer 103,Karnataka,South,Office Supplies,Writing,Gel Pen Pack,6,4775.54,0.00,1217.89
+ORD-10921,13-Nov-2025,Customer 176,Maharashtra,West,Technology,Electronics,LED Monitor 24,5,27972.72,0.10,3744.74
+ORD-10922,04-Jul-2025,Customer 012,Kerala,South,Furniture,Tables,Study Table,1,7113.77,0.20,239.68
+ORD-10923,01-Sep-2025,Customer 169,Punjab,North,Furniture,Tables,Study Table,8,34570.31,0.00,6186.26
+ORD-10924,14-Feb-2025,Customer 078,Jharkhand,East,Furniture,Tables,Laptop Table,4,27012.59,0.00,4772.95
+ORD-10925,29-Mar-2025,Customer 169,Telangana,South,Technology,Accessories,USB-C Hub,8,32711.93,0.10,4354.52
+ORD-10926,24-May-2025,Customer 057,Odisha,East,Technology,Accessories,USB-C Hub,3,14611.73,0.20,1119.46
+ORD-10927,21-Dec-2025,Customer 086,Delhi,North,Furniture,Tables,Work Desk,3,17634.42,0.30,-362.81
+ORD-10928,15-Oct-2025,Customer 112,Goa,West,Furniture,Storage,Bookshelf,6,18633.06,0.25,363.02
+ORD-10929,31-Oct-2025,Customer 049,Goa,West,Technology,Accessories,USB-C Hub,5,6042.73,0.00,1170.20
+ORD-10930,30-Oct-2025,Customer 138,Jharkhand,East,Furniture,Tables,Study Table,6,51850.41,0.00,9287.67
+ORD-10931,05-Nov-2025,Customer 152,Rajasthan,West,Office Supplies,Storage,Pen Drive 64GB,6,4183.60,0.05,1040.18
+ORD-10932,13-Sep-2025,Customer 175,Goa,West,Technology,Accessories,USB-C Hub,8,17220.13,0.15,1846.00
+ORD-10933,08-Jun-2025,Customer 129,Telangana,South,Technology,Electronics,Bluetooth Speaker,3,15098.84,0.00,3043.50
+ORD-10934,20-Jun-2025,Customer 040,Jharkhand,East,Office Supplies,Writing,Pencil Box,4,1457.76,0.25,65.40
+ORD-10935,04-Dec-2025,Customer 041,Rajasthan,West,Furniture,Chairs,Ergonomic Chair,3,17736.47,0.25,262.17
+ORD-10936,20-Jul-2025,Customer 019,Bihar,East,Furniture,Tables,Laptop Table,7,36330.61,0.20,1878.38
+ORD-10937,25-Oct-2025,Customer 014,Uttar Pradesh,North,Office Supplies,Writing,Marker Set,7,894.89,0.20,194.78
+ORD-10938,16-Mar-2025,Customer 054,Uttar Pradesh,North,Office Supplies,Writing,Marker Set,3,928.92,0.30,28.82
+ORD-10939,17-Mar-2025,Customer 097,Rajasthan,West,Furniture,Chairs,Ergonomic Chair,6,41174.81,0.00,7454.26
+ORD-10940,27-Jan-2025,Customer 031,Tamil Nadu,South,Furniture,Chairs,Ergonomic Chair,2,5562.98,0.30,-160.33
+ORD-10941,08-Sep-2025,Customer 078,Punjab,North,Furniture,Tables,Study Table,7,21777.05,0.00,3857.67
+ORD-10942,01-Dec-2025,Customer 114,Gujarat,West,Furniture,Storage,Wall Shelf,2,10899.45,0.25,136.79
+ORD-10943,21-Oct-2025,Customer 147,Haryana,North,Technology,Phones,Smartphone X1,2,2534.22,0.10,227.65
+ORD-10944,06-Mar-2025,Customer 026,Kerala,South,Office Supplies,Writing,Gel Pen Pack,3,888.41,0.25,56.00
+ORD-10945,02-Oct-2025,Customer 136,Punjab,North,Technology,Electronics,Webcam HD,7,37902.44,0.00,7555.00
+ORD-10946,03-Nov-2025,Customer 178,Kerala,South,Technology,Electronics,LED Monitor 24,4,25203.80,0.00,4964.12
+ORD-10947,01-Dec-2025,Customer 042,Gujarat,West,Technology,Electronics,Power Bank,6,8057.88,0.05,1367.71
+ORD-10948,06-Oct-2025,Customer 044,Odisha,East,Furniture,Tables,Work Desk,2,15033.85,0.15,1207.55
+ORD-10949,16-Aug-2025,Customer 036,Tamil Nadu,South,Furniture,Chairs,Office Chair Basic,5,6630.41,0.15,585.21
+ORD-10950,07-Apr-2025,Customer 037,Kerala,South,Furniture,Tables,Laptop Table,4,26263.43,0.00,4664.32
+ORD-10951,11-May-2025,Customer 067,Uttar Pradesh,North,Technology,Phones,Budget Phone A2,6,10390.03,0.25,287.47
+ORD-10952,22-Dec-2025,Customer 037,Karnataka,South,Furniture,Chairs,Study Chair,8,12575.80,0.15,1079.87
+ORD-10953,20-Mar-2025,Customer 081,Rajasthan,West,Technology,Electronics,Bluetooth Speaker,4,18406.37,0.05,3063.79
+ORD-10954,28-Jul-2025,Customer 017,Tamil Nadu,South,Office Supplies,Paper,Notebook Set,2,603.01,0.00,213.00
+ORD-10955,26-Apr-2025,Customer 071,Punjab,North,Furniture,Chairs,Visitor Chair,6,41433.03,0.05,6199.90
+ORD-10956,06-Jun-2025,Customer 151,Bihar,East,Technology,Accessories,Wireless Mouse,7,43542.38,0.00,8630.65
+ORD-10957,29-Mar-2025,Customer 082,Kerala,South,Technology,Electronics,Bluetooth Speaker,5,19494.72,0.00,3994.12
+ORD-10958,20-Sep-2025,Customer 040,Karnataka,South,Technology,Accessories,Laptop Stand,8,28120.71,0.15,2764.65
+ORD-10959,08-May-2025,Customer 174,Maharashtra,West,Technology,Accessories,Mechanical Keyboard,1,4821.57,0.20,387.31
+ORD-10960,22-May-2025,Customer 110,Tamil Nadu,South,Furniture,Tables,Study Table,8,49799.24,0.30,-746.45
+ORD-10961,21-Nov-2025,Customer 021,Goa,West,Office Supplies,Writing,Gel Pen Pack,5,1653.37,0.20,330.86
+ORD-10962,11-Oct-2025,Customer 127,Odisha,East,Furniture,Chairs,Ergonomic Chair,3,17062.41,0.00,3129.65
+ORD-10963,12-Nov-2025,Customer 049,Bihar,East,Office Supplies,Writing,Marker Set,8,3905.60,0.00,1070.88
+ORD-10964,28-Mar-2025,Customer 173,Bihar,East,Furniture,Tables,Laptop Table,4,35819.72,0.00,6473.32
+ORD-10965,14-Jul-2025,Customer 044,Goa,West,Technology,Phones,5G Phone Pro,3,11038.11,0.00,2189.08
+ORD-10966,20-Apr-2025,Customer 001,Haryana,North,Technology,Accessories,Wireless Mouse,2,3335.33,0.30,-32.87
+ORD-10967,04-Jan-2025,Customer 158,Karnataka,South,Technology,Accessories,USB-C Hub,8,32908.20,0.30,58.34
+ORD-10968,05-Jan-2025,Customer 026,Telangana,South,Office Supplies,Storage,Pen Drive 64GB,2,160.03,0.05,16.10
+ORD-10969,03-Dec-2025,Customer 065,Tamil Nadu,South,Office Supplies,Paper,A4 Paper Pack,3,875.26,0.30,-43.94
+ORD-10970,18-May-2025,Customer 028,Goa,West,Office Supplies,Storage,Pen Drive 64GB,5,1799.71,0.05,454.17
+ORD-10971,30-Dec-2025,Customer 051,Telangana,South,Furniture,Tables,Study Table,3,8908.10,0.25,37.29
+ORD-10972,24-Mar-2025,Customer 171,Jharkhand,East,Technology,Accessories,USB-C Hub,3,7172.08,0.20,598.29
+ORD-10973,07-Mar-2025,Customer 084,Rajasthan,West,Office Supplies,Writing,Highlighter Pack,2,595.42,0.30,122.57
+ORD-10974,06-Mar-2025,Customer 040,Karnataka,South,Furniture,Storage,Wall Shelf,3,6167.75,0.00,1180.45
+ORD-10975,02-Nov-2025,Customer 003,Haryana,North,Furniture,Chairs,Office Chair Basic,1,5192.66,0.20,242.75
+ORD-10976,20-Mar-2025,Customer 131,Tamil Nadu,South,Office Supplies,Storage,Pen Drive 64GB,8,886.47,0.25,43.62
+ORD-10977,08-Aug-2025,Customer 051,Gujarat,West,Technology,Accessories,USB-C Hub,5,29100.11,0.10,3968.43
+ORD-10978,09-Mar-2025,Customer 103,Kerala,South,Furniture,Chairs,Office Chair Basic,4,33979.23,0.05,4946.99
+ORD-10979,27-Jan-2025,Customer 098,West Bengal,East,Office Supplies,Paper,Notebook Set,7,595.24,0.10,29.80
+ORD-10980,07-Aug-2025,Customer 165,Tamil Nadu,South,Furniture,Tables,Study Table,4,10702.12,0.30,-265.81
+ORD-10981,07-May-2025,Customer 082,West Bengal,East,Office Supplies,Paper,Sticky Notes,6,1488.27,0.20,274.02
+ORD-10982,30-Aug-2025,Customer 072,West Bengal,East,Technology,Phones,Smartphone X1,1,3624.40,0.20,184.58
+ORD-10983,09-Dec-2025,Customer 004,Jharkhand,East,Office Supplies,Paper,Sticky Notes,8,2571.33,0.15,376.03
+ORD-10984,16-Jul-2025,Customer 023,Maharashtra,West,Office Supplies,Storage,Pen Drive 64GB,6,1404.37,0.15,186.71
+ORD-10985,17-Aug-2025,Customer 026,Jharkhand,East,Technology,Electronics,LED Monitor 24,1,3691.85,0.10,424.70
+ORD-10986,20-Mar-2025,Customer 012,Odisha,East,Furniture,Storage,Drawer Unit,5,30859.81,0.10,3556.93
+ORD-10987,02-Mar-2025,Customer 112,Maharashtra,West,Technology,Accessories,Mechanical Keyboard,6,24740.08,0.30,154.87
+ORD-10988,17-Oct-2025,Customer 016,Odisha,East,Office Supplies,Storage,File Folder,3,1628.22,0.05,352.50
+ORD-10989,19-Jul-2025,Customer 103,Rajasthan,West,Furniture,Tables,Conference Table,2,3736.56,0.25,80.39
+ORD-10990,20-Sep-2025,Customer 117,Delhi,North,Technology,Phones,Smartphone X1,3,12051.02,0.00,2501.20
+ORD-10991,01-Oct-2025,Customer 061,Delhi,North,Office Supplies,Paper,Sticky Notes,5,2530.63,0.05,560.07
+ORD-10992,27-Jan-2025,Customer 165,Uttar Pradesh,North,Technology,Electronics,Webcam HD,5,25831.66,0.15,2737.36
+ORD-10993,28-Dec-2025,Customer 141,Goa,West,Technology,Electronics,LED Monitor 24,1,3569.72,0.20,207.78
+ORD-10994,06-Jan-2025,Customer 092,Delhi,North,Furniture,Chairs,Study Chair,5,18660.77,0.00,3389.17
+ORD-10995,19-Dec-2025,Customer 098,Goa,West,Furniture,Tables,Study Table,5,43892.58,0.00,7954.09
+ORD-10996,19-Nov-2025,Customer 102,Delhi,North,Furniture,Storage,Filing Cabinet,8,19862.69,0.15,1567.61
+ORD-10997,03-Apr-2025,Customer 118,Maharashtra,West,Office Supplies,Paper,Printer Paper,6,846.86,0.30,-25.53
+ORD-10998,01-Apr-2025,Customer 101,Gujarat,West,Technology,Phones,Wireless Earbuds,3,13367.62,0.00,2627.96
+ORD-10999,27-Sep-2025,Customer 036,Rajasthan,West,Technology,Phones,Smartphone X1,7,11142.98,0.25,321.92
+ORD-11000,26-Nov-2025,Customer 012,Bihar,East,Furniture,Chairs,Study Chair,7,9531.09,0.00,1778.82
+ORD-11001,05-Jan-2025,Customer 028,Maharashtra,West,Technology,Phones,5G Phone Pro,3,18431.61,0.00,3756.50
+ORD-11002,07-Jun-2025,Customer 085,Punjab,North,Furniture,Chairs,Office Chair Basic,3,10389.37,0.30,-80.13
+ORD-11003,23-Jan-2025,Customer 027,Kerala,South,Technology,Phones,Smartphone X1,5,21697.09,0.00,4224.51
+ORD-11004,07-Aug-2025,Customer 099,Uttar Pradesh,North,Technology,Electronics,Power Bank,3,1908.96,0.10,143.47
+ORD-11005,27-Feb-2025,Customer 126,Maharashtra,West,Office Supplies,Writing,Highlighter Pack,4,2507.36,0.25,339.44
+ORD-11006,13-Feb-2025,Customer 012,Gujarat,West,Technology,Phones,Smartphone X1,5,11089.54,0.20,684.67
+ORD-11007,18-Dec-2025,Customer 078,Maharashtra,West,Technology,Accessories,Mechanical Keyboard,3,13226.03,0.05,2309.71
+ORD-11008,31-Dec-2025,Customer 020,Uttar Pradesh,North,Office Supplies,Paper,Sticky Notes,8,4233.82,0.15,847.24
+ORD-11009,02-Sep-2025,Customer 018,Bihar,East,Technology,Electronics,Webcam HD,6,6539.93,0.30,85.82
+ORD-11010,17-Jul-2025,Customer 091,Jharkhand,East,Furniture,Tables,Laptop Table,3,5430.64,0.05,724.67
+ORD-11011,01-Dec-2025,Customer 063,Punjab,North,Office Supplies,Storage,Desk Organizer,7,3211.20,0.20,394.85
+ORD-11012,25-Oct-2025,Customer 108,Karnataka,South,Office Supplies,Writing,Pencil Box,8,3719.73,0.10,772.05
+ORD-11013,31-Aug-2025,Customer 035,Goa,West,Furniture,Chairs,Office Chair Basic,6,7334.13,0.00,1287.12
+ORD-11014,10-Oct-2025,Customer 108,Jharkhand,East,Technology,Accessories,Mechanical Keyboard,3,6866.35,0.05,1230.57
+ORD-11015,14-Jan-2025,Customer 179,Goa,West,Technology,Phones,Smartphone X1,3,3932.91,0.05,629.35
+ORD-11016,07-Jul-2025,Customer 037,Tamil Nadu,South,Office Supplies,Paper,A4 Paper Pack,2,894.90,0.05,108.73
+ORD-11017,13-Mar-2025,Customer 136,Odisha,East,Technology,Phones,Smartphone X1,7,10429.59,0.05,1739.70
+ORD-11018,21-Mar-2025,Customer 016,Uttar Pradesh,North,Office Supplies,Storage,Pen Drive 64GB,8,5765.96,0.00,1563.29
+ORD-11019,21-Aug-2025,Customer 142,West Bengal,East,Furniture,Chairs,Office Chair Basic,1,3218.89,0.25,99.51
+ORD-11020,17-Feb-2025,Customer 134,Delhi,North,Furniture,Storage,Drawer Unit,4,17117.59,0.05,2470.08
+ORD-11021,14-Oct-2025,Customer 155,Karnataka,South,Technology,Electronics,Webcam HD,7,27029.86,0.10,3623.18
+ORD-11022,26-Mar-2025,Customer 014,Odisha,East,Furniture,Tables,Conference Table,6,28309.77,0.25,573.96
+ORD-11023,21-Jun-2025,Customer 008,Haryana,North,Furniture,Tables,Study Table,5,10227.63,0.00,1808.02
+ORD-11024,08-Jun-2025,Customer 049,Goa,West,Office Supplies,Paper,A4 Paper Pack,2,507.53,0.00,203.67
+ORD-11025,05-Sep-2025,Customer 012,Rajasthan,West,Furniture,Chairs,Office Chair Basic,5,9316.53,0.00,1692.27
+ORD-11026,14-Sep-2025,Customer 050,West Bengal,East,Office Supplies,Paper,Sticky Notes,1,751.44,0.15,247.24
+ORD-11027,15-Sep-2025,Customer 026,Punjab,North,Office Supplies,Writing,Highlighter Pack,3,1968.54,0.00,510.71
+ORD-11028,19-Mar-2025,Customer 175,Maharashtra,West,Technology,Electronics,Power Bank,8,32807.02,0.00,6511.03
+ORD-11029,24-Mar-2025,Customer 129,Telangana,South,Technology,Electronics,LED Monitor 24,4,22152.22,0.05,3775.02
+ORD-11030,31-Dec-2025,Customer 175,Punjab,North,Office Supplies,Paper,Sticky Notes,5,1407.97,0.25,55.04
+ORD-11031,08-Jan-2025,Customer 037,Karnataka,South,Technology,Phones,Smartphone X1,3,8374.85,0.30,-54.75
+ORD-11032,24-Mar-2025,Customer 018,Uttar Pradesh,North,Furniture,Chairs,Study Chair,2,9020.25,0.05,1434.66
+ORD-11033,31-Aug-2025,Customer 066,Delhi,North,Furniture,Tables,Laptop Table,2,2456.78,0.30,-94.95
+ORD-11034,14-Nov-2025,Customer 175,Telangana,South,Furniture,Chairs,Ergonomic Chair,8,10259.99,0.15,822.67
+ORD-11035,15-May-2025,Customer 175,Maharashtra,West,Office Supplies,Storage,Pen Drive 64GB,6,668.08,0.25,79.93
+ORD-11036,23-Feb-2025,Customer 075,West Bengal,East,Furniture,Storage,Bookshelf,4,26632.05,0.00,4710.86
+ORD-11037,28-Jun-2025,Customer 120,Karnataka,South,Technology,Electronics,Power Bank,2,2791.18,0.30,54.55
+ORD-11038,23-Jul-2025,Customer 111,Telangana,South,Furniture,Storage,Wall Shelf,2,3738.83,0.00,773.18
+ORD-11039,01-Sep-2025,Customer 030,Rajasthan,West,Office Supplies,Storage,File Folder,6,1515.31,0.30,59.83
+ORD-11040,17-Jan-2025,Customer 154,Delhi,North,Office Supplies,Paper,Notebook Set,8,1435.11,0.10,265.39
+ORD-11041,17-Dec-2025,Customer 109,Karnataka,South,Technology,Accessories,Laptop Stand,8,13952.45,0.10,1971.91
+ORD-11042,02-Jun-2025,Customer 116,Delhi,North,Office Supplies,Writing,Marker Set,2,333.58,0.15,38.09
+ORD-11043,08-Aug-2025,Customer 088,Tamil Nadu,South,Furniture,Chairs,Visitor Chair,3,23034.85,0.00,4241.06
+ORD-11044,12-Aug-2025,Customer 091,Uttar Pradesh,North,Technology,Phones,5G Phone Pro,7,23231.29,0.05,4002.98
+ORD-11045,12-Jun-2025,Customer 004,Karnataka,South,Technology,Electronics,Webcam HD,2,9294.41,0.05,1514.51
+ORD-11046,02-Jan-2025,Customer 116,Maharashtra,West,Office Supplies,Paper,Printer Paper,6,779.21,0.25,34.63
+ORD-11047,07-Oct-2025,Customer 043,Maharashtra,West,Furniture,Tables,Work Desk,1,2614.73,0.10,281.54
+ORD-11048,06-Jul-2025,Customer 005,Karnataka,South,Technology,Accessories,Wireless Mouse,4,25344.47,0.00,5037.76
+ORD-11049,30-Jun-2025,Customer 091,Uttar Pradesh,North,Office Supplies,Writing,Gel Pen Pack,8,3427.80,0.30,270.74
+ORD-11050,01-Nov-2025,Customer 042,Tamil Nadu,South,Furniture,Tables,Work Desk,3,11469.18,0.20,495.91
+ORD-11051,23-Feb-2025,Customer 023,Tamil Nadu,South,Office Supplies,Storage,Desk Organizer,5,3278.58,0.00,1036.89
+ORD-11052,15-Sep-2025,Customer 149,Bihar,East,Furniture,Tables,Work Desk,8,56396.49,0.00,10183.41
+ORD-11053,28-Feb-2025,Customer 051,West Bengal,East,Furniture,Tables,Conference Table,4,8227.69,0.30,-111.03
+ORD-11054,11-Jul-2025,Customer 058,Kerala,South,Technology,Accessories,Laptop Stand,7,31323.40,0.25,1056.45
+ORD-11055,03-Jan-2025,Customer 107,Uttar Pradesh,North,Office Supplies,Writing,Highlighter Pack,5,2878.34,0.25,379.80
+ORD-11056,20-Oct-2025,Customer 111,West Bengal,East,Technology,Phones,Budget Phone A2,6,26767.03,0.20,1834.11
+ORD-11057,22-Nov-2025,Customer 100,Goa,West,Furniture,Tables,Study Table,7,40229.12,0.25,614.94
+ORD-11058,20-Nov-2025,Customer 148,Gujarat,West,Office Supplies,Storage,Document Box,7,1791.48,0.05,444.41
+ORD-11059,06-Jan-2025,Customer 161,Karnataka,South,Furniture,Tables,Study Table,6,16736.09,0.00,2898.65
+ORD-11060,21-Nov-2025,Customer 162,Maharashtra,West,Technology,Electronics,LED Monitor 24,7,5630.43,0.05,1059.12
+ORD-11061,13-Jul-2025,Customer 067,Haryana,North,Technology,Phones,Budget Phone A2,5,8208.93,0.10,1162.52
+ORD-11062,02-Nov-2025,Customer 032,West Bengal,East,Office Supplies,Paper,Notebook Set,1,603.48,0.00,75.60
+ORD-11063,17-Apr-2025,Customer 101,Jharkhand,East,Technology,Accessories,Mechanical Keyboard,3,2600.03,0.30,95.71
+ORD-11064,03-Aug-2025,Customer 097,Jharkhand,East,Office Supplies,Paper,Printer Paper,2,957.89,0.00,198.68
+ORD-11065,20-Nov-2025,Customer 156,Punjab,North,Furniture,Tables,Study Table,3,10061.32,0.05,1522.36
+ORD-11066,11-May-2025,Customer 032,West Bengal,East,Technology,Accessories,Mechanical Keyboard,8,51764.10,0.00,10270.83
+ORD-11067,22-Apr-2025,Customer 008,Rajasthan,West,Furniture,Chairs,Ergonomic Chair,3,6929.26,0.20,254.01
+ORD-11068,17-Feb-2025,Customer 090,Punjab,North,Technology,Phones,Smartphone X1,3,4729.25,0.30,-48.54
+ORD-11069,09-May-2025,Customer 045,Uttar Pradesh,North,Office Supplies,Writing,Pencil Box,7,2626.99,0.25,410.03
+ORD-11070,16-Apr-2025,Customer 125,Rajasthan,West,Furniture,Storage,Drawer Unit,7,11915.34,0.15,902.77
+ORD-11071,18-Oct-2025,Customer 091,Tamil Nadu,South,Office Supplies,Storage,Pen Drive 64GB,6,2658.54,0.25,295.41
+ORD-11072,31-May-2025,Customer 155,Haryana,North,Furniture,Chairs,Study Chair,3,20751.15,0.15,1732.82
+ORD-11073,03-Jul-2025,Customer 063,Haryana,North,Office Supplies,Paper,A4 Paper Pack,3,1672.68,0.25,266.36
+ORD-11074,13-Jun-2025,Customer 177,Odisha,East,Technology,Electronics,Bluetooth Speaker,6,7397.90,0.20,427.21
+ORD-11075,15-Oct-2025,Customer 017,Bihar,East,Furniture,Tables,Study Table,8,36008.07,0.20,1896.10
+ORD-11076,10-Dec-2025,Customer 020,Karnataka,South,Office Supplies,Writing,Marker Set,4,558.94,0.15,153.91
+ORD-11077,13-Sep-2025,Customer 012,Tamil Nadu,South,Furniture,Tables,Laptop Table,6,16473.44,0.00,3037.87
+ORD-11078,02-May-2025,Customer 148,Delhi,North,Office Supplies,Paper,A4 Paper Pack,8,1410.14,0.20,233.40
+ORD-11079,01-Oct-2025,Customer 136,Bihar,East,Office Supplies,Paper,A4 Paper Pack,8,1879.08,0.25,109.67
+ORD-11080,21-May-2025,Customer 082,West Bengal,East,Office Supplies,Writing,Gel Pen Pack,2,697.97,0.25,135.59
+ORD-11081,21-Aug-2025,Customer 127,Haryana,North,Office Supplies,Paper,Sticky Notes,8,3492.62,0.25,362.01
+ORD-11082,15-Jun-2025,Customer 177,Jharkhand,East,Office Supplies,Writing,Gel Pen Pack,1,263.69,0.00,-12.87
+ORD-11083,03-Oct-2025,Customer 002,Tamil Nadu,South,Technology,Phones,Smartphone X1,4,15679.44,0.20,1173.44
+ORD-11084,19-Dec-2025,Customer 157,West Bengal,East,Office Supplies,Paper,A4 Paper Pack,1,856.66,0.00,183.16
+ORD-11085,17-Mar-2025,Customer 150,Karnataka,South,Office Supplies,Writing,Marker Set,3,1675.29,0.00,379.39
+ORD-11086,14-Jun-2025,Customer 124,Tamil Nadu,South,Furniture,Tables,Work Desk,4,15981.00,0.30,-125.39
+ORD-11087,16-Apr-2025,Customer 178,Goa,West,Technology,Accessories,Mechanical Keyboard,2,4945.42,0.10,705.91
+ORD-11088,17-Jul-2025,Customer 049,Odisha,East,Technology,Accessories,USB-C Hub,4,2794.11,0.10,369.56
+ORD-11089,02-Dec-2025,Customer 040,Kerala,South,Technology,Accessories,Wireless Mouse,6,26065.23,0.15,2721.73
+ORD-11090,07-Apr-2025,Customer 018,Jharkhand,East,Technology,Phones,5G Phone Pro,7,40038.86,0.10,5472.45
+ORD-11091,04-May-2025,Customer 005,Delhi,North,Office Supplies,Paper,Sticky Notes,2,401.56,0.00,171.24
+ORD-11092,02-Mar-2025,Customer 141,Telangana,South,Technology,Accessories,USB-C Hub,8,25418.04,0.30,91.56
+ORD-11093,28-Jan-2025,Customer 113,Odisha,East,Office Supplies,Storage,Document Box,3,912.33,0.25,109.10
+ORD-11094,07-Apr-2025,Customer 104,Delhi,North,Office Supplies,Paper,A4 Paper Pack,7,3571.27,0.25,346.17
+ORD-11095,26-Feb-2025,Customer 057,Gujarat,West,Furniture,Tables,Conference Table,7,14361.48,0.00,2620.19
+ORD-11096,14-Nov-2025,Customer 180,Jharkhand,East,Technology,Phones,5G Phone Pro,4,4327.66,0.00,811.64
+ORD-11097,29-Mar-2025,Customer 053,Karnataka,South,Office Supplies,Storage,File Folder,4,2318.18,0.15,421.91
+ORD-11098,19-Dec-2025,Customer 062,Haryana,North,Furniture,Tables,Laptop Table,1,1354.56,0.30,37.06
+ORD-11099,07-Jan-2025,Customer 171,Gujarat,West,Office Supplies,Writing,Gel Pen Pack,3,490.61,0.30,-44.26
+ORD-11100,05-Jan-2025,Customer 153,Kerala,South,Office Supplies,Storage,File Folder,3,2636.95,0.00,659.32
+ORD-11101,09-Jan-2025,Customer 146,Haryana,North,Office Supplies,Writing,Gel Pen Pack,8,4457.82,0.30,285.17
+ORD-11102,21-Jun-2025,Customer 116,Uttar Pradesh,North,Technology,Electronics,Webcam HD,3,15589.46,0.00,3071.00
+ORD-11103,30-Jun-2025,Customer 078,Kerala,South,Furniture,Tables,Laptop Table,8,17794.49,0.30,-383.66
+ORD-11104,30-Jul-2025,Customer 057,Punjab,North,Furniture,Storage,Wall Shelf,2,6611.02,0.00,1105.48
+ORD-11105,15-Feb-2025,Customer 050,Maharashtra,West,Office Supplies,Storage,File Folder,4,1660.86,0.25,161.41
+ORD-11106,14-Dec-2025,Customer 090,Karnataka,South,Furniture,Chairs,Visitor Chair,8,67649.02,0.05,9921.90
+ORD-11107,26-Dec-2025,Customer 088,Punjab,North,Office Supplies,Writing,Pencil Box,5,1668.23,0.00,486.19
+ORD-11108,17-Dec-2025,Customer 038,Jharkhand,East,Office Supplies,Storage,Pen Drive 64GB,5,851.78,0.00,238.24
+ORD-11109,31-May-2025,Customer 004,Telangana,South,Furniture,Chairs,Visitor Chair,3,9099.51,0.15,646.22
+ORD-11110,30-Jun-2025,Customer 170,Telangana,South,Technology,Phones,5G Phone Pro,2,1714.49,0.15,56.96
+ORD-11111,19-May-2025,Customer 037,Bihar,East,Technology,Accessories,Wireless Mouse,6,33040.55,0.05,5643.18
+ORD-11112,08-May-2025,Customer 174,Rajasthan,West,Office Supplies,Writing,Gel Pen Pack,5,908.12,0.30,181.09
+ORD-11113,12-Aug-2025,Customer 174,Karnataka,South,Office Supplies,Storage,File Folder,5,3546.88,0.15,568.90
+ORD-11114,13-Feb-2025,Customer 077,Punjab,North,Furniture,Chairs,Office Chair Basic,5,10162.75,0.10,1120.97
+ORD-11115,15-Sep-2025,Customer 176,Telangana,South,Furniture,Chairs,Study Chair,7,9550.74,0.30,-96.67
+ORD-11116,14-Oct-2025,Customer 007,Haryana,North,Office Supplies,Storage,Desk Organizer,8,2548.89,0.25,290.20
+ORD-11117,06-Oct-2025,Customer 145,Tamil Nadu,South,Technology,Phones,5G Phone Pro,4,13010.78,0.20,821.30
+ORD-11118,23-Sep-2025,Customer 118,Uttar Pradesh,North,Technology,Accessories,Wireless Mouse,7,22473.65,0.30,186.16
+ORD-11119,17-Oct-2025,Customer 124,West Bengal,East,Technology,Phones,5G Phone Pro,2,5268.41,0.00,1130.95
+ORD-11120,12-Dec-2025,Customer 164,Punjab,North,Technology,Phones,Smartphone X1,4,10344.13,0.30,-35.54
+ORD-11121,01-Jan-2025,Customer 040,Maharashtra,West,Office Supplies,Writing,Highlighter Pack,1,666.55,0.10,50.84
+ORD-11122,16-Aug-2025,Customer 101,Jharkhand,East,Furniture,Chairs,Office Chair Basic,4,8032.54,0.00,1525.71
+ORD-11123,07-Oct-2025,Customer 067,West Bengal,East,Technology,Accessories,Laptop Stand,8,46077.40,0.10,6302.46
+ORD-11124,03-Dec-2025,Customer 062,Telangana,South,Furniture,Storage,Bookshelf,7,16385.05,0.00,2873.66
+ORD-11125,29-Oct-2025,Customer 127,Gujarat,West,Furniture,Storage,Filing Cabinet,8,33643.94,0.15,2815.83
+ORD-11126,06-Aug-2025,Customer 038,Haryana,North,Furniture,Tables,Conference Table,7,46491.84,0.00,8359.88
+ORD-11127,30-Nov-2025,Customer 169,Bihar,East,Office Supplies,Storage,File Folder,7,529.76,0.15,-15.14
+ORD-11128,23-Mar-2025,Customer 092,Telangana,South,Technology,Accessories,Wireless Mouse,8,32581.14,0.30,109.36
+ORD-11129,16-Oct-2025,Customer 087,Rajasthan,West,Office Supplies,Writing,Pencil Box,2,423.87,0.05,69.36
+ORD-11130,27-Nov-2025,Customer 124,Telangana,South,Furniture,Chairs,Visitor Chair,5,42015.60,0.00,7662.69
+ORD-11131,25-Oct-2025,Customer 090,Karnataka,South,Office Supplies,Writing,Marker Set,5,744.50,0.20,133.00
+ORD-11132,14-Dec-2025,Customer 122,Karnataka,South,Technology,Phones,Smartphone X1,3,6131.65,0.00,1226.19
+ORD-11133,16-Jul-2025,Customer 108,Punjab,North,Technology,Electronics,Webcam HD,2,11245.73,0.05,1938.42
+ORD-11134,11-Jul-2025,Customer 156,Odisha,East,Technology,Electronics,Bluetooth Speaker,2,1834.05,0.00,352.78
+ORD-11135,09-Sep-2025,Customer 113,Bihar,East,Technology,Accessories,USB-C Hub,8,20809.78,0.10,2736.29
+ORD-11136,13-Jan-2025,Customer 162,Uttar Pradesh,North,Technology,Phones,Budget Phone A2,7,34147.63,0.10,4510.57
+ORD-11137,06-Feb-2025,Customer 088,Jharkhand,East,Technology,Phones,Budget Phone A2,1,2089.09,0.25,94.73
+ORD-11138,02-Jul-2025,Customer 159,Gujarat,West,Furniture,Storage,Wall Shelf,4,21539.68,0.30,-322.89
+ORD-11139,22-Sep-2025,Customer 077,Maharashtra,West,Technology,Accessories,Laptop Stand,7,40383.46,0.00,7987.22
+ORD-11140,29-May-2025,Customer 065,Jharkhand,East,Technology,Accessories,Wireless Mouse,1,3350.91,0.20,119.97
+ORD-11141,04-May-2025,Customer 133,Karnataka,South,Furniture,Tables,Work Desk,3,26253.89,0.00,4733.96
+ORD-11142,17-Jan-2025,Customer 087,Uttar Pradesh,North,Office Supplies,Writing,Gel Pen Pack,2,948.38,0.15,209.86
+ORD-11143,06-Dec-2025,Customer 016,Tamil Nadu,South,Office Supplies,Paper,Sticky Notes,1,155.37,0.20,125.11
+ORD-11144,10-Nov-2025,Customer 021,Goa,West,Office Supplies,Paper,A4 Paper Pack,6,3980.10,0.25,491.22
+ORD-11145,09-Aug-2025,Customer 123,Kerala,South,Technology,Accessories,USB-C Hub,2,1631.66,0.10,256.35
+ORD-11146,14-Jul-2025,Customer 175,Uttar Pradesh,North,Technology,Phones,Smartphone X1,1,4668.26,0.10,638.42
+ORD-11147,07-Aug-2025,Customer 141,Bihar,East,Furniture,Tables,Work Desk,7,47695.90,0.05,7018.28
+ORD-11148,30-Jan-2025,Customer 061,Maharashtra,West,Technology,Accessories,USB-C Hub,6,13153.81,0.20,905.53
+ORD-11149,08-Jan-2025,Customer 064,Goa,West,Technology,Electronics,LED Monitor 24,4,12383.12,0.00,2594.45
+ORD-11150,05-Nov-2025,Customer 168,West Bengal,East,Technology,Phones,Budget Phone A2,8,13979.54,0.00,2751.30
+ORD-11151,06-Oct-2025,Customer 053,Goa,West,Office Supplies,Paper,Printer Paper,8,4953.74,0.00,1285.38
+ORD-11152,10-Oct-2025,Customer 075,Kerala,South,Furniture,Storage,Drawer Unit,4,15842.73,0.15,1412.97
+ORD-11153,15-Nov-2025,Customer 125,Goa,West,Furniture,Tables,Laptop Table,2,2431.77,0.25,91.88
+ORD-11154,14-Mar-2025,Customer 010,Delhi,North,Technology,Phones,Budget Phone A2,4,8887.13,0.10,1109.22
+ORD-11155,29-Oct-2025,Customer 099,Goa,West,Furniture,Tables,Conference Table,2,2732.12,0.00,436.65
+ORD-11156,23-Jan-2025,Customer 058,Uttar Pradesh,North,Technology,Phones,5G Phone Pro,7,18758.64,0.25,675.77
+ORD-11157,28-Jun-2025,Customer 007,Rajasthan,West,Office Supplies,Paper,Printer Paper,1,621.53,0.00,184.00
+ORD-11158,30-Jan-2025,Customer 028,Punjab,North,Office Supplies,Writing,Marker Set,1,269.68,0.25,119.47
+ORD-11159,15-Jul-2025,Customer 120,Karnataka,South,Furniture,Storage,Drawer Unit,8,30640.21,0.15,2446.83
+ORD-11160,01-Jun-2025,Customer 087,Goa,West,Technology,Phones,5G Phone Pro,5,5382.51,0.10,791.76
+ORD-11161,08-Nov-2025,Customer 004,Karnataka,South,Technology,Electronics,Bluetooth Speaker,6,11519.55,0.15,1248.54
+ORD-11162,14-Aug-2025,Customer 003,Jharkhand,East,Office Supplies,Writing,Highlighter Pack,5,2712.59,0.30,221.62
+ORD-11163,09-Nov-2025,Customer 142,Telangana,South,Technology,Accessories,Laptop Stand,4,12279.77,0.00,2402.30
+ORD-11164,11-Sep-2025,Customer 033,Punjab,North,Technology,Accessories,Wireless Mouse,5,21856.33,0.15,2182.56
+ORD-11165,17-Sep-2025,Customer 113,Goa,West,Furniture,Chairs,Office Chair Basic,1,3014.85,0.00,466.89
+ORD-11166,09-Jan-2025,Customer 174,Punjab,North,Technology,Electronics,Webcam HD,1,5286.90,0.15,655.98
+ORD-11167,27-Feb-2025,Customer 131,Haryana,North,Furniture,Storage,Bookshelf,4,15711.57,0.00,2829.75
+ORD-11168,07-Aug-2025,Customer 073,Odisha,East,Technology,Phones,5G Phone Pro,6,24790.50,0.25,826.78
+ORD-11169,31-May-2025,Customer 160,Maharashtra,West,Technology,Accessories,Mechanical Keyboard,6,30506.75,0.20,2128.44
+ORD-11170,19-Apr-2025,Customer 081,Bihar,East,Technology,Accessories,USB-C Hub,5,30478.95,0.00,6001.29
+ORD-11171,25-Apr-2025,Customer 145,Haryana,North,Technology,Accessories,USB-C Hub,3,8730.96,0.00,1855.44
+ORD-11172,10-Apr-2025,Customer 148,Tamil Nadu,South,Furniture,Storage,Bookshelf,1,4154.78,0.30,-106.26
+ORD-11173,01-Mar-2025,Customer 178,Uttar Pradesh,North,Technology,Accessories,Wireless Mouse,6,9788.00,0.20,744.73
+ORD-11174,01-Dec-2025,Customer 124,Goa,West,Office Supplies,Writing,Pencil Box,6,872.08,0.00,343.69
+ORD-11175,28-Jul-2025,Customer 173,Goa,West,Office Supplies,Storage,Document Box,3,2265.54,0.10,553.44
+ORD-11176,16-Sep-2025,Customer 038,Maharashtra,West,Furniture,Tables,Laptop Table,6,21887.92,0.00,3917.87
+ORD-11177,11-Oct-2025,Customer 121,Kerala,South,Furniture,Chairs,Office Chair Basic,8,10567.96,0.00,1882.70
+ORD-11178,29-Sep-2025,Customer 100,Jharkhand,East,Technology,Phones,Wireless Earbuds,1,4702.27,0.00,852.22
+ORD-11179,22-Jun-2025,Customer 152,Tamil Nadu,South,Office Supplies,Paper,Printer Paper,4,2655.31,0.00,704.32
+ORD-11180,12-Aug-2025,Customer 075,Jharkhand,East,Furniture,Chairs,Ergonomic Chair,6,38742.16,0.25,709.39
+ORD-11181,09-Jul-2025,Customer 173,Kerala,South,Furniture,Chairs,Office Chair Basic,2,4775.20,0.00,881.99
+ORD-11182,19-Feb-2025,Customer 060,Telangana,South,Office Supplies,Storage,Desk Organizer,3,1267.62,0.15,338.08
+ORD-11183,02-Apr-2025,Customer 037,Uttar Pradesh,North,Office Supplies,Storage,File Folder,7,1648.03,0.25,150.10
+ORD-11184,26-May-2025,Customer 043,West Bengal,East,Furniture,Storage,Filing Cabinet,7,29395.82,0.20,1373.66
+ORD-11185,13-May-2025,Customer 156,Jharkhand,East,Office Supplies,Storage,Desk Organizer,8,2001.68,0.05,444.65
+ORD-11186,21-Jan-2025,Customer 139,Jharkhand,East,Technology,Electronics,Bluetooth Speaker,3,3581.48,0.05,486.46
+ORD-11187,24-Sep-2025,Customer 033,Rajasthan,West,Technology,Accessories,USB-C Hub,6,8451.98,0.25,372.65
+ORD-11188,12-Mar-2025,Customer 072,Telangana,South,Office Supplies,Paper,A4 Paper Pack,8,4529.74,0.30,328.16
+ORD-11189,19-Nov-2025,Customer 132,Jharkhand,East,Office Supplies,Paper,Notebook Set,2,557.18,0.20,29.84
+ORD-11190,13-Oct-2025,Customer 170,Odisha,East,Furniture,Storage,Drawer Unit,1,3664.28,0.20,108.91
+ORD-11191,23-Apr-2025,Customer 173,West Bengal,East,Furniture,Storage,Bookshelf,4,6802.87,0.25,208.36
+ORD-11192,12-Apr-2025,Customer 163,Rajasthan,West,Office Supplies,Storage,Document Box,8,4185.29,0.30,303.57
+ORD-11193,17-Apr-2025,Customer 046,Odisha,East,Furniture,Storage,Filing Cabinet,1,3211.38,0.30,-34.31
+ORD-11194,05-Sep-2025,Customer 136,West Bengal,East,Office Supplies,Writing,Highlighter Pack,7,3763.88,0.10,842.29
+ORD-11195,06-Oct-2025,Customer 124,Gujarat,West,Office Supplies,Paper,Sticky Notes,8,2891.89,0.25,363.28
+ORD-11196,06-Dec-2025,Customer 109,Uttar Pradesh,North,Technology,Phones,Smartphone X1,5,10967.76,0.30,12.93
+ORD-11197,05-Sep-2025,Customer 126,Jharkhand,East,Technology,Accessories,Mechanical Keyboard,2,4073.93,0.25,201.93
+ORD-11198,29-Jul-2025,Customer 016,Tamil Nadu,South,Furniture,Chairs,Ergonomic Chair,5,14804.13,0.10,1796.03
+ORD-11199,14-May-2025,Customer 014,Punjab,North,Office Supplies,Writing,Highlighter Pack,7,1964.56,0.30,149.04
+ORD-11200,29-Jul-2025,Customer 057,Delhi,North,Office Supplies,Writing,Marker Set,6,3610.43,0.00,964.96
+ORD-11201,11-Jan-2025,Customer 098,Gujarat,West,Furniture,Chairs,Ergonomic Chair,6,13247.28,0.00,2492.58
+ORD-11202,12-Apr-2025,Customer 041,Odisha,East,Furniture,Tables,Laptop Table,2,11355.24,0.10,1272.76
+ORD-11203,11-Oct-2025,Customer 064,Karnataka,South,Furniture,Chairs,Visitor Chair,3,19927.44,0.20,975.59
+ORD-11204,04-Jun-2025,Customer 007,Bihar,East,Technology,Phones,Smartphone X1,7,37028.54,0.00,7323.37
+ORD-11205,13-Jul-2025,Unknown,Goa,West,Furniture,Storage,Filing Cabinet,1,3325.17,0.00,673.65
+ORD-11206,05-Oct-2025,Customer 155,Karnataka,South,Technology,Electronics,Bluetooth Speaker,2,1715.79,0.25,-50.82
+ORD-11207,06-Aug-2025,Customer 132,Maharashtra,West,Technology,Electronics,Power Bank,4,18776.62,0.15,1992.95
+ORD-11208,08-Aug-2025,Customer 024,Bihar,East,Office Supplies,Storage,Desk Organizer,4,452.86,0.30,8.87
+ORD-11209,12-Sep-2025,Customer 101,Goa,West,Office Supplies,Writing,Highlighter Pack,8,2255.23,0.10,456.65
+ORD-11210,29-Apr-2025,Customer 115,Haryana,North,Furniture,Storage,Bookshelf,8,23581.40,0.00,4220.02
+ORD-11211,28-Mar-2025,Customer 054,Haryana,North,Office Supplies,Writing,Gel Pen Pack,5,1762.99,0.00,396.53
+ORD-11212,18-Oct-2025,Customer 060,Kerala,South,Furniture,Chairs,Ergonomic Chair,3,9124.34,0.30,-131.25
+ORD-11213,19-Dec-2025,Customer 145,West Bengal,East,Office Supplies,Storage,Desk Organizer,5,3264.29,0.05,696.67
+ORD-11214,01-May-2025,Customer 083,Tamil Nadu,South,Technology,Accessories,Wireless Mouse,8,24732.25,0.20,1841.53
+ORD-11215,07-Jan-2025,Customer 042,Telangana,South,Furniture,Tables,Work Desk,2,9040.95,0.00,1597.54
+ORD-11216,17-Nov-2025,Customer 135,Jharkhand,East,Technology,Phones,Wireless Earbuds,2,1389.84,0.25,50.96
+ORD-11217,31-May-2025,Customer 174,Kerala,South,Technology,Electronics,Power Bank,7,5275.90,0.00,1039.70
+ORD-11218,10-Jul-2025,Customer 133,Delhi,North,Furniture,Tables,Laptop Table,3,6220.36,0.10,788.02
+ORD-11219,31-Aug-2025,Customer 003,Delhi,North,Office Supplies,Storage,Document Box,6,4789.17,0.05,1104.74
+ORD-11220,07-Apr-2025,Customer 052,Punjab,North,Office Supplies,Paper,Notebook Set,8,1079.83,0.00,257.19
+ORD-11221,04-Feb-2025,Customer 090,Jharkhand,East,Furniture,Tables,Laptop Table,2,2347.30,0.30,-12.54
+ORD-11222,06-Jun-2025,Customer 095,Goa,West,Office Supplies,Writing,Gel Pen Pack,4,915.47,0.25,127.84
+ORD-11223,24-May-2025,Customer 046,Karnataka,South,Office Supplies,Writing,Marker Set,2,1131.93,0.00,372.30
+ORD-11224,12-Nov-2025,Customer 172,Delhi,North,Furniture,Chairs,Office Chair Basic,7,22462.73,0.15,1965.17
+ORD-11225,11-Nov-2025,Customer 038,Kerala,South,Technology,Phones,Smartphone X1,4,25746.82,0.00,5252.46
+ORD-11226,14-Aug-2025,Customer 109,Maharashtra,West,Technology,Accessories,USB-C Hub,6,6907.00,0.00,1294.27
+ORD-11227,28-Dec-2025,Customer 122,Kerala,South,Office Supplies,Storage,File Folder,4,1617.96,0.25,255.85
+ORD-11228,21-Nov-2025,Customer 072,Haryana,North,Office Supplies,Writing,Highlighter Pack,2,1447.73,0.10,420.55
+ORD-11229,13-Oct-2025,Customer 112,Maharashtra,West,Office Supplies,Writing,Pencil Box,8,4419.88,0.15,851.12
+ORD-11230,20-Apr-2025,Customer 158,Haryana,North,Technology,Phones,5G Phone Pro,8,33090.05,0.20,2371.14
+ORD-11231,03-Jan-2025,Customer 151,Rajasthan,West,Office Supplies,Storage,Document Box,1,192.47,0.20,35.11
+ORD-11232,18-Jan-2025,Customer 166,Uttar Pradesh,North,Office Supplies,Paper,Sticky Notes,5,2461.45,0.00,714.83
+ORD-11233,30-Jan-2025,Customer 147,Delhi,North,Furniture,Tables,Conference Table,1,7621.74,0.15,574.60
+ORD-11234,15-Jan-2025,Customer 157,Bihar,East,Furniture,Tables,Conference Table,8,20443.31,0.00,3568.96
+ORD-11235,23-Nov-2025,Customer 016,Maharashtra,West,Furniture,Storage,Filing Cabinet,3,5538.10,0.00,890.31
+ORD-11236,11-Dec-2025,Customer 082,Punjab,North,Technology,Electronics,Bluetooth Speaker,4,17998.44,0.00,3559.53
+ORD-11237,08-Dec-2025,Customer 172,Gujarat,West,Furniture,Storage,Drawer Unit,1,6402.19,0.25,91.97
+ORD-11238,08-Nov-2025,Customer 051,West Bengal,East,Technology,Phones,Budget Phone A2,5,4154.56,0.30,-88.55
+ORD-11239,27-Aug-2025,Customer 146,Tamil Nadu,South,Technology,Electronics,LED Monitor 24,5,9151.30,0.20,548.84
+ORD-11240,06-Apr-2025,Customer 082,Odisha,East,Furniture,Tables,Work Desk,2,15884.92,0.05,2398.12
+ORD-11241,15-Dec-2025,Customer 165,Bihar,East,Technology,Phones,Budget Phone A2,6,18198.13,0.10,2410.62
+ORD-11242,13-Mar-2025,Customer 145,Rajasthan,West,Furniture,Storage,Filing Cabinet,5,6868.07,0.15,489.34
+ORD-11243,13-May-2025,Customer 179,Punjab,North,Office Supplies,Paper,Notebook Set,5,3821.50,0.05,1060.85
+ORD-11244,25-Sep-2025,Customer 116,Telangana,South,Office Supplies,Paper,Printer Paper,6,2661.75,0.20,464.63
+ORD-11245,11-Aug-2025,Customer 089,Gujarat,West,Technology,Electronics,Power Bank,3,10314.28,0.10,1510.93
+ORD-11246,28-Aug-2025,Customer 067,Uttar Pradesh,North,Technology,Accessories,Mechanical Keyboard,2,6618.56,0.10,835.48
+ORD-11247,13-Jul-2025,Customer 169,West Bengal,East,Technology,Electronics,Webcam HD,8,9669.94,0.20,646.24
+ORD-11248,01-Sep-2025,Customer 086,West Bengal,East,Office Supplies,Writing,Gel Pen Pack,6,4757.10,0.00,1250.09
+ORD-11249,12-Jan-2025,Customer 113,Punjab,North,Furniture,Chairs,Office Chair Basic,6,15073.59,0.30,-214.88
+ORD-11250,11-Jul-2025,Customer 154,Telangana,South,Furniture,Storage,Wall Shelf,7,30831.33,0.10,3486.22
+ORD-11251,17-Sep-2025,Customer 028,Punjab,North,Office Supplies,Writing,Pencil Box,5,508.08,0.10,172.40
+ORD-11252,02-Nov-2025,Customer 179,Tamil Nadu,South,Office Supplies,Storage,Desk Organizer,1,203.78,0.05,151.80
+ORD-11253,08-Jun-2025,Customer 037,Rajasthan,West,Furniture,Chairs,Office Chair Basic,6,44105.05,0.00,8051.79
+ORD-11254,30-Mar-2025,Customer 078,Haryana,North,Office Supplies,Storage,Document Box,8,613.25,0.05,79.88
+ORD-11255,12-Oct-2025,Customer 096,Uttar Pradesh,North,Technology,Phones,Budget Phone A2,4,11635.14,0.10,1487.74
+ORD-11256,30-Aug-2025,Customer 172,Bihar,East,Office Supplies,Paper,Sticky Notes,2,699.08,0.25,129.85
+ORD-11257,10-Mar-2025,Customer 103,Karnataka,South,Office Supplies,Writing,Marker Set,2,636.50,0.20,158.61
+ORD-11258,28-Oct-2025,Customer 007,Punjab,North,Office Supplies,Writing,Pencil Box,7,2900.66,0.20,432.29
+ORD-11259,23-Jul-2025,Customer 020,Goa,West,Furniture,Chairs,Office Chair Basic,6,24154.72,0.00,4374.39
+ORD-11260,16-Jul-2025,Customer 168,Goa,West,Technology,Accessories,Wireless Mouse,1,1443.86,0.25,-43.57
+ORD-11261,04-Aug-2025,Customer 046,Gujarat,West,Office Supplies,Paper,Sticky Notes,5,1390.16,0.30,6.52
+ORD-11262,21-Feb-2025,Customer 168,Gujarat,West,Office Supplies,Writing,Gel Pen Pack,8,4743.09,0.20,756.12
+ORD-11263,06-Jan-2025,Customer 125,Karnataka,South,Technology,Phones,5G Phone Pro,3,9074.60,0.25,385.01
+ORD-11264,19-Aug-2025,Customer 129,Karnataka,South,Office Supplies,Paper,Sticky Notes,7,2044.65,0.00,597.37
+ORD-11265,30-Sep-2025,Customer 099,Haryana,North,Office Supplies,Writing,Highlighter Pack,6,977.96,0.05,357.42
+ORD-11266,26-Aug-2025,Customer 073,Odisha,East,Technology,Phones,5G Phone Pro,5,6461.54,0.30,16.68
+ORD-11267,22-Jun-2025,Customer 173,West Bengal,East,Technology,Accessories,Laptop Stand,6,4754.05,0.20,273.34
+ORD-11268,16-Jun-2025,Customer 077,Uttar Pradesh,North,Technology,Electronics,Bluetooth Speaker,3,5401.78,0.25,86.77
+ORD-11269,13-Feb-2025,Customer 137,West Bengal,East,Furniture,Chairs,Visitor Chair,1,4007.92,0.25,9.81
+ORD-11270,23-Aug-2025,Customer 177,Jharkhand,East,Technology,Electronics,Webcam HD,8,21762.61,0.15,2193.56
+ORD-11271,08-Nov-2025,Customer 164,Goa,West,Furniture,Storage,Wall Shelf,1,1437.59,0.20,-38.93
+ORD-11272,12-Jan-2025,Customer 048,Jharkhand,East,Office Supplies,Writing,Gel Pen Pack,6,4286.56,0.15,763.70
+ORD-11273,05-Jun-2025,Customer 158,Delhi,North,Furniture,Storage,Bookshelf,7,54987.96,0.10,6340.63
+ORD-11274,19-Dec-2025,Customer 048,Goa,West,Furniture,Chairs,Visitor Chair,8,17271.79,0.25,248.21
+ORD-11275,28-Jul-2025,Customer 054,Delhi,North,Furniture,Storage,Bookshelf,7,49361.33,0.15,4017.75
+ORD-11276,26-Apr-2025,Customer 005,Bihar,East,Office Supplies,Writing,Marker Set,5,1195.93,0.20,82.70
+ORD-11277,01-Sep-2025,Customer 143,Punjab,North,Technology,Phones,5G Phone Pro,8,26303.37,0.20,1851.19
+ORD-11278,13-Sep-2025,Customer 054,Bihar,East,Office Supplies,Storage,Pen Drive 64GB,6,4300.97,0.05,1055.36
+ORD-11279,15-Oct-2025,Customer 089,Gujarat,West,Furniture,Tables,Laptop Table,7,10161.75,0.00,1860.65
+ORD-11280,28-Aug-2025,Customer 008,Odisha,East,Technology,Electronics,Bluetooth Speaker,5,9570.29,0.20,658.28
+ORD-11281,12-Jan-2025,Customer 073,Maharashtra,West,Furniture,Storage,Filing Cabinet,6,25227.72,0.25,560.48
+ORD-11282,22-Apr-2025,Customer 055,Kerala,South,Technology,Accessories,Wireless Mouse,7,29549.14,0.00,5813.10
+ORD-11283,30-Jun-2025,Customer 056,Jharkhand,East,Furniture,Tables,Study Table,3,16158.65,0.25,294.79
+ORD-11284,30-Sep-2025,Customer 101,Tamil Nadu,South,Furniture,Tables,Laptop Table,6,29357.52,0.20,1468.43
+ORD-11285,01-Apr-2025,Customer 103,Goa,West,Office Supplies,Storage,Desk Organizer,5,2651.02,0.30,143.01
+ORD-11286,01-Dec-2025,Customer 108,Uttar Pradesh,North,Technology,Electronics,Bluetooth Speaker,8,36047.24,0.00,7181.45
+ORD-11287,29-Jul-2025,Customer 006,Tamil Nadu,South,Office Supplies,Paper,A4 Paper Pack,4,774.52,0.00,240.76
+ORD-11288,04-Nov-2025,Customer 168,Punjab,North,Furniture,Chairs,Office Chair Basic,8,41843.40,0.20,1977.62
+ORD-11289,31-Dec-2025,Customer 052,Karnataka,South,Furniture,Storage,Filing Cabinet,3,12880.61,0.10,1403.32
+ORD-11290,17-Dec-2025,Customer 155,Punjab,North,Technology,Accessories,USB-C Hub,1,1330.45,0.30,-3.14
+ORD-11291,23-Mar-2025,Customer 063,Telangana,South,Technology,Phones,Wireless Earbuds,2,8578.22,0.20,689.78
+ORD-11292,29-Aug-2025,Customer 099,Telangana,South,Furniture,Chairs,Ergonomic Chair,1,4889.84,0.25,173.67
+ORD-11293,23-Jul-2025,Customer 011,Odisha,East,Office Supplies,Storage,File Folder,1,439.59,0.00,73.40
+ORD-11294,15-May-2025,Customer 149,Haryana,North,Office Supplies,Writing,Pencil Box,7,5079.81,0.00,1337.38
+ORD-11295,05-Sep-2025,Customer 054,Jharkhand,East,Furniture,Chairs,Visitor Chair,7,42034.57,0.05,6299.21
+ORD-11296,14-May-2025,Customer 088,Delhi,North,Technology,Accessories,USB-C Hub,8,33125.86,0.30,226.23
+ORD-11297,13-Mar-2025,Customer 038,Uttar Pradesh,North,Furniture,Tables,Laptop Table,8,45264.75,0.15,3757.00
+ORD-11298,23-Mar-2025,Customer 146,Uttar Pradesh,North,Technology,Phones,5G Phone Pro,6,24684.30,0.15,2636.89
+ORD-11299,30-May-2025,Customer 099,Uttar Pradesh,North,Office Supplies,Writing,Pencil Box,5,981.55,0.05,158.10
+ORD-11300,13-May-2025,Customer 094,Delhi,North,Furniture,Chairs,Ergonomic Chair,4,21846.95,0.05,3242.64
+ORD-11301,13-Jul-2025,Customer 125,Karnataka,South,Office Supplies,Writing,Marker Set,6,2918.20,0.20,443.33
+ORD-11302,03-Feb-2025,Customer 088,Gujarat,West,Furniture,Tables,Study Table,8,65581.14,0.00,11845.10
+ORD-11303,02-Jul-2025,Customer 128,Goa,West,Office Supplies,Paper,Notebook Set,3,924.66,0.00,294.90
+ORD-11304,24-Jul-2025,Customer 161,Telangana,South,Furniture,Storage,Bookshelf,4,22344.79,0.20,1156.66
+ORD-11305,29-Jan-2025,Customer 115,Jharkhand,East,Office Supplies,Writing,Gel Pen Pack,5,2668.47,0.00,860.08
+ORD-11306,08-Nov-2025,Customer 069,Goa,West,Technology,Accessories,Wireless Mouse,4,5668.24,0.30,-49.08
+ORD-11307,01-Feb-2025,Customer 054,Delhi,North,Technology,Electronics,Webcam HD,2,11315.67,0.05,1900.79
+ORD-11308,21-Nov-2025,Customer 019,Goa,West,Technology,Electronics,Power Bank,8,10159.74,0.00,1988.47
+ORD-11309,21-Apr-2025,Customer 154,Rajasthan,West,Office Supplies,Paper,Printer Paper,2,940.70,0.00,273.56
+ORD-11310,15-Aug-2025,Customer 165,Kerala,South,Office Supplies,Writing,Gel Pen Pack,7,5502.94,0.00,1593.62
+ORD-11311,10-Sep-2025,Customer 162,Rajasthan,West,Furniture,Storage,Wall Shelf,1,2372.72,0.25,65.85
+ORD-11312,30-Sep-2025,Customer 064,Gujarat,West,Office Supplies,Writing,Pencil Box,5,3655.75,0.15,610.58
+ORD-11313,13-Jun-2025,Customer 131,Punjab,North,Office Supplies,Writing,Highlighter Pack,8,1302.68,0.05,319.43
+ORD-11314,15-Aug-2025,Customer 088,Kerala,South,Office Supplies,Paper,Notebook Set,2,1196.05,0.15,120.98
+ORD-11315,29-Sep-2025,Customer 121,Gujarat,West,Technology,Phones,Budget Phone A2,4,8437.99,0.15,821.70
+ORD-11316,29-Mar-2025,Customer 041,Jharkhand,East,Furniture,Tables,Study Table,3,10058.50,0.10,1220.66
+ORD-11317,15-May-2025,Customer 121,Gujarat,West,Office Supplies,Writing,Pencil Box,7,4280.42,0.15,716.07
+ORD-11318,06-Aug-2025,Customer 145,Uttar Pradesh,North,Office Supplies,Paper,Sticky Notes,6,3244.33,0.20,474.58
+ORD-11319,13-Mar-2025,Customer 117,Karnataka,South,Office Supplies,Paper,Printer Paper,1,699.45,0.20,139.91
+ORD-11320,11-Jul-2025,Customer 007,Delhi,North,Technology,Electronics,Webcam HD,4,15435.72,0.15,1532.91
+ORD-11321,24-Feb-2025,Customer 020,Punjab,North,Office Supplies,Storage,Pen Drive 64GB,4,2055.00,0.30,260.21
+ORD-11322,19-Jul-2025,Customer 177,Goa,West,Technology,Accessories,Laptop Stand,8,49774.90,0.00,10022.47
+ORD-11323,09-Jul-2025,Customer 113,Kerala,South,Technology,Accessories,Laptop Stand,1,1030.68,0.20,18.40
+ORD-11324,19-Mar-2025,Customer 151,Uttar Pradesh,North,Technology,Accessories,Wireless Mouse,2,3873.55,0.25,223.09
+ORD-11325,30-May-2025,Customer 177,Uttar Pradesh,North,Furniture,Chairs,Ergonomic Chair,8,21166.82,0.15,1759.86
+ORD-11326,20-Apr-2025,Customer 048,Bihar,East,Technology,Phones,5G Phone Pro,6,24988.32,0.30,184.29
+ORD-11327,12-Jan-2025,Customer 036,Punjab,North,Office Supplies,Paper,Printer Paper,6,1800.66,0.15,269.91
+ORD-11328,31-Jan-2025,Customer 132,Jharkhand,East,Furniture,Tables,Conference Table,7,52411.14,0.00,9513.61
+ORD-11329,09-Sep-2025,Customer 073,Haryana,North,Technology,Electronics,Power Bank,1,5013.42,0.20,420.57
+ORD-11330,20-Sep-2025,Customer 023,Punjab,North,Furniture,Chairs,Ergonomic Chair,2,17597.95,0.00,3175.25
+ORD-11331,27-Aug-2025,Customer 116,telangana,South,Furniture,Storage,Filing Cabinet,2,10775.25,0.25,264.83
+ORD-11332,21-Dec-2025,Customer 111,Maharashtra,West,Furniture,Tables,Work Desk,3,15007.56,0.20,739.35
+ORD-11333,26-Apr-2025,Customer 083,Bihar,East,Office Supplies,Writing,Highlighter Pack,1,443.57,0.25,-63.35
+ORD-11334,22-Oct-2025,Customer 091,Tamil Nadu,South,Technology,Accessories,Wireless Mouse,6,20453.65,0.10,2826.03
+ORD-11335,21-Jan-2025,Customer 033,Maharashtra,West,Technology,Phones,Budget Phone A2,5,8766.01,0.00,1761.22
+ORD-11336,06-Aug-2025,Customer 070,Haryana,North,Technology,Accessories,Mechanical Keyboard,4,16262.53,0.10,2148.14
+ORD-11337,12-Jul-2025,Customer 007,Goa,West,Technology,Accessories,USB-C Hub,3,12159.63,0.30,-29.66
+ORD-11338,16-Apr-2025,Customer 098,Telangana,South,Furniture,Storage,Filing Cabinet,7,7760.97,0.30,-140.61
+ORD-11339,06-Nov-2025,Customer 092,Jharkhand,East,Technology,Phones,Smartphone X1,3,15264.95,0.00,3158.76
+ORD-11340,18-Sep-2025,Customer 029,Punjab,North,Office Supplies,Paper,Notebook Set,2,1177.33,0.20,171.31
+ORD-11341,08-Jun-2025,Customer 017,Telangana,South,Technology,Phones,Wireless Earbuds,7,21152.52,0.00,4195.63
+ORD-11342,09-Jan-2025,Customer 071,Tamil Nadu,South,Furniture,Tables,Study Table,2,9410.06,0.25,254.90
+ORD-11343,13-Mar-2025,Customer 178,Punjab,North,Technology,Phones,Budget Phone A2,3,11327.49,0.05,1901.82
+ORD-11344,03-Aug-2025,Customer 045,Kerala,South,Technology,Phones,Budget Phone A2,5,10709.56,0.25,479.19
+ORD-11345,16-Jan-2025,Customer 128,Gujarat,West,Furniture,Chairs,Office Chair Basic,6,48340.82,0.00,8770.12
+ORD-11346,19-Jun-2025,Customer 008,Rajasthan,West,Office Supplies,Storage,Pen Drive 64GB,5,2949.85,0.00,893.94
+ORD-11347,26-Sep-2025,Customer 044,Kerala,South,Technology,Electronics,Webcam HD,7,5090.91,0.25,253.91
+ORD-11348,01-Sep-2025,Customer 119,Gujarat,West,Technology,Phones,5G Phone Pro,4,4937.27,0.00,894.43
+ORD-11349,12-May-2025,Customer 033,Tamil Nadu,South,Furniture,Tables,Study Table,1,2540.41,0.30,57.79
+ORD-11350,21-Sep-2025,Customer 034,Punjab,North,Furniture,Storage,Drawer Unit,2,8868.17,0.10,930.04
+ORD-11351,23-Feb-2025,Customer 064,Maharashtra,West,Technology,Electronics,LED Monitor 24,2,8262.26,0.15,939.74
+ORD-11352,24-Sep-2025,Customer 133,Goa,West,Office Supplies,Paper,Sticky Notes,6,2782.83,0.30,276.95
+ORD-11353,17-Jul-2025,Customer 162,Delhi,North,Technology,Accessories,Laptop Stand,6,27209.82,0.00,5501.47
+ORD-11354,15-Jun-2025,Customer 003,West Bengal,East,Technology,Phones,Smartphone X1,3,11828.32,0.10,1515.68
+ORD-11355,15-May-2025,Customer 140,Kerala,South,Office Supplies,Storage,Document Box,7,2839.57,0.10,599.27
+ORD-11356,07-Sep-2025,Customer 141,Telangana,South,Technology,Electronics,Bluetooth Speaker,6,15139.64,0.05,2477.16
+ORD-11357,14-Jan-2025,Customer 140,Telangana,South,Furniture,Chairs,Visitor Chair,5,6769.27,0.20,320.83
+ORD-11358,27-Jun-2025,Customer 079,Maharashtra,West,Technology,Phones,Wireless Earbuds,2,2375.94,0.15,153.85
+ORD-11359,15-Dec-2025,Customer 057,Telangana,South,Office Supplies,Writing,Gel Pen Pack,3,1096.19,0.10,149.69
+ORD-11360,05-Jul-2025,Customer 139,Bihar,East,Technology,Electronics,Bluetooth Speaker,3,11894.16,0.00,2450.89
+ORD-11361,13-Nov-2025,Customer 058,Goa,West,Furniture,Storage,Filing Cabinet,6,13898.02,0.05,2082.34
+ORD-11362,25-Sep-2025,Customer 108,Maharashtra,West,Furniture,Storage,Wall Shelf,4,10115.06,0.25,128.17
+ORD-11363,09-Dec-2025,Customer 080,Kerala,South,Office Supplies,Storage,Document Box,5,341.23,0.15,112.28
+ORD-11364,24-Mar-2025,Customer 063,Rajasthan,West,Furniture,Storage,Bookshelf,1,6735.81,0.05,908.04
+ORD-11365,06-Feb-2025,Customer 058,Karnataka,South,Technology,Electronics,Power Bank,7,26020.36,0.10,3592.99
+ORD-11366,17-Jun-2025,Customer 003,Delhi,North,Technology,Accessories,USB-C Hub,3,5397.39,0.05,945.40
+ORD-11367,05-Mar-2025,Customer 139,Jharkhand,East,Furniture,Tables,Work Desk,8,16861.67,0.30,-301.21
+ORD-11368,11-May-2025,Customer 029,Telangana,South,Technology,Phones,5G Phone Pro,5,31035.15,0.00,6178.59
+ORD-11369,15-Feb-2025,Customer 155,Telangana,South,Office Supplies,Writing,Marker Set,8,5053.95,0.10,1092.08
+ORD-11370,24-May-2025,Customer 071,Haryana,North,Technology,Electronics,Power Bank,7,22019.97,0.00,4491.63
+ORD-11371,12-Feb-2025,Customer 004,Delhi,North,Furniture,Storage,Drawer Unit,7,38094.47,0.15,3258.73
+ORD-11372,23-Feb-2025,Customer 125,Jharkhand,East,Furniture,Tables,Study Table,8,17560.96,0.25,347.07
+ORD-11373,02-Mar-2025,Customer 062,Karnataka,South,Furniture,Storage,Wall Shelf,1,5892.97,0.00,1078.88
+ORD-11374,14-Aug-2025,Customer 118,Haryana,North,Furniture,Storage,Wall Shelf,7,47618.58,0.00,8534.70
+ORD-11375,18-Jun-2025,Customer 026,West Bengal,East,Office Supplies,Writing,Pencil Box,1,244.29,0.05,-53.74
+ORD-11376,08-May-2025,Customer 071,Uttar Pradesh,North,Office Supplies,Paper,Printer Paper,5,1496.17,0.20,189.00
+ORD-11377,08-Oct-2025,Customer 166,Telangana,South,Technology,Accessories,Laptop Stand,5,24500.24,0.05,4034.04
+ORD-11378,12-Nov-2025,Customer 138,Punjab,North,Furniture,Tables,Laptop Table,3,23366.44,0.00,4166.06
+ORD-11379,24-Nov-2025,Customer 048,Goa,West,Office Supplies,Storage,File Folder,2,966.96,0.20,174.28
+ORD-11380,23-Mar-2025,Customer 044,Karnataka,South,Technology,Accessories,Laptop Stand,6,11149.35,0.30,150.73
+ORD-11381,03-Oct-2025,Customer 046,Punjab,North,Technology,Phones,Budget Phone A2,5,25377.67,0.15,2662.84
+ORD-11382,16-Mar-2025,Customer 088,Karnataka,South,Furniture,Storage,Bookshelf,4,5784.71,0.25,185.76
+ORD-11383,12-Feb-2025,Customer 083,Haryana,North,Office Supplies,Paper,Printer Paper,2,1313.94,0.15,267.01
+ORD-11384,25-Apr-2025,Customer 178,Goa,West,Office Supplies,Paper,Notebook Set,3,1599.79,0.15,178.29
+ORD-11385,11-Jan-2025,Customer 157,Goa,West,Technology,Phones,Wireless Earbuds,4,5246.83,0.15,476.28
+ORD-11386,18-Jul-2025,Customer 067,Kerala,South,Office Supplies,Storage,Document Box,7,1220.98,0.25,174.01
+ORD-11387,02-Jul-2025,Customer 020,Haryana,North,Office Supplies,Storage,Pen Drive 64GB,6,4417.43,0.10,906.58
+ORD-11388,23-Feb-2025,Customer 155,Maharashtra,West,Office Supplies,Writing,Marker Set,3,334.38,0.30,36.91
+ORD-11389,13-Aug-2025,Customer 128,Goa,West,Furniture,Tables,Study Table,8,26393.93,0.00,4741.36
+ORD-11390,02-Sep-2025,Customer 038,Tamil Nadu,South,Technology,Phones,Smartphone X1,8,31537.42,0.00,6402.49
+ORD-11391,09-Sep-2025,Customer 111,Odisha,East,Furniture,Tables,Work Desk,5,28220.39,0.00,5130.94
+ORD-11392,19-Oct-2025,Customer 131,Maharashtra,West,Office Supplies,Paper,Printer Paper,5,2216.31,0.15,363.80
+ORD-11393,03-Jul-2025,Customer 151,Tamil Nadu,South,Technology,Electronics,Bluetooth Speaker,1,6331.15,0.00,1317.14
+ORD-11394,04-Nov-2025,Customer 046,Jharkhand,East,Technology,Electronics,LED Monitor 24,7,31098.10,0.10,4137.96
+ORD-11395,21-Oct-2025,Customer 180,Gujarat,West,Technology,Electronics,Power Bank,2,5248.77,0.00,1156.83
+ORD-11396,01-Jul-2025,Customer 046,Karnataka,South,Office Supplies,Storage,Desk Organizer,3,2208.06,0.05,449.50
+ORD-11397,28-Nov-2025,Customer 163,Tamil Nadu,South,Office Supplies,Storage,File Folder,3,792.76,0.10,104.84
+ORD-11398,31-Jan-2025,Customer 175,Odisha,East,Office Supplies,Storage,File Folder,5,483.64,0.00,251.10
+ORD-11399,18-Oct-2025,Customer 145,Haryana,North,Technology,Phones,Smartphone X1,1,545.28,0.25,-26.05
+ORD-11400,19-Feb-2025,Customer 175,Haryana,North,Technology,Phones,Budget Phone A2,8,12631.41,0.10,1819.43
+ORD-11401,16-Aug-2025,Customer 008,Maharashtra,West,Furniture,Tables,Study Table,8,50993.47,0.05,7523.30
+ORD-11402,27-Mar-2025,Customer 026,West Bengal,East,Furniture,Chairs,Visitor Chair,5,9693.06,0.05,1451.35
+ORD-11403,01-Mar-2025,Customer 172,Kerala,South,Technology,Electronics,Webcam HD,6,27627.06,0.25,1104.19
+ORD-11404,26-Jul-2025,Customer 011,Odisha,East,Office Supplies,Paper,Sticky Notes,3,580.34,0.30,-25.47
+ORD-11405,16-Oct-2025,Customer 148,Haryana,North,Technology,Accessories,USB-C Hub,2,7277.40,0.20,608.27
+ORD-11406,30-May-2025,Customer 161,Karnataka,South,Furniture,Storage,Filing Cabinet,5,12944.64,0.30,-130.92
+ORD-11407,15-Oct-2025,Customer 124,Tamil Nadu,South,Office Supplies,Storage,Desk Organizer,2,675.05,0.30,-37.58
+ORD-11408,15-Feb-2025,Customer 079,Karnataka,South,Office Supplies,Storage,Pen Drive 64GB,1,512.59,0.00,68.66
+ORD-11409,30-Jun-2025,Customer 138,Gujarat,West,Furniture,Tables,Work Desk,1,1332.99,0.15,82.35
+ORD-11410,20-Feb-2025,Customer 118,West Bengal,East,Furniture,Tables,Study Table,6,39077.04,0.00,7132.43
+ORD-11411,24-Nov-2025,Customer 157,Gujarat,West,Technology,Electronics,Bluetooth Speaker,2,6777.96,0.30,-36.49
+ORD-11412,04-Dec-2025,Customer 085,Bihar,East,Technology,Accessories,Wireless Mouse,2,12122.02,0.00,2521.46
+ORD-11413,15-Nov-2025,Customer 172,Gujarat,West,Office Supplies,Paper,Sticky Notes,7,776.06,0.05,215.78
+ORD-11414,06-Jan-2025,Customer 107,Delhi,North,Office Supplies,Writing,Highlighter Pack,4,2893.48,0.15,506.27
+ORD-11415,22-Jul-2025,Customer 011,Tamil Nadu,South,Office Supplies,Storage,Document Box,8,2302.47,0.00,675.06
+ORD-11416,08-Sep-2025,Customer 018,Telangana,South,Technology,Electronics,Webcam HD,2,8796.13,0.00,1677.37
+ORD-11417,27-May-2025,Customer 073,Gujarat,West,Furniture,Tables,Study Table,5,32443.03,0.25,516.11
+ORD-11418,23-Sep-2025,Customer 010,Delhi,North,Technology,Phones,Wireless Earbuds,4,17391.40,0.30,15.15
+ORD-11419,22-Dec-2025,Customer 018,Kerala,South,Office Supplies,Paper,A4 Paper Pack,4,333.56,0.25,-36.53
+ORD-11420,22-Jan-2025,Customer 170,Goa,West,Office Supplies,Writing,Highlighter Pack,8,3838.49,0.30,349.55
+ORD-11421,09-May-2025,Customer 045,Rajasthan,West,Technology,Electronics,Bluetooth Speaker,1,3799.10,0.05,598.27
+ORD-11422,26-Apr-2025,Customer 048,Haryana,North,Office Supplies,Paper,A4 Paper Pack,7,2330.19,0.15,426.60
+ORD-11423,05-Nov-2025,Customer 136,Rajasthan,West,Office Supplies,Writing,Pencil Box,1,794.50,0.00,304.88
+ORD-11424,01-Oct-2025,Customer 005,Uttar Pradesh,North,Furniture,Chairs,Office Chair Basic,6,9854.17,0.00,1752.13
+ORD-11425,04-Jan-2025,Customer 098,Gujarat,West,Furniture,Tables,Laptop Table,1,2319.19,0.00,461.69
+ORD-11426,07-Feb-2025,Customer 006,Bihar,East,Furniture,Chairs,Study Chair,2,15769.25,0.00,2853.74
+ORD-11427,02-May-2025,Customer 175,Kerala,South,Furniture,Storage,Wall Shelf,5,24554.09,0.25,417.62
+ORD-11428,04-Jul-2025,Customer 058,Kerala,South,Furniture,Tables,Laptop Table,8,37522.77,0.05,5523.62
+ORD-11429,11-Jan-2025,Customer 111,Maharashtra,West,Office Supplies,Writing,Marker Set,7,5980.31,0.05,1448.47
+ORD-11430,06-Mar-2025,Customer 161,Uttar Pradesh,North,Technology,Phones,Wireless Earbuds,7,30378.46,0.10,4218.09
+ORD-11431,18-Jul-2025,Customer 119,Haryana,North,Technology,Accessories,Laptop Stand,7,16519.73,0.30,69.13
+ORD-11432,31-Dec-2025,Customer 049,Haryana,North,Office Supplies,Storage,Desk Organizer,3,1817.40,0.10,329.78
+ORD-11433,07-Jun-2025,Customer 055,Rajasthan,West,Furniture,Storage,Drawer Unit,8,32856.02,0.25,544.94
+ORD-11434,22-Apr-2025,Customer 087,Karnataka,South,Technology,Accessories,USB-C Hub,8,14651.15,0.25,441.63
+ORD-11435,17-Jul-2025,Customer 146,Gujarat,West,Furniture,Tables,Conference Table,3,25670.86,0.00,4667.31
+ORD-11436,12-Jun-2025,Customer 120,Gujarat,West,Office Supplies,Writing,Marker Set,7,3474.81,0.10,663.25
+ORD-11437,03-Feb-2025,Customer 022,Goa,West,Furniture,Chairs,Study Chair,6,35764.76,0.00,6479.94
+ORD-11438,19-Mar-2025,Customer 055,Bihar,East,Technology,Phones,5G Phone Pro,2,4027.37,0.20,210.64
+ORD-11439,21-Feb-2025,Customer 144,Uttar Pradesh,North,Technology,Accessories,Mechanical Keyboard,8,26261.85,0.05,4348.40
+ORD-11440,10-Oct-2025,Customer 161,Gujarat,West,Technology,Phones,Wireless Earbuds,2,5681.06,0.25,131.03
+ORD-11441,19-Feb-2025,Customer 011,Kerala,South,Furniture,Tables,Study Table,2,12118.54,0.05,1885.69
+ORD-11442,05-Jul-2025,Customer 113,Maharashtra,West,Office Supplies,Storage,Desk Organizer,8,1758.20,0.00,512.98
+ORD-11443,05-Feb-2025,Customer 046,Gujarat,West,Office Supplies,Paper,Printer Paper,6,4837.17,0.00,1447.17
+ORD-11444,14-Jun-2025,Customer 075,Maharashtra,West,Furniture,Tables,Conference Table,3,5577.07,0.10,752.14
+ORD-11445,06-Jul-2025,Customer 065,Odisha,East,Office Supplies,Writing,Pencil Box,1,442.45,0.25,170.00
+ORD-11446,03-May-2025,Customer 180,Rajasthan,West,Furniture,Tables,Work Desk,8,28004.68,0.05,4023.17
+ORD-11447,20-Jun-2025,Customer 142,Uttar Pradesh,North,Office Supplies,Storage,Desk Organizer,6,475.33,0.30,78.66
+ORD-11448,14-Jul-2025,Customer 100,West Bengal,East,Technology,Electronics,LED Monitor 24,1,2210.15,0.10,395.46
+ORD-11449,25-Jun-2025,Customer 034,West Bengal,East,Furniture,Storage,Drawer Unit,7,20044.25,0.25,328.50
+ORD-11450,10-Dec-2025,Customer 022,Haryana,North,Furniture,Tables,Study Table,8,27174.41,0.00,4990.60
+ORD-11451,01-Apr-2025,Customer 096,Punjab,North,Furniture,Chairs,Ergonomic Chair,3,22465.70,0.00,3982.14
+ORD-11452,24-Jun-2025,Customer 159,Odisha,East,Technology,Electronics,Webcam HD,2,11418.81,0.00,2337.31
+ORD-11453,29-Jan-2025,Customer 036,Odisha,East,Technology,Electronics,Power Bank,6,31557.38,0.00,6338.49
+ORD-11454,18-Dec-2025,Customer 060,Rajasthan,West,Furniture,Chairs,Office Chair Basic,2,13604.77,0.00,2329.78
+ORD-11455,12-Apr-2025,Customer 127,Rajasthan,West,Technology,Electronics,LED Monitor 24,7,16117.60,0.10,2170.13
+ORD-11456,12-Apr-2025,Customer 068,Gujarat,West,Office Supplies,Storage,File Folder,8,1853.13,0.00,417.97
+ORD-11457,14-Jun-2025,Customer 059,Maharashtra,West,Furniture,Storage,Filing Cabinet,2,13364.74,0.00,2330.82
+ORD-11458,09-May-2025,Customer 089,Gujarat,West,Office Supplies,Writing,Highlighter Pack,7,2947.97,0.15,470.39
+ORD-11459,10-Sep-2025,Customer 089,Goa,West,Furniture,Chairs,Visitor Chair,5,35417.59,0.00,6269.95
+ORD-11460,05-Jul-2025,Customer 179,West Bengal,East,Furniture,Tables,Work Desk,8,10348.73,0.00,1819.19
+ORD-11461,03-Jun-2025,Customer 126,Odisha,East,Furniture,Tables,Laptop Table,8,22362.36,0.30,-366.53
+ORD-11462,29-Jul-2025,Customer 120,Punjab,North,Furniture,Storage,Filing Cabinet,4,23121.55,0.00,4207.69
+ORD-11463,17-Jul-2025,Customer 108,Telangana,South,Office Supplies,Storage,Desk Organizer,8,3425.96,0.05,905.01
+ORD-11464,05-Dec-2025,Customer 045,Bihar,East,Technology,Accessories,Laptop Stand,3,9049.88,0.00,1794.23
+ORD-11465,22-Jun-2025,Customer 051,Maharashtra,West,Furniture,Chairs,Office Chair Basic,2,1858.97,0.30,-111.91
+ORD-11466,07-Sep-2025,Customer 156,Bihar,East,Office Supplies,Storage,Document Box,5,3231.78,0.15,524.46
+ORD-11467,24-Feb-2025,Customer 018,Kerala,South,Office Supplies,Storage,Document Box,8,6997.30,0.00,1924.05
+ORD-11468,02-Aug-2025,Customer 126,Punjab,North,Furniture,Tables,Laptop Table,3,6371.80,0.30,-22.71
+ORD-11469,03-Nov-2025,Customer 034,Bihar,East,Office Supplies,Writing,Marker Set,6,2686.39,0.25,342.44
+ORD-11470,17-Aug-2025,Customer 095,Uttar Pradesh,North,Office Supplies,Writing,Highlighter Pack,3,804.40,0.30,-36.48
+ORD-11471,01-Sep-2025,Customer 072,Tamil Nadu,South,Technology,Phones,5G Phone Pro,4,19132.31,0.20,1371.39
+ORD-11472,09-Nov-2025,Customer 061,Punjab,North,Furniture,Tables,Study Table,3,23572.88,0.10,2760.83
+ORD-11473,17-Mar-2025,Customer 160,Goa,West,Office Supplies,Writing,Pencil Box,1,337.04,0.00,66.57
+ORD-11474,19-Jul-2025,Customer 050,Punjab,North,Technology,Electronics,Power Bank,8,28526.54,0.15,2820.03
+ORD-11475,17-Jun-2025,Customer 092,Delhi,North,Furniture,Chairs,Visitor Chair,1,4405.70,0.10,538.59
+ORD-11476,02-Oct-2025,Customer 052,Kerala,South,Furniture,Chairs,Visitor Chair,6,23907.08,0.20,1220.50
+ORD-11477,16-Sep-2025,Customer 073,Rajasthan,West,Furniture,Storage,Bookshelf,5,31143.04,0.10,3587.09
+ORD-11478,15-Jan-2025,Customer 167,Goa,West,Office Supplies,Storage,File Folder,5,1396.55,0.05,296.71
+ORD-11479,01-Nov-2025,Customer 114,Tamil Nadu,South,Technology,Accessories,Laptop Stand,3,7404.24,0.25,290.92
+ORD-11480,28-Oct-2025,Customer 033,Punjab,North,Technology,Accessories,Laptop Stand,5,6464.95,0.30,-19.33
+ORD-11481,12-Jul-2025,Customer 141,Punjab,North,Technology,Phones,Smartphone X1,6,18743.69,0.20,1226.08
+ORD-11482,15-Jun-2025,Customer 145,Bihar,East,Furniture,Tables,Laptop Table,7,18118.71,0.00,3295.84
+ORD-11483,22-Feb-2025,Customer 134,West Bengal,East,Furniture,Chairs,Office Chair Basic,8,13585.98,0.00,2359.06
+ORD-11484,25-Jun-2025,Customer 018,Gujarat,West,Furniture,Chairs,Ergonomic Chair,6,42163.64,0.20,2007.66
+ORD-11485,08-Oct-2025,Customer 023,Kerala,South,Office Supplies,Writing,Gel Pen Pack,7,3183.03,0.25,420.71
+ORD-11486,13-Oct-2025,Customer 007,Rajasthan,West,Office Supplies,Paper,A4 Paper Pack,5,1332.32,0.00,407.79
+ORD-11487,20-Mar-2025,Customer 036,West Bengal,East,Furniture,Storage,Filing Cabinet,8,11020.89,0.10,1329.45
+ORD-11488,09-Dec-2025,Customer 179,Punjab,North,Office Supplies,Storage,Desk Organizer,1,423.64,0.15,75.45
+ORD-11489,09-Sep-2025,Customer 002,Tamil Nadu,South,Furniture,Chairs,Ergonomic Chair,4,20877.90,0.10,2336.04
+ORD-11490,18-Nov-2025,Customer 160,Haryana,North,Furniture,Chairs,Visitor Chair,3,12249.34,0.05,1815.47
+ORD-11491,12-May-2025,Customer 086,Uttar Pradesh,North,Office Supplies,Writing,Highlighter Pack,7,1329.85,0.10,346.92
+ORD-11492,05-Nov-2025,Customer 167,Rajasthan,West,Office Supplies,Storage,Desk Organizer,2,858.73,0.30,-40.09
+ORD-11493,16-Apr-2025,Customer 052,Karnataka,South,Technology,Phones,Smartphone X1,1,2947.22,0.00,647.72
+ORD-11494,28-Apr-2025,Customer 146,Uttar Pradesh,North,Furniture,Storage,Filing Cabinet,5,20076.59,0.00,3649.27
+ORD-11495,16-Apr-2025,Customer 128,Delhi,North,Technology,Electronics,LED Monitor 24,5,3665.53,0.05,700.46
+ORD-11496,03-Sep-2025,Customer 144,Karnataka,South,Furniture,Tables,Conference Table,7,39196.04,0.05,5882.41
+ORD-11497,06-Jan-2025,Customer 071,Uttar Pradesh,North,Furniture,Chairs,Ergonomic Chair,2,16196.83,0.00,2944.06
